@@ -1,6 +1,58 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"> 
   <modelVersion>4.0.0</modelVersion>
+    
+  <scm>
+  	<connection>scm:git:ssh://github.com/gsantosgo/gazetteergate.git</connection>		
+  	<developerConnection>scm:git:ssh://github.com/gsantosgo/gazetteergate.git</developerConnection>		
+  	<url>https://github.com/gsantosgo/gazetteergate</url>	
+  </scm>
+  	   
   <groupId>es.uem.gazetteer</groupId>
   <artifactId>gazetter-gate</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <name>Gazetteer for Gate-Annie</name>
+  <description>Generate lists of files for GATE-ANNIE gazetteer using Geonames like toponym’s source and JRCNames entities (Wikipedia)</description>
+  
+	<!-- Licencias -->  
+	<licenses>
+  		<license>			
+  			<name>Apache License 2.0</name>			
+  			<url>http://www.apache.org/licenses/LICENSE-2.0</url>		
+  		</license>	
+  	</licenses>
+  	
+	<!-- Developer Info -->	
+	<developers>
+		<developer>			
+			<name>Guillermo Santos</name>			
+			<email>gsantosgo@yahoo.es</email>			
+			<organization></organization>			
+			<url>http://about.me/gsantosgo</url>		
+		</developer>
+	</developers>
+	
+	<!-- Properties -->
+	<properties>
+	</properties>
+ 
+ 
+ 
+ 	<!-- External project dependencies -->
+ 	<dependencies> 		
+ 		<dependency>
+    		<groupId>com.google.guava</groupId>
+    		<artifactId>guava</artifactId>
+    		<version>11.0.2</version>  
+ 		</dependency>
+ 		
+		<!-- Testing -->		
+		<dependency>			
+			<groupId>junit</groupId>			
+			<artifactId>junit</artifactId>			
+			<version>4.7</version>			
+			<scope>test</scope><!-- don't copy to jar --> 
+		</dependency> 		
+ 	</dependencies>
+ 
+  
 </project>
