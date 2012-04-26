@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='geoparsergwt'>
+  <!-- Inherit the core Web Toolkit stuff.                        -->
+  <inherits name='com.google.gwt.user.User'/>
+
+  <!-- Inherit the default GWT style sheet.  You can change       -->
+  <!-- the theme of your GWT application by uncommenting          -->
+  <!-- any one of the following lines.                            -->
+  <!--<inherits name='com.google.gwt.user.theme.clean.Clean'/>-->  
+  <inherits name='com.google.gwt.user.theme.standard.Standard'/>
+  <!-- <inherits name='com.google.gwt.user.theme.chrome.Chrome'/> -->
+  <!-- <inherits name='com.google.gwt.user.theme.dark.Dark'/>     -->
+
+  <!-- Other module inherits                                      -->
+  <!-- Google Maps API v3.0 para G.W.T.-->
+  <inherits name='com.google.gwt.maps.Maps' />
+  <inherits name="com.google.gwt.resources.Resources" />
+  <inherits name="com.google.gwt.json.JSON" />
+
+  <!-- SmartGWT   
+  <inherits name='com.smartgwt.SmartGwt' />
+  <inherits name='com.smartclient.theme.silverwave.SilverWave' />-->
+  
+  
+  <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+
+  <!-- Specify the app entry point class. -->                       
+  <entry-point class='es.uem.geoparser.client.GeoParserGWT'/>  
+
+  <!-- Specify the paths for translatable code                    -->
+  <source path='client'/>
+  <source path='shared'/>
+
+</module>

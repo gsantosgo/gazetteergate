@@ -33,9 +33,10 @@ public class JRCNamesLineProcessor implements LineProcessor<String> {
 	
 	/*
 	 * =============================================== 
-	 * Información estructura del fichero JRCNames 
-	 * Formato UTF-8 
-	 * Columnas id;type;language;name Each line
+	 * Información estructura del fichero JRCNames
+	 * Information  
+	 * Format UTF-8 
+	 * Columns id;type;language;name Each line
 	 * 
 	 * consists of four tab-separated columns containing: name ID; type;
 	 * language; and name variant (see Table 2). Name ID is a unique numerical

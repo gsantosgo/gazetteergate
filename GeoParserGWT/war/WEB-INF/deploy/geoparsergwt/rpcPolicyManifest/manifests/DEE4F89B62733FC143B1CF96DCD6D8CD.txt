@@ -1,0 +1,2 @@
+serviceClass: es.uem.geoparser.client.GeoRSSService
+path: 8DEBEFB204342CCF1CE2A7ED9C2DFF69.gwt.rpc

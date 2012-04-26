@@ -1,0 +1,271 @@
+				<g:HTMLPanel>
+					<g:MenuBar ui:field="menuBar">
+						<g:MenuItem text="ABC.es">
+							<g:MenuBar vertical="true">
+								<g:MenuItem text="Portada" title="ABC.es.- Portada" ui:field="abcPortadaMenuItem" />
+								<!-- http://www.abc.es/rss/ticker.aspx?sc=abcPortada-->
+								<g:MenuItem text="Última Hora" title="ABC.es - Última hora" ui:field="abcUltimaHoraMenuItem"/>
+								<!-- http://www.abc.es/rss/ticker.aspx?sc=abc_ultima -->
+							</g:MenuBar>
+						</g:MenuItem>
+						<g:MenuItem text="ElMundo.es">
+							<g:MenuBar vertical="true">
+								<g:MenuItem text="Portada" title="ElMundo.es - Portada" ui:field="elmundoPortadaMenuItem"/>
+								<!--  http://elmundo.feedsportal.com/elmundo/rss/portada.xml -->
+								<g:MenuItem text="España" title="ElMundo.es - España" ui:field="elmundoEspanaMenuItem"/>
+								<!-- http://elmundo.feedsportal.com/elmundo/rss/espana.xml -->
+								<g:MenuItem text="Internacional" title="ElMundo.es - Internacional" ui:field="elmundoInternacionalMenuItem"/>
+								<!-- http://elmundo.feedsportal.com/elmundo/rss/internacional.xml-->
+							</g:MenuBar>
+						</g:MenuItem>
+						<g:MenuItem text="EL PAÍS.com">
+							<g:MenuBar vertical="true">
+								<g:MenuItem text="Portada" title="ELPAIS.com - Portada" ui:field="elpaisPortadaMenuItem"/>
+								<!-- http://ep00.epimg.net/rss/elpais/portada.xml-->
+								<g:MenuItem text="Últimas Noticias" title="ELPAIS.com - Últimas Noticias" ui:field="elpaisUltimaNoticiasMenuItem" />
+								<!-- http://ep00.epimg.net/rss/tags/ultimas_noticias.xml -->
+								<g:MenuItem text="Internacional" title="ELPAIS.com - Internacional" ui:field="elpaisInternacionalMenuItem"/>
+								<!-- http://ep00.epimg.net/rss/internacional/portada.xml -->								
+							</g:MenuBar>
+						</g:MenuItem>
+						<g:MenuItem text="RSS" title="Introduzca Fuente RSS" ui:field="rssMenuItem"/>
+						
+						
+						<!--  Ayuda -->						
+						<g:MenuItem ui:field="helpMenuItem" title="Ayuda">Ayuda</g:MenuItem>
+						<g:MenuItem ui:field="aboutMenuItem" title="Acerca de">Acerca de </g:MenuItem>
+					</g:MenuBar>
+				</g:HTMLPanel>
+				
+				
+				
+	http://code.google.com/p/birt-gwt-viewer/source/browse/trunk/SimpleGWT/SimpleGWT/src/example/client/presenter/MenuBarPresenterImpl.java?r=3
+	@UiField 
+	MenuItem abcPortadaMenuItem;
+	@UiField 
+	MenuItem abcUltimaHoraMenuItem;
+	@UiField 
+	MenuItem elmundoPortadaMenuItem;
+	@UiField 
+	MenuItem elmundoEspanaMenuItem;
+	@UiField 
+	MenuItem elmundoInternacionalMenuItem;
+	@UiField 
+	MenuItem elpaisPortadaMenuItem;
+	@UiField 
+	MenuItem elpaisUltimaNoticiasMenuItem;
+	@UiField 
+	MenuItem elpaisInternacionalMenuItem;
+	@UiField 
+	MenuItem rssMenuItem;
+				
+				
+/* Copyright (c) 2012 Guillermo Santos 
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+package es.uem.geoparser.client;
+
+import java.util.ArrayList;
+
+import com.google.gwt.event.shared.HandlerManager;
+import com.google.gwt.event.shared.HandlerRegistration;
+
+import es.uem.geoparser.client.event.ShowNavigationItemEvent;
+import es.uem.geoparser.client.event.ShowNavigationItemHandler;
+import es.uem.geoparser.client.presenter.DirectionsPanelPresenter;
+import es.uem.geoparser.client.presenter.EventClosurePresenter;
+import es.uem.geoparser.client.presenter.EventSimplePresenter;
+import es.uem.geoparser.client.presenter.GeoRSSSimplePresenter;
+import es.uem.geoparser.client.presenter.GeocoderSimplePresenter;
+import es.uem.geoparser.client.presenter.NavigationPresenter;
+import es.uem.geoparser.client.presenter.PolygonSimplePresenter;
+import es.uem.geoparser.client.presenter.Presenter;
+import es.uem.geoparser.client.presenter.SimplePresenter;
+import es.uem.geoparser.client.view.DirectionsPanelView;
+import es.uem.geoparser.client.view.EventClosureView;
+import es.uem.geoparser.client.view.EventSimpleView;
+import es.uem.geoparser.client.view.GeoRSSSimpleView;
+import es.uem.geoparser.client.view.GeocoderSimpleView;
+import es.uem.geoparser.client.view.PolygonSimpleView;
+import es.uem.geoparser.client.view.SimpleView;
+import es.uem.geoparser.client.view.View;
+
+/**
+ * Controlador para escuchar eventos y tomar acciones relevantes.
+ *  
+ * @author Guillermo Santos (gsantosgo@yahoo.es)
+ */
+public class AppController implements Presenter<AppController.Display> {
+
+	public static interface Display extends View {
+		void setNavigationDisplay(NavigationPresenter.Display display);
+		void setContentDisplay(View display);
+	}
+
+	final private static String SAMPLE_SIMPLE = "simple";
+	final private static String SAMPLE_SIMPLE_EVENT = "event-simple";
+	final private static String SAMPLE_EVENT_CLOSURE = "event-closure";
+	final private static String SAMPLE_POLYGON_SIMPLE = "polygon-simple";
+	final private static String SAMPLE_GEOCODER_SIMPLE = "geocoder-simple";
+	final private static String SAMPLE_DIRECTIONS_PANEL = "directions-panel";
+	final private static String SAMPLE_GEORSS_SIMPLE = "georss-simple";
+
+	private final GeoRSSServiceAsync geoRSSService;
+	final private AppController.Display display;
+	final private HandlerManager eventBus;
+	final private ArrayList<HandlerRegistration> handlers;
+
+	private Presenter<?> lastPresenter = null;
+
+	/**
+	 * Controlador 
+	 * 
+	 * @param geoRSSService Servicio GeoRSS
+	 * @param display
+	 * @param eventBus
+	 */
+	public AppController(GeoRSSServiceAsync geoRSSService, Display display,
+			HandlerManager eventBus) {
+		super();
+		this.geoRSSService = geoRSSService;
+		this.display = display;
+		this.eventBus = eventBus;
+		handlers = new ArrayList<HandlerRegistration>();
+	}
+
+	/**
+	 * @param navPresenter
+	 */
+	public void setNavigationPresenter(final NavigationPresenter navPresenter) {
+		display.setNavigationDisplay(navPresenter.getDisplay());
+	}
+
+	/**
+	 * 
+	 */
+	@Override
+	public void bind() {
+		handlers.add(eventBus.addHandler(ShowNavigationItemEvent.TYPE,
+				new ShowNavigationItemHandler() {			
+					@Override
+					public void onShowNavigationItem(
+							ShowNavigationItemEvent event) {
+						final String title = event.getNavigationItem()
+								.getName().toLowerCase();
+						Presenter<?> presenter = null;
+						if (SAMPLE_SIMPLE.equals(title)) {
+							presenter = showSimple();
+						} else if (SAMPLE_SIMPLE_EVENT.equals(title)) {
+							presenter = showSimpleEvent();
+						} else if (SAMPLE_EVENT_CLOSURE.equals(title)) {
+							presenter = showEventClosure();
+						} else if (SAMPLE_POLYGON_SIMPLE.equals(title)) {
+							presenter = showPolygonSimple();
+						} else if (SAMPLE_GEOCODER_SIMPLE.equals(title)) {
+							presenter = showGeocoderSimple();
+						} else if (SAMPLE_DIRECTIONS_PANEL.equals(title)) {
+							presenter = showDirectionsPanel();
+						} else if (SAMPLE_GEORSS_SIMPLE.equals(title)) {
+							presenter = showGeoRSSSimple();
+						}
+
+						if (presenter != null) {
+							if (lastPresenter != null) {
+								lastPresenter.release();
+							}
+							lastPresenter = presenter;
+						}
+					}
+				}));
+	}
+
+	@Override
+	public Display getDisplay() {
+		return display;
+	}
+
+	@Override
+	public HandlerManager getEventBus() {
+		return eventBus;
+	}
+
+	@Override
+	public void release() {
+		for (HandlerRegistration handler : handlers) {
+			handler.removeHandler();
+		}
+	}
+
+	private SimplePresenter showSimple() {
+		final SimplePresenter.Display view = new SimpleView();
+		display.setContentDisplay(view);
+		final SimplePresenter presenter = new SimplePresenter(view, eventBus);
+		presenter.bind();
+		return presenter;
+	}
+
+	private EventSimplePresenter showSimpleEvent() {
+		final EventSimplePresenter.Display view = new EventSimpleView();
+		display.setContentDisplay(view);
+		final EventSimplePresenter presenter = new EventSimplePresenter(view,
+				eventBus);
+		presenter.bind();
+		return presenter;
+	}
+
+	private EventClosurePresenter showEventClosure() {
+		final EventClosurePresenter.Display view = new EventClosureView();
+		display.setContentDisplay(view);
+		final EventClosurePresenter presenter = new EventClosurePresenter(view,
+				eventBus);
+		presenter.bind();
+		return presenter;
+	}
+
+	private PolygonSimplePresenter showPolygonSimple() {
+		final PolygonSimplePresenter.Display view = new PolygonSimpleView();
+		display.setContentDisplay(view);
+		final PolygonSimplePresenter presenter = new PolygonSimplePresenter(
+				view);
+		presenter.bind();
+		return presenter;
+	}
+
+	private GeocoderSimplePresenter showGeocoderSimple() {
+		final GeocoderSimplePresenter.Display view = new GeocoderSimpleView();
+		display.setContentDisplay(view);
+		final GeocoderSimplePresenter presenter = new GeocoderSimplePresenter(
+				view);
+		presenter.bind();
+		return presenter;
+	}
+
+	private DirectionsPanelPresenter showDirectionsPanel() {
+		final DirectionsPanelPresenter.Display view = new DirectionsPanelView();
+		display.setContentDisplay(view);
+		final DirectionsPanelPresenter presenter = new DirectionsPanelPresenter(
+				view);
+		presenter.bind();
+		return presenter;
+	}
+
+	private GeoRSSSimplePresenter showGeoRSSSimple() {
+		final GeoRSSSimplePresenter.Display view = new GeoRSSSimpleView();
+		display.setContentDisplay(view);
+		final GeoRSSSimplePresenter presenter = new GeoRSSSimplePresenter(
+				geoRSSService, view, eventBus);
+		presenter.bind();
+		return presenter;
+	}
+}				

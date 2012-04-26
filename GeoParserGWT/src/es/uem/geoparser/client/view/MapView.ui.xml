@@ -1,0 +1,115 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">	
+	<ui:Image field="image" src="images/globe-vista-64x64.png"/>			
+	<ui:style>				 
+		.fullscreen {
+			height: 100%;		
+			width: 100%;							
+		}		
+		
+		.header {
+			background-color: #6694E3; 
+			font-size: 1.5em;
+			padding: 0.1em; 
+		}
+		
+		.headerimage {				  
+		}
+						
+		.contentNews {			
+			border-left: 2px solid #6694E3;
+		}
+		
+
+		.sourceblock {
+			background: #E3E9FF;
+			border: 1px solid black;
+			margin: 0.1em;
+			padding: 0.5em;
+		}
+                	
+		.sourcelink {
+			height: 1.5em;
+			line-height: 1.5em;
+		}
+                	
+		.label {
+			width: 8em;
+			display: inline-block;
+		}
+	</ui:style>	
+	<g:HTMLPanel addStyleNames="{style.fullscreen}">
+		<g:DockLayoutPanel unit='EM' addStyleNames="{style.fullscreen}">
+			<g:north size='5'>
+				<g:HTMLPanel styleName="{style.header}">
+					&nbsp;&nbsp; 								
+					<g:Image altText="Geolocalización Noticas"
+						addStyleNames="{style.headerimage}" 
+						ui:field="headerImage" 
+						resource="{image}"/>
+						<span>Geolocalización de Noticias</span>						
+				</g:HTMLPanel>
+			</g:north>			
+			<!-- menu -->
+			<g:north size='1.7'>
+				<g:HTMLPanel>
+					<g:MenuBar ui:field="menuBar">
+						<g:MenuItem text="ABC.es">
+							<g:MenuBar vertical="true">
+								<g:MenuItem text="Portada" title="ABC.es.- Portada" ui:field="abcPortadaMenuItem" />
+								<!-- http://www.abc.es/rss/ticker.aspx?sc=abcPortada-->
+								<g:MenuItem text="Última Hora" title="ABC.es - Última hora" ui:field="abcUltimaHoraMenuItem"/>
+								<!-- http://www.abc.es/rss/ticker.aspx?sc=abc_ultima -->
+							</g:MenuBar>
+						</g:MenuItem>
+						<g:MenuItem text="ElMundo.es">
+							<g:MenuBar vertical="true">
+								<g:MenuItem text="Portada" title="ElMundo.es - Portada" ui:field="elmundoPortadaMenuItem"/>
+								<!--  http://elmundo.feedsportal.com/elmundo/rss/portada.xml -->
+								<g:MenuItem text="España" title="ElMundo.es - España" ui:field="elmundoEspanaMenuItem"/>
+								<!-- http://elmundo.feedsportal.com/elmundo/rss/espana.xml -->
+								<g:MenuItem text="Internacional" title="ElMundo.es - Internacional" ui:field="elmundoInternacionalMenuItem"/>
+								<!-- http://elmundo.feedsportal.com/elmundo/rss/internacional.xml-->
+							</g:MenuBar>
+						</g:MenuItem>
+						<g:MenuItem text="EL PAIS.com">
+							<g:MenuBar vertical="true">
+								<g:MenuItem text="Portada" title="ELPAIS.com - Portada" ui:field="elpaisPortadaMenuItem"/>
+								<!-- http://ep00.epimg.net/rss/elpais/portada.xml-->
+								<g:MenuItem text="Últimas Noticias" title="ELPAIS.com - Últimas Noticias" ui:field="elpaisUltimaNoticiasMenuItem" />
+								<!-- http://ep00.epimg.net/rss/tags/ultimas_noticias.xml -->
+								<g:MenuItem text="Internacional" title="ELPAIS.com - Internacional" ui:field="elpaisInternacionalMenuItem"/>
+								<!-- http://ep00.epimg.net/rss/internacional/portada.xml -->								
+							</g:MenuBar>
+						</g:MenuItem>
+						<g:MenuItem text="RSS" title="Introduzca Fuente RSS" ui:field="rssMenuItem"/>
+						
+						
+						<!--  Ayuda -->						
+						<g:MenuItem ui:field="helpMenuItem" title="Ayuda">Ayuda</g:MenuItem>
+						<g:MenuItem ui:field="aboutMenuItem" title="Acerca de">Acerca de </g:MenuItem>
+					</g:MenuBar>
+				</g:HTMLPanel>								
+			</g:north>
+			<g:center size="80">
+		        <g:HTMLPanel>
+        	        <div class="{style.sourceblock}">
+            	            <span class="{style.label}">Fuente RSS:</span><g:Label ui:field="fuenteRSSLabel" addStyleNames="{style.label}" /><br />
+                	        <span class="{style.label}">Enlace RSS:</span><g:Anchor ui:field="fuenteRSSLink" addStyleNames="{style.sourcelink}" /><br />
+							<span class="{style.label}">Detalle RSS:</span><g:Label ui:field="fuenteRSSDetailLabel" addStyleNames="{style.label}" /><br />
+                	</div>                
+                	<g:SimplePanel ui:field="mapWrapper" />								
+        		</g:HTMLPanel>			
+			</g:center>
+			
+			<g:east size="20">
+				<g:SimplePanel ui:field="contentNews" addStyleNames="{style.contentNews}">
+					<g:FlowPanel ui:field="newsList"/>
+				</g:SimplePanel>
+			</g:east>
+					
+		</g:DockLayoutPanel>
+	</g:HTMLPanel>
+</ui:UiBinder> 
+

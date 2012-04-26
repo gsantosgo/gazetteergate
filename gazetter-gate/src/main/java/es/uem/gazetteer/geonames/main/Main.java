@@ -22,20 +22,21 @@ import es.uem.gazetteer.jrc.lineprocessor.JRCNamesLineProcessor;
  */
 public class Main {
 	
+	final static String LANGUAGE = "es"; 
 	final static String EXTENSION = ".lst";  
 	
 	@SuppressWarnings("serial")
 	final static Map<String, String> filters = new HashMap<String, String>() { 
 	{		
-	    put("A", "Country_State_Region");
-	    put("H", "Stream_Lake");
-	    put("L", "Parks_Area");
-	    put("P", "City_Village");
-	    put("R", "Road_RailRoad");
-	    put("S", "Spot_Building_Farm");
-	    put("T", "Mountain_Hill_Rock");
-	    put("U", "Undersea");
-	    put("V", "Forest_Heath");	    	    
+	    put("A", "A_Country_State_Region");
+	    put("H", "H_Stream_Lake");
+	    put("L", "L_Parks_Area");
+	    put("P", "P_City_Village");
+	    put("R", "R_Road_RailRoad");
+	    put("S", "S_Spot_Building_Farm");
+	    put("T", "T_Mountain_Hill_Rock");
+	    put("U", "U_Undersea");
+	    put("V", "V_Forest_Heath");	    	    
 	}};	
 	
 	/**
@@ -45,8 +46,8 @@ public class Main {
 	 *      
 	 * @param args
 	 */
-	public static void main(String[] args) {						
-		String inputFileNamePath = "src/main/resources/entities";
+	public static void main(String[] args) {		
+		String inputFileNamePath = "c:\\geonames\\allCountries.txt";
 		String outputDirectoryNamePath = "src/main/resources";
 		
 		
@@ -59,15 +60,17 @@ public class Main {
 		Preconditions.checkArgument(inputFile.exists(), "File does not exist: %s", inputFile);		
 		Preconditions.checkArgument(outputDirectory.exists(), "Directory does not exist: %s", outputDirectory);		 
 		
-		 Set<String> filterSet = filters.keySet();
-		 Iterator<String> iterator = filterSet.iterator();
-		 String filter = ""; 
-		 while (iterator.hasNext()) {
+				
+		Set<String> filterSet = filters.keySet();
+		Iterator<String> iterator = filterSet.iterator();
+		String filter = ""; 
+		while (iterator.hasNext()) {
 			 filter = iterator.next();					
 			System.out.println(String.format("Starting process for filter %s ....", filter));
 			System.out.println("> Waiting....");
 			Stopwatch stopWatch = new Stopwatch();
 			stopWatch.start();
+						
 			String resultado = "";
 			try {
 				File outputFile = new File(outputDirectoryNamePath + File.separator + filters.get(filter) + EXTENSION);
@@ -78,6 +81,8 @@ public class Main {
 			} catch (IOException e) {
 				e.printStackTrace();
 			} 
+			
+			
 			System.out.println(String.format(
 					"For filter %s, processed registers %s ", filter, resultado));	
 			System.out.println(String.format(
