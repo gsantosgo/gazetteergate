@@ -2,95 +2,107 @@ package es.uem.gazetteer.geonames.main;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Map;
-import java.util.Set;
+import java.util.Hashtable;
 import java.util.concurrent.TimeUnit;
 
+import com.cybozu.labs.langdetect.LangDetectException;
 import com.google.common.base.Charsets;
 import com.google.common.base.Preconditions;
 import com.google.common.base.Stopwatch;
 import com.google.common.io.Files;
 
-import es.uem.gazetteer.jrc.lineprocessor.JRCNamesLineProcessor;
+import es.uem.gazetteer.geonames.lineprocessor.GeonamesAllCountriesLineProcessor;
+import es.uem.gazetteer.geonames.lineprocessor.GeonamesAlternateNamesLineProcessor;
 
 /**
  * Main class (Geonames)
  * 
  * @author Guillermo Santos (gsantosgo@yahoo.es) 
  */
-public class Main {
-	
+public class Main {		
 	final static String LANGUAGE = "es"; 
-	final static String EXTENSION = ".lst";  
 	
-	@SuppressWarnings("serial")
-	final static Map<String, String> filters = new HashMap<String, String>() { 
-	{		
-	    put("A", "A_Country_State_Region");
-	    put("H", "H_Stream_Lake");
-	    put("L", "L_Parks_Area");
-	    put("P", "P_City_Village");
-	    put("R", "R_Road_RailRoad");
-	    put("S", "S_Spot_Building_Farm");
-	    put("T", "T_Mountain_Hill_Rock");
-	    put("U", "U_Undersea");
-	    put("V", "V_Forest_Heath");	    	    
-	}};	
-	
+	final static Hashtable<Integer, String> hashtable = new Hashtable<Integer, String>(30*1000);   
+			
 	/**
 	 * 
-	 * Main program to generate Person, Organization files for GATE 
-	 * using JRCNames Entities sources (http://optima.jrc.it/data/entities.gzip) 
+	 * Main program to generate Location files for GATE 
+	 * using Geonames (http://download.geonames.org/export/dump/) 
 	 *      
 	 * @param args
 	 */
-	public static void main(String[] args) {		
+	public static void main(String[] args) throws LangDetectException {
+
+		/*
+		File langProfilesDirectory = new File("profiles"); 							
+		
+		// Load language profiles  
+		DetectorFactory.loadProfile(langProfilesDirectory);		
+		if (DetectorFactory.getLangList().isEmpty()) {			
+			
+			getResourcePaths("/profiles");			
+		}*/ 
+										
 		String inputFileNamePath = "c:\\geonames\\allCountries.txt";
+		String inputFileNameAlternatePath = "c:\\geonames\\alternateNames.txt";
 		String outputDirectoryNamePath = "src/main/resources";
 		
 		
-		Preconditions.checkNotNull(inputFileNamePath, "Input filename should NOT be NULL");
+		Preconditions.checkNotNull(inputFileNamePath, "Input filename allCountries.text (Geonames) should NOT be NULL");
+		Preconditions.checkNotNull(inputFileNameAlternatePath, "Input filename alternateNames.txt (Geonames) should NOT be NULL");
 		Preconditions.checkNotNull(outputDirectoryNamePath, "Output directory should NOT be NULL.");
 		
 		File inputFile = new File(inputFileNamePath); 
+		File inputFileAlternateName = new File(inputFileNameAlternatePath);
 		File outputDirectory = new File(outputDirectoryNamePath);
 			
 		Preconditions.checkArgument(inputFile.exists(), "File does not exist: %s", inputFile);		
-		Preconditions.checkArgument(outputDirectory.exists(), "Directory does not exist: %s", outputDirectory);		 
+		Preconditions.checkArgument(inputFileAlternateName.exists(), "File does not exist: %s", inputFileAlternateName);
+		Preconditions.checkArgument(outputDirectory.exists(), "Directory does not exist: %s", outputDirectory);		 		
 		
-				
-		Set<String> filterSet = filters.keySet();
-		Iterator<String> iterator = filterSet.iterator();
-		String filter = ""; 
-		while (iterator.hasNext()) {
-			 filter = iterator.next();					
-			System.out.println(String.format("Starting process for filter %s ....", filter));
-			System.out.println("> Waiting....");
-			Stopwatch stopWatch = new Stopwatch();
-			stopWatch.start();
-						
-			String resultado = "";
-			try {
-				File outputFile = new File(outputDirectoryNamePath + File.separator + filters.get(filter) + EXTENSION);
-				// if file exists then remove it				
-				if (outputFile.exists()) outputFile.delete();				
-				resultado = Files.readLines(inputFile, Charsets.UTF_8,
-						new JRCNamesLineProcessor(filter, outputFile));
-			} catch (IOException e) {
-				e.printStackTrace();
-			} 
-			
-			
-			System.out.println(String.format(
-					"For filter %s, processed registers %s ", filter, resultado));	
-			System.out.println(String.format(
-					"Complete process. Elapsed time %d min, %d sec.",
-					stopWatch.elapsedTime(TimeUnit.MINUTES),
-					stopWatch.elapsedTime(TimeUnit.SECONDS)));
-			System.out.println("");		
+		
+		// 		
+		System.out.println(String.format("Starting process for language %s ....", LANGUAGE));
+		System.out.println("> Waiting....");
+		Stopwatch stopWatch = new Stopwatch();
+		stopWatch.start();
+		String resultado = "";
+		try {
+			// if file exists then remove it								
+			resultado = Files.readLines(inputFileAlternateName, Charsets.UTF_8,
+					new GeonamesAlternateNamesLineProcessor(hashtable, LANGUAGE)); 
+		} catch (IOException e) {
+			e.printStackTrace();
 		} 
+		System.out.println(String.format(
+				"For language %s, processed registers %s ", LANGUAGE, resultado));	
+		System.out.println(String.format(
+				"Complete process. Elapsed time %d min, %d sec.",
+				stopWatch.elapsedTime(TimeUnit.MINUTES),
+				stopWatch.elapsedTime(TimeUnit.SECONDS)));
+		System.out.println("");		
+				
+				
+		System.out.println("Starting process ....");
+		System.out.println("> Waiting....");
+		Stopwatch stopWatch1 = new Stopwatch();
+		stopWatch1.start();
+		String resultado1 = ""; 
+		try {
+				resultado1 = Files.readLines(inputFile, Charsets.UTF_8, new GeonamesAllCountriesLineProcessor(outputDirectoryNamePath, LANGUAGE));
+		} catch (IOException e) {
+			e.printStackTrace();
+		} 
+			
+			
+		System.out.println(String.format(
+					"Processed registers %s.",resultado1));	
+		System.out.println(String.format(
+					"Complete process. Elapsed time %d min, %d sec.",
+					stopWatch1.elapsedTime(TimeUnit.MINUTES),
+					stopWatch1.elapsedTime(TimeUnit.SECONDS)));
+		System.out.println("");		
+		  
 	}	
 			
 }

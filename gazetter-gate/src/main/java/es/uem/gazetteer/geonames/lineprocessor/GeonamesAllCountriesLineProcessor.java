@@ -3,8 +3,14 @@ package es.uem.gazetteer.geonames.lineprocessor;
 import java.io.File;
 import java.io.IOException;
 import java.util.Collection;
+import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
+import java.util.Map;
+import java.util.Set;
 
+import com.cybozu.labs.langdetect.Detector;
+import com.cybozu.labs.langdetect.DetectorFactory;
 import com.google.common.base.Charsets;
 import com.google.common.base.Strings;
 import com.google.common.collect.Collections2;
@@ -12,34 +18,73 @@ import com.google.common.collect.Lists;
 import com.google.common.collect.Sets;
 import com.google.common.io.Files;
 import com.google.common.io.LineProcessor;
+import com.sun.org.apache.bcel.internal.generic.NEW;
 
 /**
- * Geonames LineProcessor (AllCountries)  
+ * Geonames LineProcessor (allCountries.txt)  
  * 
  * @author Guillermo Santos (gsantosgo@yahoo.es) 
  */
 public class GeonamesAllCountriesLineProcessor implements LineProcessor<String> {
-	public final String SEPARATOR = "\t";
-	public final char MULTI_WORD_SPACE = '+';
-	private int lineCount = 0;
-	private String filter = null;
-	private File file = null;
+	final static String EXTENSION = ".lst";
+	
+	@SuppressWarnings("serial")
+	final static Map<String, String> filters = new HashMap<String, String>() { 
+	{		
+	    put("A", "A_Country_State_Region");
+	    put("H", "H_Stream_Lake");
+	    put("L", "L_Parks_Area");
+	    put("P", "P_City_Village");
+	    put("R", "R_Road_RailRoad");
+	    put("S", "S_Spot_Building_Farm");
+	    put("T", "T_Mountain_Hill_Rock");
+	    put("U", "U_Undersea");
+	    put("V", "V_Forest_Heath");	    	    
+	}};
+	
+	final static String[] fileNames= {filters.get("A"), 
+			filters.get("H"), filters.get("L"), filters.get("P"),
+			filters.get("R"), filters.get("S"), filters.get("T"),
+			filters.get("U"), filters.get("V")
+	};
 
+	public final String SEPARATOR = "\t";
+	private int lineCount = 0;
+	private String outputDirectoryNamePath = null;
+	private String language = null;
+	private File[] outputFiles = new File[fileNames.length]; 
+	
+		
+	
+	
 	/** 
 	 * Constructor 
 	 * 
 	 * @param filter Search filter  
 	 * @param file File 
 	 */
-	public GeonamesAllCountriesLineProcessor(String filter, File file) {
-		this.filter = filter;
-		this.file = file;
+	public GeonamesAllCountriesLineProcessor(String outputDirectoryNamePath, String language) {
+		this.outputDirectoryNamePath = outputDirectoryNamePath;				
+		this.language = language;
+		initFiles(); 
+	}
+	
+	/**
+	 *  Inicializando ficheros 
+	 */
+	private void initFiles() {					
+		for (int i = 0; i < fileNames.length; i++) {
+			String uri = outputDirectoryNamePath + File.separator + fileNames[i] + EXTENSION; 
+			System.out.println("Fichero creado: " + uri);
+			outputFiles[i] = new File(uri);
+			if (outputFiles[i].exists()) outputFiles[i].delete(); 
+		}				
 	}
 	
 	/*
 	 * =============================================== 
-	 * Información estructura del fichero AllCountries 
-	 * Formato UTF-8 
+	 * Information file Geonames allCountries.txt 
+	 * Format UTF-8 
 	 * 
 	 * Columns  
 	 * 
@@ -66,19 +111,40 @@ public class GeonamesAllCountriesLineProcessor implements LineProcessor<String> 
 	 */
 
 	public boolean processLine(String line) throws IOException {
-		if (!Strings.isNullOrEmpty(this.filter) && 
-			!Strings.isNullOrEmpty(line)) {
+		if (!Strings.isNullOrEmpty(line)) {
 			String[] columns = line.split(SEPARATOR);
 			
-			if (columns.length == 19) {
-				String featureClass = columns[6]; 			
-				String name = columns[2];
-				String alternateNames = columns[3];														
-						
-				
-				List aa = Lists.newArrayList();
-				
-				Collections2.filter(aa, new ShouldLanguagePredicate()); 
+			String featureClass = columns[6]; 			
+			String name = columns[2];
+			String alternateNames = columns[3];														
+			
+			lineCount++;
+					
+			if (featureClass.equals("A")) {
+				Files.append(name + "\n", outputFiles[0],Charsets.UTF_8);
+			} else if (featureClass.equals("H")) {
+				Files.append(name + "\n", outputFiles[1],Charsets.UTF_8);
+			} else if (featureClass.equals("L")) {
+				Files.append(name + "\n", outputFiles[2],Charsets.UTF_8);
+			} else if (featureClass.equals("P")) {
+				Files.append(name + "\n", outputFiles[3],Charsets.UTF_8);
+			} else if (featureClass.equals("R")) {
+				Files.append(name + "\n", outputFiles[4],Charsets.UTF_8);
+			} else if (featureClass.equals("S")) {
+				Files.append(name + "\n", outputFiles[5],Charsets.UTF_8);
+			} else if (featureClass.equals("T")) {
+				Files.append(name + "\n", outputFiles[6],Charsets.UTF_8);
+			} else if (featureClass.equals("U")) {
+				Files.append(name + "\n", outputFiles[7],Charsets.UTF_8);
+			} else if (featureClass.equals("V")) {
+				Files.append(name + "\n", outputFiles[8],Charsets.UTF_8);
+			}				
+
+			
+			/* 
+				List aa = Lists.newArrayList();					
+				Collections2.filter(aa, new ShouldLanguagePredicate(this.language));
+							
 				
 				//Filtrar aquella que son españolas 
 				Collection<String> alternateNamesCol = filter 
@@ -94,8 +160,8 @@ public class GeonamesAllCountriesLineProcessor implements LineProcessor<String> 
 					
 					
 					Files.append(name + "\n", this.file,Charsets.UTF_8);
-				}
-			}
+				} 
+			}*/ 
 		}
 		return true;
 	}

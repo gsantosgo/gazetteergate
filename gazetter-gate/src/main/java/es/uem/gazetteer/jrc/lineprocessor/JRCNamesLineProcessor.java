@@ -32,9 +32,8 @@ public class JRCNamesLineProcessor implements LineProcessor<String> {
 	}
 	
 	/*
-	 * =============================================== 
-	 * Información estructura del fichero JRCNames
-	 * Information  
+	 * ===============================================  
+	 * File Information JRCNames entities   
 	 * Format UTF-8 
 	 * Columns id;type;language;name Each line
 	 * 
