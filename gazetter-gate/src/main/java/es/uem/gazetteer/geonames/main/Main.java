@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.util.Hashtable;
 import java.util.concurrent.TimeUnit;
 
+import com.cybozu.labs.langdetect.DetectorFactory;
 import com.cybozu.labs.langdetect.LangDetectException;
 import com.google.common.base.Charsets;
 import com.google.common.base.Preconditions;
@@ -20,8 +21,7 @@ import es.uem.gazetteer.geonames.lineprocessor.GeonamesAlternateNamesLineProcess
  * @author Guillermo Santos (gsantosgo@yahoo.es) 
  */
 public class Main {		
-	final static String LANGUAGE = "es"; 
-	
+	final static String LANGUAGE = "es"; 	
 	final static Hashtable<Integer, String> hashtable = new Hashtable<Integer, String>(30*1000);   
 			
 	/**
@@ -32,21 +32,18 @@ public class Main {
 	 * @param args
 	 */
 	public static void main(String[] args) throws LangDetectException {
-
-		/*
-		File langProfilesDirectory = new File("profiles"); 							
-		
-		// Load language profiles  
-		DetectorFactory.loadProfile(langProfilesDirectory);		
-		if (DetectorFactory.getLangList().isEmpty()) {			
-			
-			getResourcePaths("/profiles");			
-		}*/ 
-										
+		String langProfilesDirectoryName = "src/main/resources/profiles"; 
 		String inputFileNamePath = "c:\\geonames\\allCountries.txt";
 		String inputFileNameAlternatePath = "c:\\geonames\\alternateNames.txt";
 		String outputDirectoryNamePath = "src/main/resources";
-		
+				
+		File langProfilesDirectory = new File(langProfilesDirectoryName);		
+		// Load language profiles  
+		DetectorFactory.loadProfile(langProfilesDirectory);
+		if (!DetectorFactory.getLangList().isEmpty()) {
+			System.out.println("Loaded languages list : " + DetectorFactory.getLangList().size());
+		} 
+											
 		
 		Preconditions.checkNotNull(inputFileNamePath, "Input filename allCountries.text (Geonames) should NOT be NULL");
 		Preconditions.checkNotNull(inputFileNameAlternatePath, "Input filename alternateNames.txt (Geonames) should NOT be NULL");
@@ -61,7 +58,6 @@ public class Main {
 		Preconditions.checkArgument(outputDirectory.exists(), "Directory does not exist: %s", outputDirectory);		 		
 		
 		
-		// 		
 		System.out.println(String.format("Starting process for language %s ....", LANGUAGE));
 		System.out.println("> Waiting....");
 		Stopwatch stopWatch = new Stopwatch();
@@ -89,7 +85,7 @@ public class Main {
 		stopWatch1.start();
 		String resultado1 = ""; 
 		try {
-				resultado1 = Files.readLines(inputFile, Charsets.UTF_8, new GeonamesAllCountriesLineProcessor(outputDirectoryNamePath, LANGUAGE));
+				resultado1 = Files.readLines(inputFile, Charsets.UTF_8, new GeonamesAllCountriesLineProcessor(outputDirectoryNamePath, hashtable, LANGUAGE));
 		} catch (IOException e) {
 			e.printStackTrace();
 		} 
