@@ -50,22 +50,24 @@ public class GeonamesAllCountriesLineProcessor implements LineProcessor<String> 
 	public final String SEPARATOR = "\t";
 	private int lineCount = 0;
 	private String outputDirectoryNamePath = null;
+	private Hashtable<String, String> stopWords = null;
 	private Hashtable<Integer, String> alternateNamesLanguage = null;
 	private String language = null;
 	private File[] outputFiles = new File[fileNames.length];
 
 	/**
-	 * Constructor
+	 * Constructor 
 	 * 
-	 * @param filter
-	 *            Search filter
-	 * @param file
-	 *            File
+	 * @param outputDirectoryNamePath
+	 * @param stopWords
+	 * @param alternateNamesLanguage
+	 * @param language
 	 */
-	public GeonamesAllCountriesLineProcessor(String outputDirectoryNamePath,
+	public GeonamesAllCountriesLineProcessor(String outputDirectoryNamePath,Hashtable<String, String> stopWords,
 			Hashtable<Integer, String> alternateNamesLanguage, String language) {
 		this.lineCount = 0;
 		this.outputDirectoryNamePath = outputDirectoryNamePath;
+		this.stopWords = stopWords; 
 		this.alternateNamesLanguage = alternateNamesLanguage;
 		this.language = language;
 		initFiles();
@@ -204,7 +206,15 @@ public class GeonamesAllCountriesLineProcessor implements LineProcessor<String> 
 	public void writelnStringList(List<String> texts, File file)
 			throws IOException {
 		for (String text : texts) {
-			writelnString(text, file);
+			// 11.06.2012
+			// Si son stopword, no se incluyen
+			if (!this.stopWords.containsKey(text.toLowerCase())) { 
+				writelnString(text, file);
+			}
+			else {
+				
+				System.out.println("Stopword:" + text);
+			}
 		}
 	}
 

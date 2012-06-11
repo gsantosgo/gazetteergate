@@ -37,7 +37,7 @@ public class MainAirport {
 		String langProfilesDirectoryName = "src/main/resources/profiles"; 
 		String inputFileNamePath = "/home/gsantos/geonames/data/allCountries.txt";
 		String inputFileNameAlternatePath = "/home/gsantos/geonames/data/alternateNames.txt";
-		String outputFileNamePath = "src/main/resources/airports.lst";
+		String outputFileNamePath = "src/main/resources/output/airports.lst";
 				
 		File langProfilesDirectory = new File(langProfilesDirectoryName);		
 		// Load language profiles  
