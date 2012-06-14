@@ -19,13 +19,16 @@ Racons
 Pla de l'Ingla
 Pla de l’Estany
 Pla de l'Estany
+Loma de Percanela
 Pas de la Casa
 Partida de l'Any de la Part
 Partida de la Grella
 Ordino
 Obaga de l'Estall Serrer
 Obaga de la Gonarda
+Obac de Sispony
 Obac d'Encamp
+Obac del Tarter
 Obac de Canillo
 Lloset
 L'Ensegur
@@ -86,7 +89,7 @@ Parròquia d'Escaldes-Engordany
 Parroquia d'Escaldes-Engordany
 Emiratos Árabes Unidos
 Unió dels Emirats Àrabs
-Unuiĝintaj Arabaj Emirlandos
+Unuigintaj Arabaj Emirlandos
 Geānedan Arabiscan Bregorīce
 Dubai
 Ajman
@@ -100,7 +103,6 @@ Provincia de Uruzgan
 Provincia de Qundūz
 Provincia de Qunduz
 Kabul
-Provincia de Kabul
 Provincia de Herāt
 Provincia de Herat
 Provincia de Fāryāb
@@ -110,19 +112,18 @@ Provincia de Badgis
 Afganistán
 Afganistón
 República de l'Afganistan
-Afganistáni
 Argo
 pl hsar
 Saint John´S
 Redonda
 Antigua y Barbuda
-Antigva un Barbuda
+Antigua en Barbuda
 Aintíge agus Barbúda
 entiguya o barabuda
 Antigua Presidency
+entiguva aura barabuda
 Antigua es Barbuda
 Antigua en Barbûda
-Antigua és Barbuda
 Antigua ve Barbuda
 Anguila
 Vicidol
@@ -131,28 +132,26 @@ Plase
 Paci
 Mocan
 Maricaj
-Kala e Dodes
+Komuna e Margegaje
 Elbasan
-Komuna Bucimas
 Bucimas
 Funar
 Komuna Arren
 Albania
 Albanía
+Komuna Cepo
 Cepo
-Suc
 Komuna e Sucit
 Corraj
 Tirana
 Qeparo
-Komuna e Petreles
 Lac
 Komuna Gracen
 Gracen
+Gorre
 Dobrac
 Lac
 Lac
-Tella e Begaje
 Armenia
 República d'Armènia
 Armenía
@@ -160,7 +159,6 @@ Larmenaen
 Ereván
 Lorri
 Municipio Saurimo
-Lunda Norte Province
 Municipio Lucapa
 Municipio Cambulo
 Municipio Muconda
@@ -182,7 +180,6 @@ Municipio Tomboco
 Municipio Soyo
 Municipio Songo
 Municipio Sanza Pombo
-Municipio Quimbele
 Municipio Quicama
 Municipio Quela
 Municipio Puri
@@ -192,8 +189,10 @@ Municipio Mucari
 Municipio Mucaba
 Municipio Marimba
 Muniipio Maquela do Zombo
+Distrito de Malanje
 Provincia de Malanje
 Provincia de Malange
+Municipio Malanje
 Municipio Lucala
 Municipio Lubalo
 Provincia de Luanda
@@ -215,6 +214,8 @@ Municipio Cacuso
 Cacuaco Municipality
 Cacuaco
 Provincia de Cabinda
+Municipio Cabinda
+Municipio Bula Atumba
 Municipio Buengas
 Municipio Buco Zau
 Provincia do Bengo
@@ -242,8 +243,10 @@ Municipio Luchazes
 Municipio Lubango
 Municipio Longonjo
 Municipio Londuimbali
+Municipio Lobito
 Municipio Libolo
 Municipio Jamba
+Municipio Humpata
 Huíla
 Provincia da Huila
 Huila Province
@@ -255,6 +258,7 @@ Municipio Ebo
 Municipio Cuvelai
 Municipio Curoca
 Provincia do Cunene
+Municipio Cuito Cuanavale
 Municipio Cuemba
 Municipio Cuchi
 Municipio Cubal
@@ -267,6 +271,7 @@ Municipio Chinguar
 Municipio Chicomba
 Municipio Chibia
 Municipio Catabola
+Municipio Cangandala
 Municipio Camacupa
 Municipio Camacuio
 Municipio Caluquembe
@@ -293,7 +298,6 @@ Antartide
 Antarctica
 General José F. Uriburu
 Departamento de Villaguay
-Partido de Vicente Lopez
 Partido de Veinticinco de Mayo
 25 de Mayo
 Departamento de Veinticinco de Mayo
@@ -431,7 +435,6 @@ Provincia de Buenos Aires
 Departamento de Beron de Astrada
 Partido de Bermejo
 Departamento de Río Bermejo
-Departamento de Rio Bermejo
 Departamento de Bella Vista
 Partido de Arrecifes
 Partido de Balcarce
@@ -462,7 +465,6 @@ Departamento de Tunuyan
 Departamento de Tumbaya
 Tucumán
 Provincia de Tucumán
-Provincia de Tucuman
 Partido de Tres Arroyos
 Partido de Trenque Lauquen
 Departamento de Trenel
@@ -481,11 +483,10 @@ Gobernación de la Tierra del Fuego
 Antártida e Islas del Atlántico Sur
 Antartida e Islas del Atlantico Sur
 Departamento de Tercero Arriba
+Departamento de Telsen
 Departamento de Tehuelches
 Tapalque
 Tapalaque
-Partido de Tapalquén
-Partido de Tapalque
 Partido de Tapalquen
 Departamento de Sobremonte
 Departamento de Silipica
@@ -508,7 +509,6 @@ Territorio Nacional de Santa Cruz
 Gobernación de Santa Cruz
 Provincia de Santa Cruz
 Departamento de Gobernador Obejero
-Departamento de Santa Barbara
 Departamento de San Sebastian
 Departamento de San Rafael
 Departamento de San Pedro
@@ -550,7 +550,6 @@ Departamento de Rosario de Lerma
 Departamento de Rosario de la Frontera
 Departamento de Rosario
 Departamento de Robles
-Departamento de Rio Senguerr
 Departamento de Río Seco
 Departamento de Río Primero
 Río Negro
@@ -623,7 +622,6 @@ Departamento de Lujan
 Departamento de Los Lagos
 Los Cocos
 Departamento de Los Andes
-Departamento de Loreto
 Departamento de Loncopue
 Partido de Lincoln
 Departamento de Limay Mahuida
@@ -657,13 +655,13 @@ Departamento de La Capital
 Departamento de La Capital
 Junin
 Departamento de Junín
+Departamento de Junin
 Jujuy
 Provincia de Jujuy
 Departamento de Juarez Celman
 Departamento de Jimenez
 Departamento de Jiménez
 Departamento de Isla de los Estados
-Departamento de Ischilin
 Departamento de Iruya
 Partido de Independencia
 Departamento de Independencia
@@ -687,6 +685,7 @@ Departamento de Gobernador Gordillo
 Partido de General Villegas
 Partido de General Viamonte
 Departamento de General Taboada
+Veintiocho de Marzo
 28 de Marzo
 Sarmiento
 Departamento de General Sarmiento
@@ -705,7 +704,6 @@ Departamento de General Ocampo
 General Martín M. de Güemes
 Departamento de General Martin Miguel de Guemes
 Departamento de General Martín Miguel de Güemes
-General Martin M. de Guemes
 Departamento de General Lopez
 Departamento de General Lavalle
 Lamadrid
@@ -742,7 +740,6 @@ Partido de Doce de Octubre
 12 de Octubre
 Gobernador Moyano
 Departamento de Cruz del Eje
-Departamento de Corpen Aike
 Partido de Coronel Suarez
 Partido de Coronel Pringles
 Partido de Coronel Dorrego
@@ -767,13 +764,12 @@ Territorio Nacional del Chubut
 Departamento de Choya
 Departamento de Chos-Malal
 Departamento de Lihuel Calel
-Departamento de Chimbas
 Departamento de Chilecito
 Departamento de Chicoana
 Departamento de Chical-Co
 Departamento de Chapaleufu
 Chapaloefú
-Departamento de Chapaleufú
+Chapaloefu
 Departamento de Chalileo
 Chaco
 Gobernación del Chaco
@@ -808,9 +804,9 @@ Departamento de Cafayate
 Cachi
 Departamento de Cachi
 Departamento de Burruyacú
-Burruyaco
 Departamento de Burruyacu
 Departamento de Bermejo
+Departamento de Belgrano
 Departamento de Belgrano
 Departamento de Belgrano
 Departamento de Belen
@@ -821,6 +817,7 @@ Departamento de Ayacucho
 Departamento de Avellaneda
 Departamento de Avellaneda
 Departamento de Atreucó
+Atraucó
 Argentina
 La Argentina
 Argencina
@@ -838,6 +835,7 @@ Partido de San Miguel
 San José
 San Jose (Entre Rios)
 Caviahue
+Caviahue-Copahue
 Partido de La Costa
 Partido de Villa Gesell
 Samoa Americana
@@ -857,25 +855,31 @@ Gorad Grac
 ge la ci
 Graca
 Graecia
-Gmuend
+Haslau-Maria Ellend
 Loosdorf
-Pregarten
 Ruestorf
+Buermoos
 Elmen
 Muellendorf
-Arriach
+Teesdorf
 Huerm
 Guntramsdorf
 Aibl
+Rohrmoos-Untertal
 Fulpmes
 Ladis
+Elbigenalp
 Namlos
 Loruens
 Australie-Occidentale
+Esperance Shire
 Australia
 Ástralía
-Sotralïi
+Federal Capital Territory
 Clarence
+Torres
+Naracoorte and Lucindale
+Orroroo/Carrieton
 Prospect
 Cambridge
 Cue
@@ -883,7 +887,6 @@ Campaspe
 Croydon
 Leonora
 Subiaco
-Ceduna
 Central Desert
 Conargo
 Narrabri
@@ -896,9 +899,7 @@ ao lan qun dao
 Islas de Åland
 elantu
 República autónoma de Najicheván
-Lacin Rayonu
 Lacin
-Xocalı
 Nagorno Karabaj
 Azerbaiyán
 Gǝncǝ
@@ -912,6 +913,7 @@ Opcina Jablanica
 cesalj
 Centar
 Srebrenica
+Opcina Vares
 Vlasenica
 Lopare
 Gracanica
@@ -920,6 +922,7 @@ Celinac
 Brcko
 Gradacac
 Opcina Gradacac
+Modrica
 Cantón de Posavina
 Cantó de Posavina
 Canton de Posavina
@@ -947,6 +950,7 @@ Flandre Occidentale
 La Bruyere
 Pecq
 Provincie Namen
+Province de Namur
 Merxplas
 Province de Liege
 La Hulpe
@@ -967,8 +971,8 @@ Brabant Wallonie
 Valonia
 Bruselas
 Province de la Tapoa
+Province de l’ Oudalan
 Province de l' Oudalan
-Province de la Kossi
 Province de la Comoe
 Province de la Komoe
 Province de la Comoé
@@ -984,10 +988,9 @@ Province de la Kompienga
 Province de la Leraba
 Province de la Léraba
 Centre-Est
-Oula Department
 Oblast Montana
-Vulchidol
 Vŭlchidol
+Oblast Vraca
 Ruen
 Elena
 Bulgaria
@@ -999,11 +1002,11 @@ Poduene
 Ajuntament de la Capital
 Mladost
 Centralen
+Golemo Buchino
 Rudarci
 Zvunarci
 Bogdanci
 Dojrenci
-Dermanci
 Vodenci
 Golemanci
 Elena
@@ -1016,8 +1019,8 @@ Bogdanci
 Dobrotica
 Varnenci
 Esenica
+Dobrina
 Begunci
-Stracin
 Chubra
 Bistrenci
 Prosena
@@ -1025,8 +1028,10 @@ Enica
 Gabarevo
 Elenino
 Preselenci
+Lovchanci
 Plachidol
 Severci
+Pudarevo
 Gorna Rosica
 Borci
 Gabrica
@@ -1048,7 +1053,6 @@ Lomci
 Preselec
 Ruec
 Gabra
-Busmanci
 Bahréin
 Ba-ren
 Al Muḩarraq
@@ -1071,7 +1075,7 @@ Atacora
 Province de l' Atacora
 San Bartolomé
 Bermudas
-Bermúda
+Bermioda
 Brunéi
 Provincia Chiquitos
 Delegacion Del Oriente
@@ -1094,7 +1098,6 @@ Departamento de Tarija
 Provincia Tapacari
 Provincia Tapacarí
 Sur Lípez
-Sud Lípez
 Provincia Sud Lípez
 Provincia Saucari
 Provincia Gutierrez
@@ -1126,9 +1129,10 @@ Provincia Omasuyos
 Provincia Ñuflo de Chávez
 Provincia Nuflo de Chavez
 Nuflo de Chavez
-Provincia Nor Lipez
+Provincia Nor Yungas
 Provincia Villa Martín
 Provincia Nor Lípez
+Provincia Nor Cinti
 Provincia Nicolás Suárez
 Nicolas Suarez
 Provincia Nicolas Suarez
@@ -1146,7 +1150,6 @@ Provincia Marbán
 Provincia Marban
 Provincia Manuel María Caballero
 Provincia Manuel Maria Caballero
-Caballero
 Provincia Manco Kapac
 Provincia Mamore
 Provincia Madre de Dios
@@ -1156,7 +1159,6 @@ Los Andes
 Provincia Los Andes
 Provincia Loayza
 Provincia Sabaya
-Provincia Linares
 Provincia Larecaja
 Larecaja
 La Paz
@@ -1173,13 +1175,14 @@ Provincia Jordan
 Provincia Coronel Germán Jordán
 Coronel Germán Jordán
 Provincia Germán Jordán
-Provincia German Jordan
+General Ballivián
 Provincia General José Ballivián
 General F. Román
 Provincia General Federico Román
 Provincia General Bilbao
 Provincia Bilbao
 Provincia Franz Tamayo
+Franz Tomayo
 Provincia Caupolican
 Provincia Caupolicán
 Provincia Florida
@@ -1190,7 +1193,6 @@ Provincia Campos
 Copacabana
 Cochabamba
 Chuquisaca
-Provincia Chayanta
 Provincia Charcas
 Provincia Chapare
 Provincia Chaparé
@@ -1200,7 +1202,6 @@ Provincia Cercado
 Provincia Cercado
 Provincia Cercado
 Provincia Carrasco
-Provincia Carangas
 Provincia Campero
 Camacho
 Provincia General Camacho
@@ -1214,7 +1215,6 @@ Departamento del Beni
 Provincia Azurduy
 Provincia Ayopaya
 Provincia Avilés
-Provincia Avaroa
 Provincia Abaroa
 Provincia Arque
 Arque
@@ -1227,8 +1227,8 @@ Provincia Alonzo de Ibáñez
 Alonzo de Ibanez
 Alonzo de Ibáñez
 Provincia Alonzo de Ibanez
+Provincia Abuná
 Provincia Abuna
-Camataqui (Villa Abecia)
 El Villar
 Las Carreras
 Mojocoya
@@ -1236,6 +1236,7 @@ Monteagudo
 Presto
 San Lucas
 Villa de Huacaya
+Villa Serrano
 Villa Vaca Guzman (Muyupampa)
 Villa Zudanez (Tacopaya)
 La Cueva
@@ -1285,12 +1286,11 @@ Major Isidoro
 Jucas
 Independencia
 Guaraciaba Do Norte
-Cedro
 Ceará
 Campos Sales
+Brejo Santo
 Barro
 Municipio de Brejo de Areia
-Aracoiaba
 Amapá
 Alagoas
 Tobias Barreto
@@ -1316,6 +1316,8 @@ ES
 Brasil
 Bahía
 Baía
+Aquidaba
+Alvares Machado
 Alvares Florence
 Tocantins
 Roraima
@@ -1324,14 +1326,15 @@ Amazonas
 Acre
 Rondonia
 Territorio Federal de Rondonia
-Territorio de Rondonia
 Redencao
 Sao Miguel Do Guama
+Moncao
 Nina Rodrigues
 Pedro Laurentino
 Santa Cruz Dos Milagres
 Simoes
 Carnauba Dos Dantas
+Curral De Cima
 Lagoa Seca
 Correntes
 Barra De Santo Antonio
@@ -1371,6 +1374,7 @@ Alenquer
 Barcarena
 Colares
 Eldorado Dos Carajas
+Maracana
 Melgaco
 Monte Alegre
 Picarra
@@ -1379,10 +1383,10 @@ Rondon Do Para
 Araguacema
 Araguacu
 Barrolandia
-Bernardo Sayao
 Centenario
 Combinado
 Esperantina
+Filadelfia
 Lajeado
 Porto Nacional
 Sao Miguel Do Tocantins
@@ -1406,6 +1410,7 @@ Presidente Sarney
 Presidente Vargas
 Rosario
 Santo Antonio Dos Lopes
+Sao Vicente Ferrer
 Senador La Rocque
 Barra D'Alcantara
 Barras
@@ -1418,7 +1423,7 @@ Esperantina
 Francisco Ayres
 Francisco Macedo
 Francisco Santos
-Julio Borges
+Jacobina Do Piaui
 Lagoa Alegre
 Manoel Emidio
 Marcos Parente
@@ -1428,12 +1433,12 @@ Padre Marcos
 Pedro Ii
 Santo Antonio Dos Milagres
 Santo Inacio Do Piaui
-Sao Miguel Do Fidalgo
 Sao Miguel Do Tapuio
 Simplicio Mendes
 Tanque Do Piaui
 Valenca Do Piaui
 Alcantaras
+Camocim
 Maracanau
 Palmacia
 Alto Do Rodrigues
@@ -1448,10 +1453,11 @@ Major Sales
 Monte Alegre
 Pendencias
 Presidente Juscelino
+Riacho De Santana
 Riachuelo
 Santana Do Serido
+Sao Jose De Mipibu
 Sao Miguel De Touros
-Senador Georgino Avelino
 Serra Do Mel
 Tenente Ananias
 Vicosa
@@ -1470,7 +1476,6 @@ Lucena
 Marcacao
 Princesa Isabel
 Riacho De Santo Antonio
-Riacho Dos Cavalos
 Santana Dos Garrotes
 Santo Andre
 Sao Miguel De Taipu
@@ -1486,11 +1491,10 @@ Lagoa Dos Gatos
 Lagoa Grande
 Moreno
 Santa Maria Do Cambuca
+Sao Vicente Ferrer
 Vicencia
-Barra De Sao Miguel
 Capela
 Marechal Deodoro
-Rio Largo
 Sao Miguel Dos Milagres
 Sao Miguel dos Milagres
 Tanque D'Arca
@@ -1498,18 +1502,15 @@ Vicosa
 Capela
 Estancia
 Riachuelo
-Santa Rosa De Lima
 Alcobaca
-Amelia Rodrigues
 Aracas
 Araci
 Barra
+Barra Do Rocha
 Barro Alto
 Barro Preto
-Brotas De Macaubas
 Buerarema
 Candido Sales
-Capela Do Alto Alegre
 Caravelas
 Central
 Cicero Dantas
@@ -1519,6 +1520,7 @@ Curaca
 Elisio Medrado
 Entre Rios
 Esplanada
+Filadelfia
 Jacaraci
 Jequie
 Lajedo Do Tabocal
@@ -1527,16 +1529,18 @@ Miguel Calmon
 Pindobacu
 Planalto
 Presidente Dutra
+Salvador Bahia
 Santa Brigida
 Santa Cruz Cabralia
 Santo Antonio De Jesus
 Sao Gabriel
+Sao Miguel Das Matas
 Sento Se
 Tucano
 Valenca
-Valente
 Aimores
 Alfredo Vasconcelos
+Alterosa
 Antonio Carlos
 Aracitaba
 Arcos
@@ -1546,16 +1550,18 @@ Belo Oriente
 Bicas
 Boa Esperanca
 Camacho
+Campanario
 Carlos Chagas
 Carmesia
 Carrancas
-Catas Altas Da Noruega
 Chacara
 Coroaci
+Corrego Danta
 Crucilandia
 Cuparaque
 Diogo De Vasconcelos
 Espera Feliz
+Espinosa
 Estrela Dalva
 Estrela Do Indaia
 Estrela Do Sul
@@ -1572,12 +1578,12 @@ Heliodora
 Ibiraci
 Inconfidentes
 Jacinto
+Jaguaracu
 Jeceaba
 Jequeri
 Lagoa Dos Patos
 Malacacheta
 Merces
-Monte Carmelo
 Montes Claros
 Morro Da Garca
 Morro Do Pilar
@@ -1591,13 +1597,11 @@ Pequeri
 Presidente Bernardes
 Presidente Juscelino
 Resplendor
-Rio Piracicaba
 Santa Cruz De Salinas
 Santa Efigenia De Minas
 Santana Do Jacare
 Santana Do Riacho
 Santana Dos Montes
-Santa Rosa Da Serra
 Santo Antonio Do Jacinto
 Santos Dumont
 Sao Francisco De Sales
@@ -1625,14 +1629,18 @@ Paracambi
 Valenca
 Aracariguama
 Aracoiaba Da Serra
+Barretos
+Caconde
 Capela Do Alto
 Cedral
 Cesario Lange
 Colombia
 Dracena
 Eldorado
+Elias Fausto
 Elisiario
 Estrela D'Oeste
+Estrela Do Norte
 Ferraz De Vasconcelos
 Franco Da Rocha
 General Salgado
@@ -1646,7 +1654,6 @@ Mendonca
 Moncoes
 Monte Castelo
 Osasco
-Pariquera-Acu
 Presidente Epitacio
 Presidente Venceslau
 Quadra
@@ -1659,11 +1666,8 @@ Santa Rosa De Viterbo
 Santo Anastacio
 Santo Andre
 Santo Antonio Do Aracangua
-Santo Expedito
 Santos
-Sao Manuel
 Sao Miguel Arcanjo
-Serrana
 Sete Barras
 Sorocaba
 Zacarias
@@ -1673,11 +1677,10 @@ Barra Do Jacare
 Bela Vista Do Caroba
 Boa Esperanca
 Boa Esperanca Do Iguacu
-Campo Do Tenente
 Campo Largo
-Centenario Do Sul
 Cerro Azul
 Colombo
+Coronel Domingos Soares
 Eneas Marques
 Guaraci
 Guaraquecaba
@@ -1685,60 +1688,60 @@ Ibipora
 Iguaracu
 Inacio Martins
 Marechal Candido Rondon
+Maria Helena
 Mercedes
 Perola
 Perola D'Oeste
 Quedas Do Iguacu
 Querencia Do Norte
 Roncador
-Santa Izabel Do Oeste
 Santa Lucia
 Santo Inacio
 Sao Miguel Do Iguacu
-Saudade Do Iguacu
 Xambre
 Antonio Carlos
 Balneario Barra Do Sul
-Bela Vista Do Toldo
+Biguacu
 Cacador
 Entre Rios
 Faxinal Dos Guedes
 Gaspar
 Guaraciaba
-Lacerdopolis
 Lajeado Grande
+Leoberto Leal
 Lontras
 Major Gercino
 Modelo
 Monte Carlo
 Monte Castelo
 Otacilio Costa
-Pedras Grandes
 Picarras
 Planalto Alegre
 Presidente Getulio
-Presidente Nereu
 Princesa
 Salto Veloso
 Santa Rosa De Lima
 Sao Bonifacio
+Sao Miguel Da Boa Vista
 Sao Miguel D'Oeste
 Serra Alta
 Sombrio
 Tres Barras
 Ajuricaba
 Alegria
+Amaral Ferrador
 Barracao
 Barra Do Guarita
 Barra Funda
 Cacequi
+Cacique Doble
 Campestre Da Serra
 Candelaria
-Capela De Santana
 Carlos Gomes
 Centenario
 Cerro Largo
 Ciriaco
+Colorado
 Dois Lajeados
 Dona Francisca
 Encantado
@@ -1748,7 +1751,6 @@ Estacao
 Estrela
 Fagundes Varela
 General Camara
-Gramado Xavier
 Guapore
 Lagoa Dos Tres Cantos
 Lajeado Do Bugre
@@ -1780,6 +1782,7 @@ Colider
 Confresa
 Cotriguacu
 Jaciara
+Juruena
 Planalto Da Serra
 Querencia
 Reserva Do Cabacal
@@ -1793,7 +1796,7 @@ Iaciara
 Inaciolandia
 Montes Claros De Goias
 Padre Bernardo
-Santa Helena De Goias
+Santo Antonio Da Barra
 Vila Propicio
 Pedras Altas
 Fortaleza Dos Valos
@@ -1808,7 +1811,6 @@ Manoel Urbano
 Sales
 Aracoiaba
 Independencia
-Cedro
 Igaci
 Lagoa Da Confusao
 Graca
@@ -1826,12 +1828,9 @@ Buenos Aires
 San Salvador
 San Salvador District
 Bahamas
-Central Abaco
-Central Abaco District
 Central Andros
 Central Andros District
 Bután
-Orílẹ́ède Bútánì
 Paro
 Distrito de Samdrup Jongkhar
 Gasa District
@@ -1839,19 +1838,19 @@ Nubi
 Isla Bouvet
 Central
 Botsuana
+Republica de Botswana
 República de Botswana
 Gomel' Oblast
 Gomel’ Oblast
 Bielorrusia
 Bê-la-rút
-Bê-la-rút (Belarus)
+Gorod Lepel’
 Horad Lyepyel'
 Horad Lyepyel’
 Gorod Lepel'
 Lepel'
 Gorad Gomel'
 Gorad Smargon'
-Cayo District
 Distrito del Cayo
 Belice
 Belís
@@ -1863,79 +1862,80 @@ Cascades-Malignes
 Central Elgin
 Central Frontenac
 Central Huron
-Circonscription electorale de Chateauguay
+Circonscription electorale de Borduas
 Circonscription electorale de Chomedey
 Circonscription electorale de D'Arcy-McGee
 Circonscription electorale de Fabre
 Circonscription electorale de Hull
 Circonscription electorale de Huntingdon
+Circonscription electorale de La Piniere
+Circonscription electorale de Laporte
 Circonscription electorale de Megantic-Compton
 Circonscription electorale de Mercier
 Circonscription electorale de Mirabel
 Circonscription electorale de Nelligan
-Circonscription electorale de Notre-Dame-de-Grace
 Circonscription electorale de Pontiac
 Circonscription electorale de Prevost
 Circonscription electorale de Roberval
-Circonscription electorale de Rosemont
 Circonscription electorale de Rouyn-Noranda--Temiscamingue
 Circonscription electorale des Iles-de-la-Madeleine
-Circonscription electorale de Verdun
+Circonscription electorale de Viau
 Circonscription electorale de Vimont
 District electoral de Belair Est
 District electoral de Bellerive Est
 District electoral de Bellevue
 District electoral de Bellevue
-District electoral de Bois-Joli
 District electoral de Brady
 District electoral de Cartierville
-District electoral de Cedar Park
-District electoral de Champagnat
+District electoral de Chameran
+District electoral de Champlain
+District electoral de Champlain
 District electoral de Chaumont
 District electoral de Cherrier
 District electoral de Chomedey
 District electoral de Chouinard
-District electoral de Cote-des-Neiges
+District electoral de Cote
 District electoral de Davignon
 District electoral de De Martigny
 District electoral de De Martigny
-District electoral de Du Tremblay
 District electoral de Fabreville
 District electoral de Ferland
 District electoral de Ferland
 District electoral de Francois-Perrault
 District electoral de Garnier--Parc-des-Erables
-District electoral de Georges-Vanier
+District electoral de Gentilly
+District electoral de Hertel
 District electoral de Jarry
 District electoral de Jean-Leman
 District electoral de Jobin
 District electoral de Jules-Leger
 District electoral de la Baie
+District electoral de la Baie
 District electoral de Labelle
 District electoral de Labelle
 District electoral de la Chaloupe
 District electoral de la Chasse
-District electoral de L'Achigan
+District electoral de l'Acier
 District electoral de la Concorde
 District electoral de la Fabrique
+District electoral de Lafleche
 District electoral de LaFontaine
 District electoral de Lagace
 District electoral de la Gare
 District electoral de la Grosse-Pointe
 District electoral de La Guillaudiere
 District electoral de la Montagne
-District electoral de la Montee-Sainte-Therese
 District electoral de Lang
+District electoral de l'Ange-Gardien
 District electoral de Langlois
+District electoral de Langloiserie
 District electoral de La Noue
-District electoral de l'Anse
 District electoral de l'Anse
 District electoral de la Promenade
 District electoral de La Providence
 District electoral de la Rive
 District electoral de la Rive
 District electoral de la Riviere-Ragueneau
-District electoral de La Salette
 District electoral de La Sitiere
 District electoral de la Torpille
 District electoral de Laval
@@ -1943,14 +1943,14 @@ District electoral de Laval-des-Rapides
 District electoral de La Verendrye
 District electoral de la Yamaska
 District electoral de Le Baron
-District electoral de Leduc
+District electoral de Legardeur
+District electoral de Le Moyne
 District electoral de Lesage
 District electoral de L'Esperance
 District electoral de l'Hotel-de-Ville
+District electoral de Lionel-Groulx
 District electoral de Logan
 District electoral de Longue-Pointe
-District electoral de Lorimier
-District electoral de Louis-Riel
 District electoral de Loyola
 District electoral de Luskville
 District electoral de Martigny
@@ -1958,41 +1958,47 @@ District electoral de Melancon
 District electoral de Monast
 District electoral de Montcalm
 District electoral de Montcalm
+District electoral de Mortagne
 District electoral de Murray
+District electoral de Normandie
 District electoral de Notre-Dame-de-Grace
 District electoral de Notre-Dame-de-Lorette
 District electoral de Palardy
 District electoral de Parc-Extension
 District electoral de Pere-Marquette
 District electoral de Peter-McGill
+District electoral de Petit-Quebec
 District electoral de Pierre-Laporte
 District electoral de Pierre-Viger
 District electoral de Pirandello
 District electoral de Preville-en-Bas
 District electoral de Preville-en-Haut
+District electoral de Prevost
 District electoral de Quyon
 District electoral de Rolland
-District electoral de Rosemont
+District electoral de Saint-Bernard
 District electoral de Sainte-Anne
 District electoral de Saint-Edmond
-District electoral de Saint-Edouard
 District electoral de Sainte-Famille
-District electoral de Sainte-Rosalie
+District electoral de Sainte-Famille
 District electoral de Sainte-Rose
-District electoral de Saint-Leonard
 District electoral de Saint-Lucien
+District electoral de Saint-Pierre
 District electoral de Salaberry
 District electoral de Salaberry
 District electoral des Baies
 District electoral des Cascades
 District electoral des Chenes
 District electoral des Ecores
+District electoral de Seigniory
 District electoral des Erables
 District electoral des Erables
 District electoral des Erables
 District electoral des Fregates
+District electoral des Galeries-d'Anjou
 District electoral des Hirondelles
 District electoral de Signay-Labarre
+District electoral des Iles
 District electoral des Jardins-Acadiens
 District electoral des Lacs
 District electoral des Lacs
@@ -2005,6 +2011,7 @@ District electoral de Viens
 District electoral de Vilas
 District electoral de Villeray
 District electoral de Vimont
+District electoral de Vivaldi
 District electoral de Wilfrid-Pelletier
 District electoral de Wyman
 District electoral du Val-des-Arbres
@@ -2026,11 +2033,11 @@ La Cote-de-Gaspe
 Lac-Sante
 Macdonald
 Madoc
-McGarry
 Montague
 Montrose No. 315
 Nueva Escocia
 Pleasantdale No. 398
+Vanscoy No. 345
 Canadá
 New Foundland - Labrador
 Gaspesie-Iles-de-la-Madeleine
@@ -2039,21 +2046,19 @@ Cocosoerne
 Îles Cocos
 Cocos-sullot
 Cocos Adalari
-Iles Cocos - Keeling
 Inslas Cocos
+Oileáin na gCócónna
+Îles Cocos - Keeling
 Cocosøerne
 Cocoseilanden
 Zaire
 República Democrática del Congo
-República Democrática do Congo - République Démocratique du Congo
-Respublica Popularis Congensis
 República Democràtica del Congo
 República Democrática do Congo
 Zone de Sandoa
 Zone de Punia
 Zone de Mobayi
 Zone de Moba
-Zone de Masisi
 Zone de Mambasa
 Zone de Lusambo
 Zone de Luiza
@@ -2067,6 +2072,7 @@ Zone de Faradje
 Zone de Banalia
 Ville de Matadi
 Zone de Madimba
+La Ville de Kinshasa
 Zone de Kasongo-Lunda
 Zone de Budjala
 Zone de Bosobolo
@@ -2075,7 +2081,6 @@ Province de Bandundu
 Cataractes
 Prefecture de la Vakaga
 Prefecture de la Ouaka
-Prefecture de Mbomou
 República Centroafricana
 República Centroafricana - République Centroafricaine
 República Centreafricana
@@ -2084,9 +2089,9 @@ República Africana Central
 República Centro-Africana
 Republica Centro-Africana
 Republica Centroafricana - Republique Centroafricaine
+Prefecture de la Bamingui-Bangoran
 Prefecture de Sangha
 Prefecture de la Sangha-Mbaere
-Prefecture de l' Ombella-Mpoko
 Prefecture de Nana-Mambere
 Prefecture de la Nana-Mambere
 Prefecture de la Lobaye
@@ -2094,10 +2099,10 @@ Prefecture de Lobaye
 Prefecture de Kemo-Gribingui
 Prefecture de la Kemo
 Prefecture de la Mambere-Kadei
+Region de la Likouala
 República del Congo
 Congo [República]
 Concu
-Congo [Republica]
 Republica del Congo
 Republica de Còngo
 Republica de Congo
@@ -2113,8 +2118,6 @@ Canton del Tesino
 Canton Turgovia
 Canton de Thurgovie
 Suiza
-Suica
-Canton Obvaldo
 Canton Nidvaldo
 Melano
 Chantun Lucerna
@@ -2124,9 +2127,7 @@ Lucerna
 Cantón de los Grisones
 Canton de los Grisones
 Canton de Glaris
-District de la Glane
 Canton de Geneve
-Friburgo
 Canton Friburgo
 Canton de Berne
 Arbedo-Castione
@@ -2142,7 +2143,6 @@ District de la Gruyere
 La Gruyere
 Val-de-Ruz
 Lac
-Buelach
 Altbueron
 Arconciel
 Ardon
@@ -2170,7 +2170,6 @@ Laupersdorf
 Locarno
 Losone
 Lostorf
-Lucens
 Maracon
 Marmorera
 Melide
@@ -2179,15 +2178,14 @@ Perroy
 Porrentruy
 Preles
 Puidoux
-Rances
 Rue
-Sales
 Senarclens
 Sobrio
+Sonvico
 Tenero-Contra
 Tiefencastel
+Val-de-Travers
 Villarepos
-Villarsel-sur-Marly
 Glarus Sued
 Valbroye
 Seguelon
@@ -2196,12 +2194,11 @@ Sous-prefecture de Seguelo
 Sous-prefecture de Seguela
 Costa de Marfil
 Akte Elephantodontos
+Elefántcsontpart
 Costa de Ebore
-Sous-prefecture de Guiglo
 Facobly
 Sous-prefecture de Facobly
 Sous-prefecture de Bocanda
-Sous-prefecture de Bangolo
 Region des Lagunes
 Sud-Comoe
 Moyen-Comoe
@@ -2315,7 +2312,6 @@ IX Región
 Antofagasta
 Región de Antofagasta
 Segunda Región
-Region de Antofagasta
 II Región
 Provincia de Antofagasta
 Aysén
@@ -2361,7 +2357,6 @@ Provincia de Cordillera
 Provincia de Chacabuco
 La Higuera
 Cobquecura
-Los Angeles
 Parral
 Cauquenes
 Nacimiento
@@ -2377,9 +2372,10 @@ Concon
 San Jose de Maipo
 San Carlos
 Los Vilos
-Algarrobo
+Ollague
 Maria Elena
 San Pedro de Atacama
+Sierra Gorda
 Tierra Amarrilla
 Alto del Carmen
 El Quisco
@@ -2398,10 +2394,9 @@ Nancagua
 Pumanque
 Paredones
 Graneros
-Rancagua
+Quinta de Toloco
 Licanten
 Pelarco
-Villa Alegre
 Los Alamos
 Penco
 Cabrero
@@ -2415,7 +2410,6 @@ Calera de Tango
 San Nicolas
 Hualqui
 El Monte
-San Rosendo
 Padre Las Casas
 Nueva Imperial
 Los Sauces
@@ -2437,15 +2431,16 @@ Independencia
 Puente Alto
 Las Condes
 Curaco de Velez
+Huechuraba
 San Juan de la Costa
 Torres del Paine
+Hijuelas
 Los Lagos
 General Lagos
 Curacavi
 Corral
 Isla de Pascua
 Departement de la Sanaga-Maritime
-Departement de la Menoua
 Region de l'Est
 Province de l'Est
 Camerún
@@ -2459,10 +2454,11 @@ Republica dos Camaroes
 Camarún
 Province de l'Adamaoua
 Region de l'Adamaoua
+Ch’a-ya Hsien
 Ch'a-yu Hsien
-Cha-ta Hsien
 yue pu hu xian
 Su-lo Hsien
+Su-fu Hsien
 Ts’e-lo Hsien
 Ts'e-lo Hsien
 Qiemo Xian
@@ -2475,20 +2471,18 @@ he tian de qu
 Gongjue Xian
 gong jue xian
 Gande Xian
-de qin xian
 Coqen Xian
 Cuona Xian
 Cona
 Pien-pa Hsien
 Chao-su Hsien
 ta cheng de qu
-Ha-pa-ho Hsien
 Fuyun Xian
 Fu-yun Hsien
 Po-lo Hsien
+a ke su de qu
 Tso-yun Hsien
 zuo quan xian
-Chao Hsien
 Yun-ho Hsien
 yu ci qu
 Hsun-hua Salar Autonomous Hsien
@@ -2496,61 +2490,58 @@ Xuan’en Xian
 Xuan'en Xian
 Xide Xian
 Fu Xian
-T’ao-lo Hsien
 T'ao-lo Hsien
 su qian
-cui yun qu
-Ju-yüan Yao Autonomous Hsien
 Ju-yuan Yao Autonomous Hsien
 ren xian
 Ren Xian
 ren hua xian
 Qimen Xian
+Panxian Tequ
 Nan-lo Hsien
 Nanjing
 Min-lo Hsien
 Mi-lo Hsien
-Mi-lo Hsien
 Lo-yuan Hsien
 long de xian
-Chiao Hsien
-Hunan Province
+Chia-yu Hsien
 Hubei
-Ho-yuan Hsien
 Hequ Xian
 Guide Xian
 Fu Xian
 Fuquan Xian
-Funan Xian
 Fujian
 Fukien Province
-feng xian qu
 Te-pao Hsien
 de an xian
-Ch’un-hua Hsien
 Ch'un-hua Hsien
 República Popular China
-República Popular da China
+Republica Popular de la Xina
 República Popular de la Xina
 Bose Xian
 Po-lo Hsien
 Xuexi
 Chao-yuan Hsien
+Yen-pien Autonomous Area
+tu mo te you qi
 Fu-yuan Hsien
-Ch'ien-kuo-erh-lo-ssu Mongol Autonomous Hsien
-Qian Gorlos Mongolzu Zizhixian
+Ch’ien-kuo-erh-lo-ssu Mongol Autonomous Hsien
 Huna League
 Huade Xian
 Fu-yu Hsien
+Fuyu Xian
+Fu-yu Hsien
+Fu-yuan Hsien
 Fuyuan
 Tu-erh-po-t’e Mongol Autonomous Hsien
+Tu-erh-po-t'e Mongol Autonomous Hsien
 da la te qi
+su jia tun qu
 nan fen qu
 lao bian qu
-yue hu qu
+qing yun pu qu
 lian yun qu
 fu tian qu
-tian qiao qu
 jiu long po qu
 yun he qu
 ma cun qu
@@ -2561,13 +2552,15 @@ ren he qu
 fu la er ji qu
 sa er tu qu
 yu quan qu
+xuan en xian
 Xuan’en Xian
 Xuan'en Xian
-yu feng qu
+a la er shi
 Zipacón
 Zipacon
 Marroquín
 Yolombó
+Yaguará
 Yacuanquer
 Viracacha
 Villapinzón
@@ -2605,7 +2598,6 @@ Supía
 Suesca
 Departamento de Sucre
 Socotá
-Sincelejo
 Cincelejo
 Siachoque
 San Zenón
@@ -2618,7 +2610,6 @@ Santa Rosa de Viterbo
 Santa Rosa de Cabal
 Santa Rosa
 Santa Rosa
-Departamento de Santander
 Iscuande
 El Charco
 Iscuandé
@@ -2641,10 +2632,8 @@ San Juan del Cesar
 San Jose de Pare
 San Jose de Miranda
 San Jose del Palmar
-San José de Isnos
 San Jose de Isnos
 San Joaquín
-San Jeronimo
 San Jerónimo
 San Jacinto
 San Francisco
@@ -2660,6 +2649,7 @@ Intendencia de San Andres
 Departamento de Archipiélago de San Andrés
 Departamento de Archipielago de San Andres
 Intendencia de San Andrés y Providencia
+Archipiélago de San Andrés
 Providencia y Santa Catalina, Departamento de Archipielago de San Andres
 Providencia y Santa Catalina
 Intendencia Nacional San Andres y Providencia
@@ -2674,7 +2664,8 @@ Rondón
 Robles
 Robles La Paz
 Robles
-San José
+San Jose
+Roberto Payán
 Riosucio
 Ríosucio
 Riosucio
@@ -2701,7 +2692,6 @@ Purificacion
 Puracé
 Purace
 Pulí
-Puerto Tejada
 Puerto Salgar
 Puerto López
 Puerto Lopez
@@ -2721,8 +2711,6 @@ Pueblo Viejo
 Pueblorrico
 Pueblo Rico
 Pueblo Neuvo
-Polonuevo
-Planeta Rica
 Planadas
 Pitalito
 Piedecuesta
@@ -2743,14 +2731,10 @@ Nuevo Colón
 Nuevo Colon
 Departamento del Norte de Santander
 Departamento de Santander del Norte
-Departamento de Narino
 Nariño
 Departamento de Nariño
 Nariño
 Nariño
-Pavarandocito
-Mosquera
-Morales
 Morales
 Monterrey
 Montelíbano
@@ -2765,7 +2749,6 @@ Maripí
 María La Baja
 Departamento del Magdalena
 Madrid
-Macanal
 Los Santos
 Los Andes
 Lerida
@@ -2776,6 +2759,7 @@ La Victoria
 La Vega
 La Vega
 La Unión
+La Sierra
 La Plata
 La Peña
 La Pena
@@ -2826,7 +2810,7 @@ Comisaría Especial del Guainía
 Guacari
 Guaca
 Boca de Monte
-Garzón
+Gamarra
 Gachancipa
 Gachancipá
 Gachacipa
@@ -2877,7 +2861,6 @@ Curití
 Cundinamarca
 Departamento de Cundinamarca
 Carlosania
-Guaspud
 Carlosama
 Cuaspud
 Cobarachia
@@ -2900,7 +2883,6 @@ Concepción
 Cómbita
 Colón
 República de Colombia
-Co-lom-bi-a (Colombia)
 Colombié
 Colombia
 Republica de Colombia
@@ -2910,7 +2892,6 @@ Colombia
 Cisneros
 Cienaga de Oro
 Ciénaga de Oro
-Ciénaga
 Chocontá
 Intendencia del Chocó
 Intendencia Nacional del Choco
@@ -2919,6 +2900,7 @@ Departamento del Choco
 Intendencia Nacional del Chocó
 Departamento del Chocó
 Chitaraque
+Chinacota
 Chaparral
 Chaguaní
 Departamento del Cesar
@@ -2983,20 +2965,19 @@ Belen de los Andaquies
 Belén de los Andaquíes
 Barranco de Loba
 Barrancas
-Barrancabermeja
 Pizarro
 Atlántico
 Departamento del Atlántico
-Atlantico
 Departamento del Atlantico
 Ataco
 Armenia
 Arcabuco
 Comisaría de Arauca
+Departamento de Arauca
 Comisaría Especial de Arauca
 Comisaria Especial de Arauca
 Aracataca
-Ansermanuevo
+Apía
 Capital frutera de Colombia
 Andalucia
 Andalucía
@@ -3036,7 +3017,6 @@ Municipio de Mesetas
 Sector Jamuco Abajo
 Municipio de Puerto Concordia
 Barrio Santa Isabel
-Ariguani
 Canton de Coronado
 Canton Vazquez de Coronado
 Cantón Vázquez de Coronado
@@ -3085,7 +3065,6 @@ Cantón San Carlos
 Cantón de San Carlos
 Canton de San Carlos
 Cantón Puriscal
-Canton Puriscal
 Canton de Puriscal
 Cantón de Puriscal
 Provincia de Puntarenas
@@ -3101,7 +3080,6 @@ Cantón de Pérez Zeledón
 Canton de Perez Zeledon
 Canton de Parrita
 Canton de Palmares
-Canton de Osa
 Cantón Orotina
 Cantón de Orotina
 Canton de Orotina
@@ -3182,6 +3160,7 @@ Cantón Central
 Cantón Central de Cartago
 Canton Central
 Canton Central de Cartago
+Canton Cartago
 Canton de Carrillo
 Canton de Canas
 Cantón de Buenos Aires
@@ -3216,7 +3195,6 @@ Canton de Acosta
 Cantón Acosta
 Canton Acosta
 Cantón de Abangares
-Canton de Abangares
 Canton de San Ramon
 Municipio de Zulueta
 Municipio de Yateras
@@ -3224,6 +3202,7 @@ Municipio de Yaguajay
 Municipio de Vinales
 Provincia de Villa Clara
 Municipio de Union de Reyes
+Municipio de Trinidad
 Municipio de Santo Domingo
 Municipio de Santiago de las Vegas
 Santiago de Cuba
@@ -3279,6 +3258,7 @@ Municipio de Niquero
 Municipio de Moron
 Municipio de Melena del Sur
 Municipio de Mayari
+Municipio de Maximo Gomez
 Municipio de Matanzas
 Municipio de Marti
 Municipio de Mariel
@@ -3326,10 +3306,8 @@ Municipio de Guane
 Municipio de Guanajay
 Municipio de Guanabacoa
 Municipio de Guamacaro
-Municipio de Guaimaro
 Provincia Granma
 Municipio de Gibara
-Municipio de Fomento
 Municipio de Florida
 Municipio de Esmeralda
 Municipio de Encrucijada
@@ -3386,7 +3364,6 @@ Municipio de Aguacate
 Provincia Mayabeque
 Cabo Verde
 Republica de Cabo Verde
-fu de jiao
 Provincia de Cabo Verde
 República de Cabo Verde
 Tarrafal de Sao Nicolau
@@ -3394,7 +3371,7 @@ Curazao
 País de Curazao
 Curacao
 Isla Christmas
-Insula de Natal
+Ynys y Nadolig
 Eparchía Páfou
 Eparchía Lefkosías
 Eparchía Lemesoú
@@ -3406,6 +3383,7 @@ Chipre
 Saeprɔs
 Pribram
 Praga
+Okres Pardubice
 Región de Bohemia Meridional
 Regió de Bohèmia Meridional
 Chequia
@@ -3451,12 +3429,14 @@ Badaen-Vuertaen
 Edertal
 Espenau
 Elbtal
+Extertal
 Munich
 Regensburg
 Offenbach del Meno
 Lucus Fridericianus-Mons Crucis
 Ensdorf
 Cumlosen
+Guelzow
 Lalendorf
 Eldena
 Lueblow
@@ -3470,17 +3450,19 @@ Guenserode
 Cursdorf
 Jacobsdorf
 Mueden (Mosel)
+Suederdorf
 Ladelund
 Suederluegum
+Suesel
 Boesdorf
 Laboe
 Lebrade
 Tasdorf
 Arpsdorf
+Buensdorf
 Ellerdorf
 Gueby
 Ruede
-Rosdorf
 Ruempel
 Rosdorf
 Mariental
@@ -3488,7 +3470,6 @@ Huede
 Varrel
 Elmlohe
 Tespe
-Undeloh
 Elsdorf
 Estorf
 Lueder
@@ -3501,18 +3482,15 @@ Laer
 Elz
 Rasdorf
 Fuldabrueck
+Neuental
+Auen
 Auel
-Loesnich
 Piesport
 Giesdorf
-Salach
-Fridolfing
 Ensdorf
 Ruegland
-Guenzach
-Castrop-Rauxel, Stadt
 Estorf
-Region de Tadjourah
+Luebstorf
 Djibuti
 Dinamarca
 Dominica
@@ -3521,6 +3499,7 @@ Villa Vásquez
 Villa Vázquez
 Villa Vazquez
 Villa Jaragua
+Villa Altagracia
 Vicente Noble
 Provincia de Valverde
 Peña
@@ -3537,6 +3516,7 @@ Provincia de San Pedro de Macoris
 San Pedro de Macoris
 Provincia de Macoris
 San Pedro de Macoris
+San Juan de la Maguana
 Provincia de San Juan
 Provincia Benefactor
 San Jose de Ocoa
@@ -3576,11 +3556,10 @@ Provincia de Pedernales
 Padre Las Casas
 Distrito Nacional
 Provincia de Monte Plata
-Monte Plata
-Monte Plata
 Provincia de Monte Cristi
 Provincia de Monte Cristy
 Monseñor Nouel
+Monsenor Nouel
 Provincia de Monseñor Nouel
 Provincia de Monsenor Nouel
 Monción
@@ -3618,7 +3597,6 @@ Provincia de El Seibo
 El Seybo
 El Seíbo
 El Seibo
-El Seibo
 El Llano
 Provincia de Elias Pina
 Provincia San Rafael
@@ -3644,6 +3622,7 @@ Provincia Libertador
 Elías Piña
 Elias Pina
 Cevicos
+Cayetano Germosen
 Castanuelas
 Cabrera
 Cabral
@@ -3662,12 +3641,11 @@ San Jose de Ocoa
 Provincia de San Jose de Ocoa
 Provincia de Santo Domingo
 Daïra de Tiaret
+Daira de Tenes
 Daïra de Tablat
 Daira de Tablat
 Daïra de Sour el Ghozlane
-Daira de Sour el Ghozlane
 Daïra de Sebdou
-Commune de Ras el Aioun
 Oued Es Salam
 Daïra de M’Sila
 Daïra de Miliana
@@ -3686,7 +3664,6 @@ El Kroub
 Daïra d’ El Golea
 Daira d' El Golea
 Daïra d’ El Eulma
-Daira d' El Eulma
 Daïra d’ El Asnam
 Daira d' El Asnam
 El Amiria
@@ -3698,8 +3675,6 @@ Daïra de Dar el Beïda
 Wilaya de Constantine
 Daïra de Collo
 Daira de Collo
-Chelgoum el Aid
-Wilaya de Bordj Bou Arreridj
 Argel
 Argelia
 República d'Algèria
@@ -3715,7 +3690,6 @@ Canton Veinticuatro de Mayo
 Cantón Veinticuatro de Mayo
 24 de Mayo
 Cantón Urdaneta
-Canton Urbina Jado
 Canton Tulcan
 Cantón Tena
 Canton Tena
@@ -3725,7 +3699,6 @@ Cantón Sucúa
 Canton Sucua
 Canton Sucre
 Cantón Sigsig
-Canton Saraguro
 Cantón Saquisilí
 Canton Santo Domingo de los Colorados
 Canton Santa Rosa
@@ -3740,7 +3713,6 @@ Canton Rocafuerte
 Cantón Rocafuerte
 Cantón Riobamba
 Canton Riobamba
-Canton Quijos
 Cantón Quijos
 Canton Quevedo
 Cantón Quero
@@ -3751,7 +3723,6 @@ Canton Portoviejo
 Cantón Portovelo
 Cantón Piñas
 Cantón Píllaro
-Provincia de Pichincha
 Canton Pedro Moncayo
 Cantón Paute
 Cantón Pasaje
@@ -3778,6 +3749,7 @@ Provincia de Los Rios
 Los Ríos
 Provincia de Los Ríos
 Provincia de Loja
+Canton Loja
 Cantón Loja
 Cantón Latacunga
 Cantón Lago Agrio
@@ -3790,7 +3762,6 @@ Cantón Huaquillas
 Canton Huaquillas
 Guayas
 Provincia del Guayas
-Canton Guayaquil
 Cantón Guayaquil
 Canton Guaranda
 Cantón Guaranda
@@ -3868,10 +3839,10 @@ Cantón Baba
 Provincia del Azuay
 Cantón Azogues
 Canton Azogues
+Canton Arenillas
 Cantón Arenillas
 Canton Archidona
 Cantón Archidona
-Canton Antonio Ante
 Cantón Ambato
 Cantón Alausí
 Cantón Aguarico
@@ -3894,6 +3865,7 @@ Estoni
 Estonïi
 Esland
 Orileede Esitonia
+Estonja
 Estlan
 Estónia
 Estonio
@@ -3905,11 +3877,11 @@ Guergua
 El Qantara District
 El Qanṭara District
 Egipto
-Exipto - msr
 Laegueptaen
 Exipto - مصر
 El Masr
 El Qutr el Masri
+El Zaqaziq
 El Zaqâzîq
 El Suez
 El-Sanṭa
@@ -3921,7 +3893,6 @@ El Wasta
 El-Wadi el-Gedid
 El Minja
 El Minia
-El Minya
 El Monofia
 El-Manzala
 El-Manṣûra
@@ -3933,29 +3904,31 @@ El-Gîza
 El-Giza
 El Gīza
 El Giza
-El Faiyum
+El-Ḥuseinîya
 El Faiyûm
 El Fayoum
 El Faiyūm
+El Fashn
 El-Bahr el-Ahmar
 El Badari
-El Badâri
 El-‘Aiyâṭ
 El Tabya
 Mostafa El Serwy
 RASD
 El Sáhara Español
+Sahara Occidentală
 Sahara occidental
 Sahara Occidental
 EH
 El Sáhara
 Sáhara Occidental
 Provincia del Sáhara
+Sàhara Occidental
 Provincia del Sahara
 Sahara Occidentale
 República Árabe Saharaui Democrática
 Sahara Occidentala
-República Àrab Saharauí Democràtica
+El Sahara
 Provincia del Sáhara Español
 El Sahara Espanol
 Provincia Espanola de Sahara
@@ -3981,6 +3954,7 @@ Estado Español
 Hesperia
 Espaina
 La piel de toro
+Espagne
 España
 la pell de brau
 Regne d'Espanya
@@ -3992,9 +3966,9 @@ Espánjja
 Sevilla
 Provincia de Sevilla
 Santa Cruz de Tenerife
-Province of Santa Cruz de Tenerife
 Provincia de Tenerife
 Provincia de Santa Cruz de Tenerife
+Provinz Santa Cruz de Tenerife
 Province de Santa Cruz de Tenerife
 Región de Murcia
 Múrcia
@@ -4023,7 +3997,6 @@ Provincia de Cuenca
 Conca
 Córdoba
 Provincia de Cordova
-Cordoue
 Provincia de Cordoba
 Provincia de Córdoba
 Cordoba
@@ -4038,7 +4011,6 @@ Ciudad de Ceuta
 Ciudad Autonoma de Ceuta
 Cádiz
 Provincia de Cadiz
-Cadice
 Provincia de Cádiz
 Provincia de Cadis
 Cáceres
@@ -4066,6 +4038,7 @@ Andalucía
 Andalosie
 Comunidad Canaria
 Canaries
+Comunidad Autónoma Canaria
 Islas Canarias
 Canarias
 Comunidad Autónoma de Canarias
@@ -4075,6 +4048,7 @@ Comunidad Autónoma de Castilla-La Mancha
 Comunidad Autonoma de Castilla-La Mancha
 Comunidad Autónoma de Extremadura
 País Valenciano
+Pais Valencia
 Comunidad Valenciana
 Landes Valencia
 Reino de Valencia
@@ -4157,7 +4131,6 @@ Region de Madrid
 Lugo
 Provincia de Lugo
 Province de Lugo
-Los Ausines
 la Noguera
 Comarca de la Noguera
 León
@@ -4172,7 +4145,6 @@ Partido Judicial de Laviana
 Partido Judicial de Lalin
 La Coruña
 Provincia de La Coruña
-Provincia da Coruna
 La Coruna
 Provincia de La Coruna
 Partido Judicial de Infiesto
@@ -4195,6 +4167,7 @@ Cotobade
 Provincia de Castellón
 Castellón
 Provincia de Castellón de la Plana
+Provincia de Castellon
 Provincia de Castello
 Castelló
 Provincia de Castellon de la Plana
@@ -4243,9 +4216,10 @@ la Montaña de Castilla
 la Montana
 Cantabrie
 Cantabria
+Comunidad Autonoma de Cantabria
+Comunidad Autónoma de Cantabria
 la Montaña
 Reino de Aragón
-Aragonien
 Comunidad Autonoma de Aragon
 Comunidad Autónoma de Aragón
 Aragón
@@ -4268,10 +4242,10 @@ Castiella y Llión
 Castilië en León
 Castilia e León
 Castilla y León
-Komunidad Otonoma de Kastiya i Leon
 Castiella y Leyón
 Castiella y Leyon
 Cataluña
+el Principat
 Galicia
 Galícia
 Galicien
@@ -4287,8 +4261,8 @@ Xerona
 Provincia de Girona
 Provincia de Gerona
 Lérida
-Lerida
 Provincia de Lleida
+Province de Lleida
 La Rioja
 Province de La Rioja
 La Rioxa
@@ -4320,6 +4294,7 @@ Banos de Ebro/Manueta
 Campezo
 Cigoitia
 Elburgo
+Elburgo/Burgelu
 Elciego
 Elvillar
 Labastida
@@ -4368,19 +4343,18 @@ Pozuelo
 Recueja (La)
 Robledo
 Salobre
-Tarazona de la Mancha
 Tobarra
 Villa de Ves
 Villalgordo del Jucar
 Villapalacios
 Villarrobledo
 Villaverde de Guadalimar
+Aiguees
 Alcocer de Planes
 Alcoy
 l'Alfas del Pi
 Alguena
 Alicante
-Alqueria d'Asnar (l')
 Banyeres de Mariola
 Beniarres
 Benidorm
@@ -4404,7 +4378,6 @@ Jávea
 Monforte del Cid
 Muro de Alcoy
 La Nucia
-Parcent
 Pedreguer
 Pinos (el)/Pinoso
 Planes
@@ -4427,7 +4400,7 @@ Cuevas del Almanzora
 Gallardos (Los)
 Huercal de Almeria
 Huercal-Overa
-Instincion
+Laujar de Andarax
 Lucainena de las Torres
 Macael
 Nacimiento
@@ -4470,9 +4443,11 @@ Cebreros
 Cepeda la Mora
 Collado de Contreras
 Collado del Miron
+Constanzana
 Crespos
 Cuevas del Valle
 Espinosa de los Caballeros
+Flores de Avila
 Fresno (El)
 Fuente el Sauz
 Fuentes de Ano
@@ -4500,6 +4475,7 @@ Llanos de Tormes (Los)
 Madrigal de las Altas Torres
 Malpartida de Corneja
 Mancera de Arriba
+Mediana de Voltoya
 Mesegar de Corneja
 Miron (El)
 Miruena de los Infanzones
@@ -4516,11 +4492,10 @@ Narros de Salduena
 Navacepedilla de Corneja
 Navalperal de Pinares
 Navalperal de Tormes
-Navaquesera
 Navas del Marques (Las)
 Neila de San Miguel
 Oso (El)
-Pajares de Adaja
+Padiernos
 Palacios de Goda
 Parral (El)
 Pascualcobo
@@ -4528,14 +4503,12 @@ Pedro Bernardo
 Pedro-Rodriguez
 Penalba de Avila
 Poyales del Hoyo
-Puerto Castilla
 Rasueros
 Rivilla de Barajas
 Salobral
 San Bartolome de Bejar
 San Bartolome de Corneja
 San Bartolome de Pinares
-Sanchorreja
 San Esteban de los Patos
 San Esteban del Valle
 San Esteban de Zapardiel
@@ -4555,11 +4528,10 @@ Santa Maria del Arroyo
 Santa Maria del Berrocal
 Santa Maria de los Caballeros
 Santiago del Collado
-Santo Domingo de las Posadas
-Santo Tome de Zabarcos
 San Vicente de Arevalo
 Serrada (La)
 Serranillos
+Solana de Avila
 Solosancho
 Sotillo de la Adrada
 Tiemblo (El)
@@ -4593,6 +4565,7 @@ Cabeza la Vaca
 Calamonte
 Calera de Leon
 Calzadilla de los Barros
+Campanario
 Campillo de Llerena
 Carrascalejo (El)
 Casas de Don Pedro
@@ -4622,7 +4595,6 @@ Higuera la Real
 Hinojosa del Valle
 Jerez de los Caballeros
 Lapa (La)
-Lobon
 Malcocinado
 Malpartida de la Serena
 Medina de las Torres
@@ -4653,6 +4625,7 @@ San Vicente de Alcantara
 Segura de Leon
 Siruela
 Solana de los Barros
+Talavera la Real
 Torre de Miguel Sesmero
 Torremayor
 Valdecaballeros
@@ -4661,7 +4634,6 @@ Valencia del Mombuey
 Valencia del Ventoso
 Valverde de Burguillos
 Valle de la Serena
-Valle de Matamoros
 Villafranca de los Barros
 Villagarcia de la Torre
 Villalba de los Barros
@@ -4687,7 +4659,6 @@ Argentona
 Aiguafreda
 Barcelona
 el Bruc
-el Brull
 Cabrera d'Anoia
 Cabrera de Mar
 Cabrils
@@ -4697,6 +4668,7 @@ Capellades
 Cardona
 Castellar de n'Hug
 Castellfollit de Riubregos
+Castellvi de la Marca
 Corbera de Llobregat
 Esparreguera
 Esplugues de Llobregat
@@ -4711,10 +4683,11 @@ Guardiola de Bergueda
 la Llacuna
 la Llagosta
 Llica de Vall
-Manresa
 les Masies de Voltrega
+Masnou (El)
 Figaró
 el Figueró i Montmany
+el Figuero i Montmany
 Montmeló
 Montornes del Valles
 la Nou de Bergueda
@@ -4732,8 +4705,6 @@ Rubio
 Santpedor
 Sant Adria de Besos
 Sant Antoni de Vilamajor
-Sant Climent de Llobregat
-Sant Cugat del Valles
 Sant Feliu de Llobregat
 Sant Joan de Vilatorrada
 Sant Julia de Vilatorta
@@ -4751,6 +4722,7 @@ Santa Margarida i els Monjos
 Barbera del Valles
 Santa Maria de Besora
 Santa Maria de Corco
+Santa Maria de Merles
 Santa Maria de Miralles
 Santa Maria de Palautordera
 Sant Vicenc de Torello
@@ -4787,7 +4759,6 @@ Barrio de Muno
 Barrios de Bureba (Los)
 Barrios de Colina
 Basconcillos del Tozo
-Berzosa de Bureba
 Burgoso
 Burgosas
 Burgos
@@ -4811,6 +4782,7 @@ Castildelgado
 Castil de Peones
 Castrillo de la Reina
 Castrillo de la Vega
+Castrillo del Val
 Castrillo de Riopisuerga
 Castrillo Matajudios
 Cayuela
@@ -4822,6 +4794,7 @@ Cilleruelo de Arriba
 Ciruelos de Cervera
 Contreras
 Coruna del Conde
+Covarrubias
 Cubillo del Campo
 Cubo de Bureba
 Cueva de Roa (La)
@@ -4848,7 +4821,6 @@ Horra (La)
 Huermeces
 Huerta de Arriba
 Huerta de Rey
-Hurones
 Ibeas de Juarros
 Ibrillos
 Jaramillo de la Fuente
@@ -4863,6 +4835,7 @@ Madrigalejo del Monte
 Mambrilla de Castrejon
 Mambrillas de Lara
 Manciles
+Mazuela
 Mecerreyes
 Melgar de Fernamental
 Merindad de Cuesta-Urria
@@ -4918,6 +4891,7 @@ San Adrian de Juarros
 San Juan del Monte
 San Mames de Burgos
 San Martin de Rubiales
+San Millan de Lara
 Santa Cruz de la Salceda
 Santa Gadea del Cid
 Santa Maria del Campo
@@ -4957,10 +4931,8 @@ Villaescusa de Roa
 Villaescusa la Sombria
 Villaespasa
 Villafranca Montes de Oca
-Villafruela
 Villalba de Duero
 Villalbilla de Burgos
-Villalbilla de Gumiel
 Villamayor de los Montes
 Villamayor de Trevino
 Villamiel de la Sierra
@@ -4995,9 +4967,9 @@ Arroyomolinos
 Banos de Montemayor
 Benquerencia
 Berrocalejo
-Berzocana
 Bohonal de Ibor
 Cabanas del Castillo
+Cabezabellosa
 Cabezuela del Valle
 Cabrero
 Caceres
@@ -5020,6 +4992,7 @@ Cuacos de Yuste
 Cumbre (La)
 Fresnedoso de Ibor
 Garganta (La)
+Garganta la Olla
 Gargueera
 Garrovillas de Alconetar
 Gordo (El)
@@ -5032,7 +5005,6 @@ Higuera
 Holguera
 Jaraiz de la Vera
 Jarandilla de la Vera
-Logrosan
 Losar de la Vera
 Madrigal de la Vera
 Madronera
@@ -5056,6 +5028,7 @@ Pesga (La)
 Pinofranqueado
 Plasencia
 Plasenzuela
+Pozuelo de Zarzon
 Puerto de Santa Cruz
 Robledillo de Gata
 Robledillo de la Vera
@@ -5069,6 +5042,7 @@ Santiago de Alcantara
 Santiago del Campo
 Santibanez el Alto
 Santibanez el Bajo
+Serradilla
 Sierra de Fuentes
 Talaveruela de la Vera
 Tejeda de Tietar
@@ -5082,11 +5056,9 @@ Torrejon el Rubio
 Valdecanas de Tajo
 Valdefuentes
 Valdelacasa de Tajo
-Valdemorales
 Valencia de Alcantara
 Valverde de la Vera
 Viandar de la Vera
-Villa del Campo
 Villa del Rey
 Villanueva de la Sierra
 Villanueva de la Vera
@@ -5095,7 +5067,6 @@ Villar de Plasencia
 Villasbuenas de Gata
 Zarza de Granadilla
 Alcala de los Gazules
-Algeciras
 Algodonales
 Arcos de la Frontera
 Barrios (Los)
@@ -5129,13 +5100,14 @@ Aranuel
 Ares del Maestre
 Barracas
 Benafigos
+Cabanes
 Castell de Cabres
 Castellón de la Plana
 Castellon de la Plana/Castello de la Plana
 Castellón
 Castellon de la Plana
-Castillo de Villamalefa
 Cervera del Maestre
+Cinctorres
 Cortes de Arenoso
 Eslida
 Espadilla
@@ -5146,6 +5118,7 @@ Higueras
 Lucena del Cid
 Llosa (la)
 Oropesa del Mar/Orpesa
+Pina de Montalgrao
 Puebla de Arenoso
 Pobla de Benifassa (la)
 Pobla Tornesa (la)
@@ -5164,19 +5137,16 @@ Torre d'En Besora (la)
 Torre Endomenech
 Useras/Useres (les)
 Vall de Almonacid
-Vilafames
 Villafranca del Cid
-Villafranca del Cid/Vilafranca
 Villanueva de Viver
 Vilar de Canes
 Villarreal/Vila-real
+Villores
 Alquerias del Nino Perdido
 Alcazar de San Juan
-Alcoba
 Aldea del Rey
 Almadenejos
 Almodovar del Campo
-Almuradiel
 Arenas de San Juan
 Argamasilla de Alba
 Argamasilla de Calatrava
@@ -5196,8 +5166,6 @@ Fuenllana
 Fuente el Fresno
 Granatula de Calatrava
 Guadalmez
-Herencia
-Hinojosas de Calatrava
 Horcajo de los Montes
 Labores (Las)
 Luciana
@@ -5239,6 +5207,7 @@ Alcaracejos
 Blazquez (Los)
 Canete de las Torres
 Carcabuey
+Cardena
 Carpio (El)
 Castro del Rio
 Cordoba
@@ -5246,6 +5215,7 @@ Dona Mencia
 Dos Torres
 Encinas Reales
 Espejo
+Espiel
 Fuente la Lancha
 Fuente Obejuna
 Fuente Palmera
@@ -5275,7 +5245,6 @@ Villanueva del Duque
 Villanueva del Rey
 Villaviciosa de Cordoba
 Viso (El)
-Ares
 Cabana de Bergantinos
 Cambre
 Carral
@@ -5298,7 +5267,6 @@ Albaladejo del Cuende
 Albalate de las Nogueras
 Alberca de Zancara (La)
 Alcala de la Vega
-Alcantud
 Alcazar del Rey
 Alconchel de la Estrella
 Algarra
@@ -5323,7 +5291,6 @@ Canada Juncosa
 Canavate (El)
 Canaveruelas
 Carboneras de Guadazaon
-Carrascosa de Haro
 Casas de Benitez
 Casas de Garcimolina
 Casas de Guijarro
@@ -5368,6 +5335,7 @@ Osa de la Vega
 Pajaroncillo
 Palomares del Campo
 Paracuellos
+Paredes
 Parra de las Vegas (La)
 Pedernoso (El)
 Pedroneras (Las)
@@ -5392,6 +5360,7 @@ San Pedro Palmiches
 Santa Cruz de Moya
 Santa Maria del Campo Rus
 Santa Maria de los Llanos
+Santa Maria del Val
 Solera de Gabaldon
 Tarancon
 Torrejoncillo del Rey
@@ -5406,7 +5375,6 @@ Valverde de Jucar
 Vara de Rey
 Villaconejos de Trabaque
 Villaescusa de Haro
-Villagarcia del Llano
 Villalba de la Sierra
 Villalba del Rey
 Villalgordo del Marquesado
@@ -5464,10 +5432,12 @@ Gualchos
 Güejar Sierra
 Gueejar Sierra
 Huelago
+Hueneja
 Huescar
 Huetor de Santillan
 Huetor Vega
 Jerez del Marquesado
+Calahorra (La)
 Lobras
 Maracena
 Montejicar
@@ -5530,6 +5500,7 @@ Cifuentes
 Ciruelas
 Ciruelos del Pinar
 Condemios de Abajo
+Condemios de Arriba
 Corduente
 Cubillo de Uceda (El)
 Chillaron del Rey
@@ -5567,7 +5538,6 @@ Molina de Aragon
 Montarron
 Moratilla de los Meleros
 Navas de Jadraque (Las)
-Ocentejo
 Olmeda de Jadraque (La)
 Ordial (El)
 Palmaces de Jadraque
@@ -5614,7 +5584,6 @@ Trijueque
 Uceda
 Valdarachas
 Valdeconcha
-Valdelcubo
 Valdepenas de la Sierra
 Valdesotos
 Valfermoso de Tajuna
@@ -5639,13 +5608,13 @@ Fuenterrabía
 Fuenterrabia
 Hondarribia
 Fontarrabie
-Ibarra
 Mondragón
 Placencia de las Armas
 Soraluze/Placencia de las Armas
 San Sebastián
 Tolosa
 Lasarte-Oria
+Aljaraque
 Almendro (El)
 Almonaster la Real
 Aracena
@@ -5685,7 +5654,6 @@ San Bartolome de la Torre
 San Juan del Puerto
 Sanlucar de Guadiana
 Trigueros
-Valdelarco
 Valverde del Camino
 Villablanca
 Villanueva de las Cruces
@@ -5699,7 +5667,6 @@ Alcala del Obispo
 Alcolea de Cinca
 Alcubierre
 Alfantega
-Almunia de San Juan
 Almuniente
 Alquezar
 Araguees del Puerto
@@ -5722,16 +5689,17 @@ Castejon del Puente
 Castejon de Monegros
 Castejon de Sos
 Castiello de Jaca
+Castigaleu
 Castillonroy
 Esplus
 Estadilla
 Estopinan del Castillo
+Foradada del Toscar
 Fueva (La)
 Grado (El)
 Gurrea de Gallego
 Hoz de Jaca
 Huesca
-Labuerda
 Lalueza
 Laperdiguera
 Lascuarre
@@ -5766,11 +5734,11 @@ Torres de Alcanadre
 Torres de Barbues
 Valle de Bardaji
 Vall de Lierp
+Velilla de Cinca
 Viacamp y Litera
 Vicien
 Villanueva de Sigena
 Yebra de Basa
-Yesero
 Echo Ibarra
 Puente la Reina de Jaca
 San Miguel de Cinca
@@ -5794,15 +5762,14 @@ Espeluy
 Fuensanta de Martos
 Fuerte del Rey
 Guardia de Jaen (La)
+Lahiguera
 Higuera de Calatrava
 Huesa
 Iruela (La)
-Martos
 Navas de San Juan
 Peal de Becerro
 Puente de Genave
 Puerta de Segura (La)
-Quesada
 Santa Elena
 Santisteban del Puerto
 Segura de la Sierra
@@ -5815,6 +5782,7 @@ Valdepenas de Jaen
 Villacarrillo
 Villanueva de la Reina
 Villanueva del Arzobispo
+Villardompardo
 Villares (Los)
 Villarrodrigo
 Bedmar y Garciez
@@ -5828,7 +5796,6 @@ Bembibre
 Bercianos del Paramo
 Bercianos del Real Camino
 Boca de Huergano
-Bonar
 Burgo Ranero (El)
 Bustillo del Paramo
 Cabreros del Rio
@@ -5840,7 +5807,6 @@ Campo de Villavidel
 Carmenes
 Carracedelo
 Carrocera
-Carucedo
 Castrillo de Cabrera
 Castrillo de la Valduerna
 Kastrot'erra-de-Val'madrigal'
@@ -5879,19 +5845,18 @@ Pajares de los Oteros
 Palacios de la Valduerna
 Palacios del Sil
 Paramo del Sil
+Peranzanes
 Pobladura de Pelayo Garcia
 Pola de Gordon (La)
 Pozuelo del Paramo
 Prado de la Guzpena
 Puebla de Lillo
 Puente de Domingo Florez
-Quintana y Congosto
 Regueras de Arriba
 Riego de la Vega
 Rioseco de Tapia
 Robla (La)
 Roperuelos del Paramo
-San Adrian del Valle
 San Andres del Rabanedo
 Sancedo
 San Cristobal de la Polantera
@@ -5947,7 +5912,6 @@ Abella de la Conca
 Alas i Cerc
 Alcano
 Alcarras
-Alfarras
 Alos de Balaguer
 el Pont de Bar
 Arres
@@ -5961,12 +5925,12 @@ Cervia de les Garrigues
 Clariana de Cardener
 el Cogul
 Coll de Nargo
-l'Espluga Calba
 Espot
+Estamariu
 la Floresta
 la Fuliola
+la Granadella
 la Granja d'Escarp
-Granyena de Segarra
 Granyena de les Garrigues
 Ivars de Noguera
 Juncosa
@@ -5984,7 +5948,6 @@ El Pont de Suert
 el Pont de Suert
 Salas de Pallars
 Sant Esteve de la Sarga
-Sant Guim de la Plana
 Sarroca de Bellera
 Seros
 el Soleras
@@ -5996,10 +5959,10 @@ Torrelameu
 Torres de Segre
 Torre-serona
 Vallfogona de Balaguer
+Vilanova de Segria
 el Vilosell
 Vilanova de la Barca
 Vall de Cardos
-Castell de Mur
 Alcanadre
 Aldeanueva de Ebro
 Alesanco
@@ -6028,6 +5991,7 @@ Huercanos
 Jalon de Cameros
 Laguna de Cameros
 Lagunilla del Jubera
+Lardero
 Ledesma de la Cogolla
 Leza de Rio Leza
 Lumbreras
@@ -6035,13 +5999,12 @@ Mansilla de la Sierra
 Manzanares de Rioja
 Murillo de Rio Leza
 Muro en Cameros
-Nieva de Cameros
+Pazuengos
 Pedroso
 Rasillo de Cameros (El)
 Redal (El)
 Rincon de Soto
 Robres del Castillo
-San Millan de la Cogolla
 San Millan de Yecora
 San Roman de Cameros
 Santa Engracia del Jubera
@@ -6057,16 +6020,18 @@ Torre en Cameros
 Tricio
 Ventrosa
 Viguera
-Villalba de Rioja
 Villalobar de Rioja
 Villamediana de Iregua
 Villanueva de Cameros
 Villar de Arnedo (El)
 Villar de Torre
 Villarroya
+Villavelayo
+Villaverde de Rioja
 Villoslada de Cameros
 Viniegra de Abajo
 Viniegra de Arriba
+Becerrea
 Lancara
 Mondonedo
 Monforte de Lemos
@@ -6127,6 +6092,7 @@ Meco
 Mejorada del Campo
 Miraflores de la Sierra
 Molar (El)
+Molinos (Los)
 Montejo de la Sierra
 Moraleja de Enmedio
 Morata de Tajuna
@@ -6141,6 +6107,7 @@ Pedrezuela
 Pelayos de la Presa
 Perales de Tajuna
 Pezuela de las Torres
+Pinuecar-Gandullas
 Pozuelo de Alarcon
 Pozuelo del Rey
 Pradena del Rincon
@@ -6187,12 +6154,12 @@ Villavieja del Lozoya
 Lozoyuela-Navas-Sieteiglesias
 Puentes Viejas
 Tres Cantos
-Algarrobo
 Alhaurin de la Torre
 Antequera
 Archidona
 Arenas
 Benamocarra
+Benarraba
 Borge (El)
 Burgo (El)
 Campillos
@@ -6200,6 +6167,7 @@ Canillas de Aceituno
 Canillas de Albaida
 Canete la Real
 Carratraca
+Casarabonela
 Casares
 Colmenar
 Cortes de la Frontera
@@ -6220,9 +6188,9 @@ Villanueva de Algaidas
 Villanueva del Rosario
 Villanueva del Trabuco
 Villanueva de Tapia
-Vinuela
 Yunquera
 Alguazas
+Blanca
 Calasparra
 Campos del Rio
 Caravaca de la Cruz
@@ -6231,6 +6199,7 @@ Lorca
 Mazarron
 Molina de Segura
 Puerto Lumbreras
+San Pedro del Pinatar
 Torres de Cotillas
 Las Torres de Cotillas
 Villanueva del Rio Segura
@@ -6245,8 +6214,6 @@ Busto (El)
 Cabredo
 Caparroso
 Carcar
-Carcastillo
-Cascante
 Castillonuevo
 Cintruenigo
 Elgorriaga
@@ -6262,7 +6229,6 @@ Lapoblacion
 Larraga
 Larraona
 Larraun
-Lazagurria
 Lodosa
 Melida
 Mirafuentes
@@ -6271,16 +6237,14 @@ Murillo el Cuende
 Navascues
 Pamplona
 Iruña
-Petilla de Aragon
 Puente la Reina/Gares
-Pueyo
 Roncal/Erronkari
 Salinas de Oro
 Santacara
+Tiebas-Muruarte de Reta
 Torralba del Rio
 Torres del Rio
 Luzaide/Valcarlos
-Valtierra
 Villamayor de Monjardin
 Hiriberri/Villanueva de Aezkoa
 Berrioplano
@@ -6291,7 +6255,6 @@ Castro Caldelas
 Cualedro
 Entrimo
 Esgos
-Xunqueira de Espadanedo
 Lobios
 Maceda
 Melon
@@ -6323,6 +6286,7 @@ Amayuelas de Arriba
 Antigueedad
 Arconada
 Autillo de Campos
+Venta de Banos
 Baquerin de Campos
 Barruelo de Santullan
 Bascones de Ojeda
@@ -6358,7 +6322,6 @@ Herrera de Valdecanas
 Hornillos de Cerrato
 Itero de la Vega
 Lagartos
-Lantadilla
 Vid de Ojeda (La)
 Ledigos
 Magaz de Pisuerga
@@ -6392,7 +6355,6 @@ San Cebrian de Muda
 San Cristobal de Boedo
 San Mames de Campos
 San Roman de la Cuba
-Santa Cecilia del Alcor
 Santa Cruz de Boedo
 Santervas de la Vega
 Santibanez de Ecla
@@ -6415,7 +6377,6 @@ Villalcazar de Sirga
 Villaluenga de la Vega
 Villamartin de Campos
 Villamuera de la Cueza
-Villamuriel de Cerrato
 Villanueva del Rebollar
 Villanuno de Valdavia
 Villarmentero de Campos
@@ -6440,8 +6401,12 @@ Valsequillo de Gran Canaria
 Vega de San Mateo
 Barro
 Crecente
+Fornelos de Montes
 El Grove
 Ponte Caldelas
+Salvaterra de Mino
+Vilagarcia de Arousa
+Ahigal de los Aceiteros
 Ahigal de Villarino
 Alameda de Gardon (La)
 Alba de Tormes
@@ -6462,6 +6427,7 @@ Aldehuela de la Boveda
 Aldehuela de Yeltes
 Almenara de Tormes
 Arabayona de Mogica
+Arcediano
 Arco (El)
 Armenteros
 San Miguel del Robledo
@@ -6471,7 +6437,6 @@ Bastida (La)
 Berrocal de Huebra
 Berrocal de Salvatierra
 Bodon (El)
-Boveda del Rio Almar
 Buenamadre
 Cabaco (El)
 Cabezabellosa de la Calzada
@@ -6505,6 +6470,7 @@ Cerro (El)
 Cespedosa de Tormes
 Cilleros de la Bastida
 Ciudad Rodrigo
+Coca de Alba
 Colmenar de Montemayor
 Cubo de Don Sancho (El)
 Chagarcia Medianero
@@ -6566,7 +6532,6 @@ Montemayor del Rio
 Monterrubio de Armuna
 Monterrubio de la Sierra
 Narros de Matalayegua
-Navacarros
 Nava de Sotrobal
 Navalmoral de Bejar
 Navarredonda de la Rinconada
@@ -6576,7 +6541,6 @@ Palacios del Arzobispo
 Palaciosrubios
 Palencia de Negrilla
 Parada de Rubiales
-Paradinas de San Juan
 Payo (El)
 Pedraza de Alba
 Pedrosillo de Alba
@@ -6592,6 +6556,7 @@ Perena de la Ribera
 Pino de Tormes (El)
 Pizarral
 Poveda de las Cintas
+Pozos de Hinojo
 Puebla de Azaba
 Puebla de San Medel
 Puebla de Yeltes
@@ -6627,6 +6592,8 @@ Sardon de los Frailes
 Sahugo (El)
 Sequeros
 Serradilla del Arroyo
+Sieteiglesias de Tormes
+Sobradillo
 Sorihuela
 Sotoserrano
 Tabera de Abajo
@@ -6666,6 +6633,7 @@ Villasdardo
 Villaseco de los Gamitos
 Villaseco de los Reyes
 Villaverde de Guarena
+Villavieja de Yeltes
 Villoruela
 Yecla de Yeltes
 Zamarra
@@ -6680,14 +6648,13 @@ Guia de Isora
 Icod de los Vinos
 La Matanza de Acentejo
 Puerto de la Cruz
+Realejos (Los)
 San Juan de la Rambla
 San Miguel de Abona
 Tenerife
 Santa Cruz de Tenerife
-Santiago del Teide
 Sauzal (El)
 Silos (Los)
-Tacoronte
 Tanque (El)
 Victoria de Acentejo (La)
 Alfoz de Lloredo
@@ -6704,17 +6671,19 @@ Camaleno
 Cillorigo de Liebana
 Comillas
 Corrales de Buelna (Los)
+Corvera de Toranzo
 Campoo de Enmedio
 Escalante
 Hazas de Cesto
-Hermandad de Campoo de Suso
 Laredo
+Liendo
 Luena
 Marina de Cudeyo
 Mazcuerras
 Medio Cudeyo
 Meruelo
 Pesaguero
+Pesquera
 Polaciones
 Puente Viesgo
 Ramales de la Victoria
@@ -6746,7 +6715,6 @@ Aldealengua de Santa Maria
 Aldeanueva de la Serrezuela
 Aldeanueva del Codonal
 Aldehuela del Codonal
-Aldeonte
 Arevalillo de Cega
 Armuna
 Bercial
@@ -6758,6 +6726,7 @@ Cabezuela
 Calabazas de Fuentiduena
 Campo de San Pedro
 Cantalejo
+Cantimpalos
 Carbonero el Mayor
 Carrascal del Rio
 Casla
@@ -6772,7 +6741,7 @@ Cilleruelo de San Mames
 Cobos de Fuentiduena
 Collado Hermoso
 Corral de Ayllon
-Cubillo
+Domingo Garcia
 Encinas
 Encinillas
 Escalona del Prado
@@ -6784,6 +6753,7 @@ Fuente de Santa Cruz
 Fuente el Olmo de Fuentiduena
 Fuente el Olmo de Iscar
 Fuentepelayo
+Fuentepinel
 Fuenterrebollo
 Fuentesauco de Fuentiduena
 Fuentesoto
@@ -6799,9 +6769,9 @@ Lastras de Cuellar
 Lastras del Pozo
 Losa (La)
 Maderuelo
-Marazuela
 Martin Munoz de la Dehesa
 Martin Munoz de las Posadas
+Mata de Cuellar
 Melque de Cercos
 Membibre de la Hoz
 Miguelanez
@@ -6822,6 +6792,7 @@ Pelayos del Arroyo
 Perosillo
 Puebla de Pedraza
 Rapariegos
+Rebollo
 Riaguas de San Bartolome
 San Cristobal de Cuellar
 San Cristobal de la Vega
@@ -6830,18 +6801,17 @@ San Pedro de Gaillos
 Santa Maria la Real de Nieva
 Santa Marta del Cerro
 Santiuste de Pedraza
+Santiuste de San Juan Bautista
 Santo Tome del Puerto
 Sauquillo de Cabezas
 Sequera de Fresno
 Torrecaballeros
 Torrecilla del Pinar
-Torreiglesias
 Torre Val de San Pedro
 Trescasas
 Uruenas
 Valdevacas de Montejo
 Valdevacas y Guijar
-Valverde del Majano
 Valle de Tabladillo
 Vallelado
 Valleruela de Pedraza
@@ -6856,6 +6826,7 @@ Cozuelos de Fuentiduena
 Cuevas de Provanco
 San Cristobal de Segovia
 Albaida del Aljarafe
+Alcala del Rio
 Almaden de la Plata
 Badolatosa
 Bollullos de la Mitacion
@@ -6894,7 +6865,6 @@ Rinconada (La)
 Roda de Andalucia (La)
 Ronquillo (El)
 Rubio (El)
-Sanlucar la Mayor
 San Nicolas del Puerto
 Saucejo (El)
 Sevilla
@@ -6918,6 +6888,7 @@ Arevalo de la Sierra
 Ausejo de la Sierra
 Barca
 Barcones
+Bayubas de Abajo
 Bayubas de Arriba
 Blacos
 El Burgo de Osma
@@ -6945,18 +6916,15 @@ Fresno de Caracena
 Fuentearmegil
 Fuentecambron
 Fuentecantos
-Fuentelmonge
 Fuentelsaz de Soria
 Fuentepinilla
 Fuentes de Magana
 Fuentestrun
-Herrera de Soria
 Hinojosa del Campo
 Langa de Duero
 Liceras
 Matalebreras
 Mino de Medinaceli
-Mino de San Esteban
 Molinos de Duero
 Momblona
 Monteagudo de las Vicarias
@@ -6964,6 +6932,7 @@ Montejo de Tiermes
 Montenegro de Cameros
 Moron de Almazan
 Muriel de la Fuente
+Muriel Viejo
 Nafria de Ucero
 Narros
 Noviercas
@@ -6971,7 +6940,6 @@ Oncala
 Poveda de Soria (La)
 Rabanos (Los)
 Recuerda
-Renieblas
 Riba de Escalote (La)
 Rioseco de Soria
 Royo (El)
@@ -7002,12 +6970,10 @@ Villar del Campo
 Villar del Rio
 Villares de Soria (Los)
 Villaseca de Arciel
-Vinuesa
 Aiguamurcia
 Alcanar
 Alfara de Carles
 l'Argentera
-Banyeres del Penedes
 Barbera de la Conca
 la Bisbal del Penedes
 les Borges del Camp
@@ -7017,7 +6983,6 @@ Cambrils
 Capcanes
 Caseres
 el Catllar
-la Senia
 Colldejou
 Conesa
 Corbera d'Ebre
@@ -7042,22 +7007,18 @@ Mora d'Ebre
 la Morera de Montsant
 la Palma d'Ebre
 els Pallaresos
-el Perello
 el Pla de Santa Maria
 la Pobla de Mafumet
 la Pobla de Massaluca
 la Pobla de Montornes
 Pradell de la Teixeta
 Querol
-Rasquera
 la Riera de Gaia
-Riudecanyes
 Rocafort de Queralt
 Salomo
 Santa Coloma de Queralt
 Sarral
 la Selva del Camp
-Tarragona
 la Torre de Fontaubella
 la Torre de l'Espanyol
 Torredembarra
@@ -7078,11 +7039,13 @@ Arens de Lledó
 Arenys de Lledo
 Arenys de Lledo / Arens de Lledo
 Arenys de Lledó
+Baguena
 Beceite
 Belmonte de San José
 Belmonte de San Jose
 Blancas
 Buena
+Calamocha
 Calomarde
 Camarena de la Sierra
 Camarillas
@@ -7090,7 +7053,6 @@ la Canyada de Beric
 Canada de Verich (La)
 Canada Vellida
 Canizar del Olivar
-Cascante del Rio
 Castejon de Tornos
 Castel de Cabra
 El Castellar
@@ -7100,6 +7062,7 @@ Cortes de Aragon
 Cosa
 Cretas
 Queretes / Cretas
+Cuba (La)
 Cubla
 Cucalon
 Cuervo (El)
@@ -7125,12 +7088,12 @@ Huesa del Comun
 La Iglesuela del Cid
 Jarque de la Val
 Lagueruela
-Lanzuela
 Libros
 Lidon
 Linares de Mora
 Loscos
 Lledó
+Lledo
 Mas de las Matas
 Mata de los Olmos (La)
 Miravete de la Sierra
@@ -7177,7 +7140,6 @@ Torres de Albarracin
 Torrijo del Campo
 Tramacastiel
 Tramacastilla
-Valacloche
 Valdecuenca
 Valderrobres
 Valjunquera
@@ -7187,7 +7149,6 @@ Villahermosa del Campo
 Villanueva del Rebollar de la Sierra
 Villar del Cobo
 Villar del Salz
-Villarluengo
 Villarquemado
 Villarroya de los Pinares
 Alameda de la Sagra
@@ -7208,8 +7169,8 @@ Cabanas de la Sagra
 Cabanas de Yepes
 Calera y Chozas
 Caleruela
-Camarena
 Campillo de la Jara (El)
+Camunas
 Cardiel de los Montes
 Carmena
 Carpio de Tajo (El)
@@ -7274,7 +7235,6 @@ Retamoso de la Jara
 Robledo del Mazo
 Romeral (El)
 San Bartolome de las Abiertas
-San Martin de Pusa
 San Pablo de los Montes
 San Roman de los Montes
 Santa Ana de Pusa
@@ -7303,9 +7263,9 @@ Villaseca de la Sagra
 Villasequilla
 Viso de San Juan (El)
 Yebenes (Los)
+Yunclillos
 Yuncos
 Santo Domingo-Caudilla
-Albalat de la Ribera
 Alcantera de Xuquer
 Alcublas
 Alcudia de Crespins (l')
@@ -7318,6 +7278,7 @@ Aielo de Rugat
 Camporrobles
 Carcer
 Casas Altas
+Castello de Rugat
 Castellonet de la Conquesta
 Castielfabib
 Caudete de las Fuentes
@@ -7347,6 +7308,7 @@ Montroy
 Museros
 Naquera
 Palomar (el)
+Petres
 Polinya de Xuquer
 la Pobla de Farnals
 Pobla del Duc (la)
@@ -7398,8 +7360,8 @@ Castrejon de Trabancos
 Castrillo de Duero
 Castrillo-Tejeriego
 Castronuevo de Esgueva
-Castronuno
 Cervillego de la Cruz
+Cigales
 Cigunuela
 Cogeces de Iscar
 Cogeces del Monte
@@ -7409,6 +7371,7 @@ Cuenca de Campos
 Curiel de Duero
 Encinas de Esgueva
 Esguevillas de Esgueva
+Fontihoyuelo
 Fresno el Viejo
 Fuensaldana
 Fuente el Sol
@@ -7434,7 +7397,6 @@ Mucientes
 Mudarra (La)
 Nava del Rey
 Nueva Villa de las Torres
-Olivares de Duero
 Olmos de Penafiel
 Pedraja de Portillo (La)
 Pedrajas de San Esteban
@@ -7442,7 +7404,8 @@ Pedrosa del Rey
 Pesquera de Duero
 Pina de Esgueva
 Pinel de Abajo
-Pozal de Gallinas
+Pinel de Arriba
+Pollos
 Pozuelo de la Orden
 Quintanilla de Trigueros
 Renedo de Esgueva
@@ -7485,13 +7448,13 @@ Valladolís
 Valadolido
 Valladolíd
 Valadolid
-Valadoli
 Valladolid
 Vega de Ruiponce
 Vega de Valdetronco
 Velascalvaro
 Ventosa de la Cuesta
 Viana de Cega
+Villabanez
 Villabaruz de Campos
 Villacarralon
 Villacid de Campos
@@ -7533,7 +7496,6 @@ Lemóniz
 Mundaca
 Orduña
 Urduña
-Urduna-Orduna
 Pedernales
 Santurce
 Trucios
@@ -7557,7 +7519,6 @@ Casaseca de las Chanas
 Castrillo de la Guarena
 Castronuevo
 Cazurra
-Cerecinos de Campos
 Cerecinos del Carrizal
 Cobreros
 Coreses
@@ -7566,6 +7527,7 @@ Cotanes del Monte
 Cubillos
 Cubo de Benavente
 Cubo de Tierra del Vino (El)
+Cuelgamures
 Entrala
 Espadanedo
 Ferreras de Abajo
@@ -7594,13 +7556,11 @@ Manganeses de la Polvorosa
 Manzanal de Arriba
 Manzanal del Barco
 Manzanal de los Infantes
-Melgar de Tera
 Micereces de Tera
 Milles de la Polvorosa
 Molacillos
 Molezuelas de la Carballeda
 Monfarracinos
-Montamarta
 Moral de Sayago
 Moraleja del Vino
 Moraleja de Sayago
@@ -7631,7 +7591,6 @@ Puebla de Sanabria
 Pueblica de Valverde
 Quiruelas de Vidriales
 Requejo
-Rionegro del Puente
 Robleda-Cervantes
 Roelos de Sayago
 Rosinos de la Requejada
@@ -7661,10 +7620,8 @@ Valcabado
 Valdescorriel
 Vallesa de la Guarena
 Vega de Villalobos
-Villabrazaro
 Villabuena del Puente
 Villadepera
-Villaescusa
 Villaferruena
 Villalba de la Lampreana
 Villamayor de Campos
@@ -7676,13 +7633,13 @@ Villanueva del Campo
 Villardeciervos
 Villar del Buey
 Villardiegua de la Ribera
-Villardondiego
 Villarrin de Campos
 Villaseco del Pan
 Villaveza de Valverde
 Aladren
 Alcala de Ebro
 Alcala de Moncayo
+Alconchel de Ariza
 Aldehuela de Liestos
 Alforque
 Almonacid de la Cuba
@@ -7690,6 +7647,7 @@ Almonacid de la Sierra
 Almunia de Dona Godina (La)
 Anon de Moncayo
 Aranda de Moncayo
+Baguees
 Belmonte de Gracian
 Berrueco
 Bijuesca
@@ -7714,7 +7672,6 @@ Cuarte de Huerva
 Cuerlas (Las)
 Daroca
 Ejea de los Caballeros
-Embid de Ariza
 Encinacorba
 Escatron
 Fayos (Los)
@@ -7730,7 +7687,7 @@ Fuentes de Jiloca
 Herrera de los Navarros
 Isuerre
 Lecera
-Lecinena
+Lituenigo
 Lobera de Onsella
 Lucena de Jalon
 Luesia
@@ -7738,18 +7695,17 @@ Maria de Huerva
 Mediana de Aragon
 Mesones de Isuela
 Miedes de Aragon
-Morata de Jalon
 Mores
 Moros
 Moyuela
 Muel
 Muela (La)
 Munebrega
-Murero
 Nombrevilla
 Nonaspe
 Nuevalos
 Nuez de Ebro
+Orcajo
 Paracuellos de Jiloca
 Paracuellos de la Ribera
 Pedrola
@@ -7804,7 +7760,6 @@ San Salvador
 Baleares
 Provincia de Islas Baleares
 Las Baleares
-Província de les Illes Balears
 Mallorca
 Menorca
 Comarca de l'Alt Camp
@@ -7817,7 +7772,7 @@ Comarca de la Cerdanya
 Comarca de la Conca de Barbera
 Comarca del Garraf
 Comarca de les Garrigues
-Comarca del Montsia
+Comarca del Pallars Jussa
 Comarca del Pallars Sobira
 Comarca del Pla d'Urgell
 Comarca del Pla de l'Estany
@@ -7827,10 +7782,10 @@ Comarca de la Selva
 Comarca del Solsones
 Comarca del Tarragones
 Comarca de la Terra Alta
-Comarca d'era Val d'Aran
 Comarca del Valles Occidental
 Comarca del Valles Oriental
 Alaró
+Alaro
 Alcúdia
 Algaida
 Artà
@@ -7864,7 +7819,6 @@ Muro
 Palma de Mallorca
 Petra
 Pollensa
-Pollenca
 Porreres
 Sa Pobla
 Puigpunyent
@@ -7886,8 +7840,10 @@ Vilafranca de Bonany
 Ariany
 es Migjorn Gran
 Caldes d'Estrac
+Sant Cebria de Vallalta
 el Far d'Emporda
 Argelaguer
+Avinyonet de Puigventós
 Bescano
 la Bisbal d'Emporda
 Boadella i les Escaules
@@ -7908,7 +7864,6 @@ Llado
 Llagostera
 Llambilles
 Llanca
-Macanet de Cabrenys
 Macanet de la Selva
 Mollet de Peralada
 Palol de Revardit
@@ -7918,12 +7873,10 @@ Regencos
 Riudarenes
 Riudellots de la Selva
 Sales de Llierca
-Sant Ferriol
 Sant Julia de Ramis
 Sant Llorenc de la Muga
 Sant Pere Pescador
 Santa Coloma de Farners
-Sarria de Ter
 la Selva de Mar
 Serra de Daro
 la Tallada d'Emporda
@@ -7933,6 +7886,8 @@ Torroella de Montgri
 Vall-llobrega
 Vilablareix
 Vilamacolum
+Vilamaniscle
+Vilauer
 Brena Alta
 Fuencaliente De La Palma
 Llanos De Aridane (Los)
@@ -7977,17 +7932,20 @@ Sentral-Fiji
 Islas Falkland (Malvinas)
 Micronesia
 Estatos Federatos de Micronesia
+Etats federes de Micronesie
 Estados Federados de Micronesia
-Federacio de Mikronezio
+Mikrónesía
 Míkrónesía
 Estados Federados de Micronesia - Federated States of Micronesia
 Madolenihm Municipality
 Losap Municipality
+Vágar region
 Suduroy region
 Húsar
 Fuglo
 Fugloy
 Islas Feroe
+Illas Feroe
 Illas Feroe - Foroyar
 Illas Feroe - Føroyar
 Illas Feroé
@@ -8027,7 +7985,6 @@ Provenza-Alpes-Costa Azul
 Provenca-Aups-Costa d'Azur
 Probenza-Alpes-Costa Azul
 Poitou-Charentes
-powato~u=sharanto de yu quan
 Picardía
 Ródano
 Países del Loira
@@ -8081,7 +8038,7 @@ Alto Marne
 Alto Loira
 Alto Garona
 Alta Córcega
-Alta Córsega
+Alta Corcega
 Gironda
 Gers
 Gard
@@ -8108,7 +8065,6 @@ Creuse
 Costas de Armor
 Cote D'Or
 Córcega del Sur
-Corsica del Sud
 Corcega del Sur
 Correza
 Cher
@@ -8124,6 +8080,7 @@ Calvados
 Bretaña
 Bretaña - Breizh
 Borgoña
+Burgona
 Borgona
 Borgoña - Bourgogne
 Bocas del Ródano
@@ -8144,7 +8101,6 @@ Aquitánia
 Alsacia
 Elzas
 Elzasa
-Alsace
 Alzacia
 El'zas
 aruzasu de yu quan
@@ -8159,11 +8115,13 @@ Aix-en-Provence
 Aisne
 Ain
 Isla de La Passion
+Maureillas-las-Illas
 Morogues
 Lacoste
 Nadillac
 Cucq
 Caro
+Boece
 Ecos
 Lantenay
 Lompnas
@@ -8186,8 +8144,8 @@ Rozoy-sur-Serre
 Sequehart
 Viel-Arcy
 Escurolles
+Estivareilles
 Montlucon
-Saint-Marcel-en-Marcillat
 Urcay
 Puy-Sanieres
 Saleon
@@ -8198,6 +8156,7 @@ Sospel
 Speracedes
 Villafranca-de-mar
 Labastide-de-Virac
+Labegude
 Lagorce
 Lamastre
 Lanarce
@@ -8205,9 +8164,9 @@ Larnas
 Vernosc-les-Annonay
 Elan
 Estrebay
+Gespunsart
 Laval-Morency
 Gabre
-Garanou
 Gudas
 Mercenac
 Mercus-Garrabet
@@ -8215,12 +8174,11 @@ Merigon
 Miglos
 Senconac
 Sentenac-de-Serou
+Siguer
 Tabre
 Tarascon-sur-Ariege
-Tignac
 Unac
 Eclance
-Essoyes
 Perigny-la-Rose
 Racines
 Rances
@@ -8228,11 +8186,11 @@ Rosieres-pres-Troyes
 Villacerf
 Cubieres-sur-Cinoble
 Escales
+Escouloubre
 Esperaza
 Espezel
 Fajac-en-Val
 Fajac-la-Relenque
-Ferran
 Labastide-d'Anjou
 Labastide-en-Val
 Labastide-Esparbairenque
@@ -8240,8 +8198,8 @@ Labecede-Lauragais
 Laprade
 Lasbordes
 Laurac
+Lauraguel
 Mas-Cabardes
-Montbrun-des-Corbieres
 Peyriac-de-Mer
 Pradelles-Cabardes
 Pradelles-en-Val
@@ -8251,15 +8209,15 @@ Ventenac-Cabardes
 Villarzel-Cabardes
 Villeseque-des-Corbieres
 Gabriac
-Ledergues
 Lunac
 Melagues
 Mur-de-Barrez
 Prades-d'Aubrac
 Prades-Salars
-Salles-Curan
+Sebazac-Concoures
 Senergues
 Vabre-Tizac
+Vabres-l'Abbaye
 Vitrac-en-Viadene
 Salon-de-Provence
 Ventabren
@@ -8284,6 +8242,7 @@ Noron-la-Poterie
 Planquery
 Vaubadon
 Lugarde
+Madic
 Quezac
 Segur-les-Villas
 Ytrac
@@ -8299,20 +8258,19 @@ Jurignac
 Lamerac
 Laprade
 Moulidars
+Pranzac
 Reparsac
 Ronsenac
 Valence
 Clam
 Clerac
 Consac
-Corignac
 Esnandes
-Lorignac
-Medis
+Marignac
 Montroy
 Preguillac
 Semillac
-Nancay
+Morlac
 Sancergues
 Savigny-en-Sancerre
 Marcillac-la-Croze
@@ -8324,7 +8282,6 @@ Sornac
 Chamblanc
 Clamerey
 Clenay
-Comblanchien
 Corrombles
 Esbarres
 Etormay
@@ -8337,6 +8294,7 @@ Plombieres-les-Dijon
 Sacquenay
 Saulon-la-Rue
 Vic-des-Pres
+Villargoix
 Lanrodec
 Locarn
 Loc-Envel
@@ -8348,12 +8306,12 @@ Pleguien
 Plesidy
 Pleubian
 Plougrescant
-Plouguenast
 Plouguiel
 Plouzelambre
 Sevignac
 Tonquedec
 Treguidel
+Chancelade
 Cladech
 Colombier
 Lusignac
@@ -8363,6 +8321,7 @@ Monsaguel
 Montpon-Menesterol
 Peyrignac
 Sainte-Foy-de-Longas
+Sarlat-la-Caneda
 Sarrazac
 Sencenac-Puy-de-Fourches
 Siorac-de-Riberac
@@ -8372,9 +8331,9 @@ Villac
 Villamblard
 Vitrac
 Cleron
+Cubrial
 Cusance
 Epenoy
-Etray
 Fuans
 Loray
 Morre
@@ -8393,30 +8352,26 @@ Cierrey
 Civieres
 Ecaquelon
 Eturqueraye
-Feuguerolles
 Garencieres
 Gauciel
 Glos-sur-Risle
 Guerny
 Harquency
 Ebriaco
-Louye
 Perruel
 Combres
 Dambron
 Ecrosnes
-Fresnay-l'Eveque
 Garancieres-en-Beauce
 Lamblore
 Margon
 Meslay-le-Vidame
+Rueil-la-Gadeliere
 Villampuy
 Landelo
 Locmaria-Berrien
 Locronan
 Loctudy
-Pencran
-Plouedern
 Plouegat-Guerand
 Plouider
 Plouye
@@ -8428,10 +8383,12 @@ Treguennec
 Granace
 Moca-Croce
 Monacia-d'Aullene
+Sollacaro
 Urbalacone
 Ghisonaccia
 Lucciana
 Muracciole
+Palasca
 La Porta
 San-Nicolao
 Tarrano
@@ -8444,16 +8401,16 @@ Laval-Pradel
 Lirac
 Monoblet
 Sabran
+Sainte-Cecile-d'Andorge
 Saint-Victor-la-Coste
-Saint-Victor-de-Malcap
 Vabres
 Vallerargues
-Valliguieres
 Cambiac
 Castelbiague
 Casties-Labrande
 Caubiac
 Cazaril-Laspenes
+Cazaril-Tamboures
 Colomiers
 Corronsac
 Escalquens
@@ -8471,14 +8428,12 @@ Labroquere
 Lamasquere
 Larcan
 Launac
-Launaguet
 Leguevin
 Mancioux
 Marignac-Lasclares
 Marignac-Laspeyres
 Martres-Tolosane
 Montastruc-de-Salies
-Montastruc-Saves
 Montespan
 Montgras
 Montrabe
@@ -8506,12 +8461,11 @@ Monbardon
 Monblanc
 Monferran-Plaves
 Ordan-Larroque
+Preneron
 Puycasquier
 Sarcos
 Sarrant
-Sirac
 Cartelegue
-Castelnau-de-Medoc
 Castillon-de-Castets
 Cestas
 Chamadelle
@@ -8536,12 +8490,9 @@ Moulis-en-Medoc
 Ordonnac
 Prignac-en-Medoc
 Sablons
-Saint-Aubin-de-Medoc
 Sainte-Foy-la-Grande
-Saint-Vivien-de-Medoc
 Samonac
 Talence
-Targon
 Tizac-de-Curton
 Tizac-de-Lapouyade
 Galargues
@@ -8554,7 +8505,6 @@ Prades-sur-Vernazobre
 Puechabon
 Roquebrun
 Roqueredonde
-Salasc
 Saturargues
 Vendargues
 Verargues
@@ -8563,62 +8513,69 @@ Parce
 Plesder
 Quebriac
 Renac
-Badecon-le-Pin
+Lucay-le-Libre
+Malicornay
+Meobecq
 Sainte-Cecile
 Valencay
+Ferriere-Larcon
 Francueil
 Larcay
+Luynes
 Marcay
 Villeperdue
-Clonas-sur-Vareze
 Corenc
 Correncon-en-Vercors
 Estrablin
 Frontonas
 Marcilloles
 Montcarra
+Pact
 Sablons
+Saint-Marcel-Bel-Accueil
+Saint-Nicolas-de-Macherin
 Sarcenas
 Succieu
 Tencin
 Villard-Reculas
 Chancia
 Charcier
+Doucier
 Equevillon
 Merona
+Soucia
 Gabarret
 Garrey
 Labastide-d'Armagnac
 Labrit
 Lacajunte
-Lacquy
 Lacrabe
 Laurede
-Lesperon
 Momuy
 Perquie
 Sabres
-Saubion
 Saubrigues
 Urgons
 Orcay
 Maclas
-Marcenod
+Saint-Thomas-la-Garde
+Landos
 Lantriac
 Montregard
 Pebrac
-Trignac
+Nantes
+Saint-Malo-de-Guersac
 Escrennes
 Estouy
 Ferolles
 Isdes
 Ladon
 Lorris
+Nesploy
 Pannecieres
 Saint-Peravy-la-Colombe
 Trigueres
 Goujounac
-Labastide-du-Vert
 Labastide-Murat
 Lacapelle-Cabanac
 Lascabanes
@@ -8626,13 +8583,13 @@ Laval-de-Cere
 Leobard
 Marcilhac-sur-Cele
 Mercues
+Planioles
 Puy-l'Eveque
 Sabadel-Latronquiere
 Sabadel-Lauzes
 Sarrazac
 Sonac
 Soucirac
-Vidaillac
 Villeseque
 Francescas
 Frespech
@@ -8641,38 +8598,35 @@ Labastide-Castel-Amouroux
 Lacepede
 Lagarrigue
 Laparade
-Layrac
 Montignac-de-Lauzun
 Puymiclan
 Saint-Nicolas-de-la-Balerme
 Savignac-de-Duras
 Paulhac-en-Margeride
 Quezac
-Sainte-Colombe-de-Peyre
-Saint-Frezal-de-Ventalon
 Cizay-la-Madeleine
 Combree
 Meon
 Tierce
 Villeveque
 Carquebut
+Cerisy-la-Salle
 Margueray
 Montgardon
+Montrabot
+Placy-Montaigu
 Plomb
-Sainte-Cecile
+Saint-Nicolas-de-Pierrepont
 Vergoncey
 Chambrecy
 Corroy
 Ecueil
-Ecury-le-Repos
 Epoye
 Escardes
 Jonquery
 Nesle-la-Reposte
 Vadenay
 Vitry-la-Ville
-Charmes-la-Grande
-Coublanc
 Guyonvelle
 Mandres-la-Cote
 Marac
@@ -8684,6 +8638,7 @@ Madre
 Montenay
 Crantenoy
 Essey-la-Cote
+Fontenoy-sur-Moselle
 Labry
 Lorey
 Lucey
@@ -8694,11 +8649,10 @@ Villecey-sur-Mad
 Esnes-en-Argonne
 Guerpont
 Jouy-en-Argonne
+Lachalade
 Marre
-Vadonville
+Rigny-la-Salle
 Languidic
-Larmor-Baden
-Larmor-Plage
 Larre
 Locmariaquer
 Locoal-Mendon
@@ -8711,12 +8665,13 @@ Chambrey
 Colmen
 Grostenquin
 Lachambre
+Lagarde
 Pontoy
 Guipy
+Lucenay-les-Aix
 Parigny-la-Rose
 Perroy
 Crespin
-Englos
 Escaudain
 Escautpont
 Escobecques
@@ -8733,14 +8688,14 @@ Rumilly-en-Cambresis
 Sameon
 Santes
 Sequedin
-Carlepont
 Coye-la-Foret
-Crepy-en-Valois
 Escames
 Espaubourg
 Francastel
 Fresnoy-la-Riviere
+Labruyere
 Montmacq
+Muidorge
 Orry-la-Ville
 Peroy-les-Gombries
 Salency
@@ -8767,16 +8722,15 @@ Esquerdes
 Estevelles
 Estreelles
 Ferques
-Gouy-en-Artois
 Gouy-en-Ternois
 Lacres
 Locon
 Mencas
 Planques
+Quelmes
 Serques
 Cisternes-la-Foret
 Corent
-Larodde
 Montel-de-Gelat
 Orcines
 Palladuc
@@ -8791,7 +8745,7 @@ Conchez-de-Bearn
 Cuqueron
 Escos
 Escot
-Espechede
+Escures
 Espoey
 Estialescq
 Garos
@@ -8804,23 +8758,26 @@ Labastide-Villefranche
 Lacadee
 Lacarre
 Lagos
+Lahourcade
 Larceveau-Arros-Cibits
 Larrau
 Lay-Lamidou
 Loncon
 Lucarre
+Maslacq
 Maspie-Lalonquere-Juillacq
 Meracq
 Mialos
 Moncayolle-Larrory-Mendibieu
 Nogueres
+Peyrelongue-Abos
 Poey-de-Lescar
 Prechacq-Josbaig
 Prechacq-Navarrenx
 Ribarrouy
 Sainte-Engrace
-Salies-de-Bearn
 Sarrance
+Saucede
 Serres-Castet
 Sevignacq-Meyracq
 Camales
@@ -8838,6 +8795,7 @@ Lameac
 Lanespede
 Laslades
 Lombres
+Loubajac
 Marquerie
 Peyriguere
 Pintac
@@ -8846,11 +8804,10 @@ Sabarros
 Sarriac-Bigorre
 Senac
 Siarrouy
+Llo
 Montbolo
 Montboló
 Palau-del-Vidre
-Peyrestortes
-Porte-Puymorens
 Prats de Molló i la Presta
 Prats-de-Mollo-la-Preste
 Rasigueres
@@ -8859,10 +8816,9 @@ Centernac
 Çantarnac
 Serralongue
 Villelongue-de-la-Salanque
-Haguenau
 Estrasburgo
 Guemar
-Malmerspach
+Labaroche
 Riespach
 Lacenas
 Lancie
@@ -8876,13 +8832,10 @@ Membrey
 Montdore
 Secenans
 Velorcey
-Ciel
 Collonge-la-Madeleine
 Ecuelles
 Iguerande
 Lucenay-l'Eveque
-Marcilly-la-Gueurce
-Paray-le-Monial
 Pierreclos
 Salornay-sur-Guye
 Sance
@@ -8890,12 +8843,11 @@ Tancon
 Crosmieres
 Fontenay-sur-Vegre
 Guecelard
-Lavenay
 Lombron
 Montabon
 Piace
+Requeil
 Sarce
-Semur-en-Vallon
 Vance
 Ecole
 Francin
@@ -8921,23 +8873,23 @@ Villecerf
 Vinantes
 Cernay-la-Ville
 Crespieres
-Epone
 Garancieres
-Guernes
 Jouy-en-Josas
 Mantes-la-Jolie
+Mantes-la-Ville
 Velizy-Villacoublay
 Biarre
 Bus-la-Mesiere
 Cambron
 Carnoy
 Cocquerel
+Embreville
 Epecamps
-Estrees-sur-Noye
 Fescamps
 Gorenflos
 Lamaronde
 Montauban-de-Picardie
+Pierregot
 Rosieres-en-Santerre
 Salouel
 Sorel-en-Vimeu
@@ -8949,9 +8901,11 @@ Lacabarede
 Lacapelle-Segalar
 Lagarrigue
 Mirandol-Bourgnounac
+Puycalvel
 Roquevidal
 Saint-Antonin-de-Lacalm
 Saint-Salvy-de-la-Balme
+Senouillac
 Monbequi
 Monclar-de-Quercy
 Puygaillard-de-Quercy
@@ -8960,12 +8914,13 @@ Roquecor
 Saint-Nicolas-de-la-Grave
 Vigueron
 Rocbaron
+Vinon-sur-Verdon
 Sarrians
 Vacqueyras
 Lucon
-Menomblet
 Mesnard-la-Barotiere
 Puy-de-Serre
+Sainte-Cecile
 Sainte-Radegonde-des-Noyers
 Marcay
 Paizay-le-Sec
@@ -8980,12 +8935,15 @@ Escles
 Fontenay
 Menarmont
 Menil-de-Senones
+Pompierre
 Sartes
 Escamps
 Esnon
 Fontenay-pres-Vezelay
 Fontenoy
-Merry-la-Vallee
+Fulvy
+Gy-l'Eveque
+Lalande
 Molosmes
 Montigny-la-Resle
 Percey
@@ -8993,14 +8951,13 @@ Val-de-Mercy
 Venoy
 Villecien
 Villeperrot
-Brunoy
 Lardy
 Ormoy-la-Riviere
 Saclas
 Fontenay-en-Parisis
 Guiry-en-Vexin
-Pierrelaye
 Viarmes
+Aranc
 Barenton-Cel
 Aubenas-les-Alpes
 Barras
@@ -9016,8 +8973,6 @@ Cipieres
 Cuebris
 Luceram
 Bidon
-Chalencon
-Colombier-le-Cardinal
 Cros-de-Georand
 Etables
 Aulos
@@ -9046,14 +9001,13 @@ Eyragues
 Fos-sur-Mer
 Lancon-Provence
 Meyrargues
+Orgon
 Plan-de-Cuques
 Plan-d'Orgon
 Puyloubier
 Argences
 Arnac
 Aurillac
-Chalinargues
-Coren
 Cros-de-Montvert
 Lacapelle-Barres
 Lanobre
@@ -9067,6 +9021,7 @@ Chaunac
 Colombiers
 Corquoy
 Crezancay-sur-Cher
+Dampierre-en-Crot
 Dampierre-en-Gracay
 Espagnac
 Espartignac
@@ -9079,6 +9034,7 @@ Canihuel
 Erquy
 Graces
 Auzances
+Bardou
 Bouniagues
 Capdrot
 Carsac-Aillac
@@ -9092,7 +9048,7 @@ Beaubray
 Carantec
 Elliant
 Esquibien
-Guipronvel
+Huelgoat
 Arro
 Bonifacio
 Carbuccia
@@ -9104,44 +9060,51 @@ Cambia
 Canari
 Casamaccioli
 Asperes
+Cavillargues
 Collorgues
 Combas
 Conqueyrac
 Arguenos
 Arlos
 Arrouede
-Barran
 Bazugues
+Berdoues
+Bezues-Bajon
 Casteron
 Ares
 Beguey
 Belves-de-Castillon
+Blesignac
 Cadillac-en-Fronsadais
 Cantenac
 Carcans
 Cabrerolles
 Candillargues
+Castelnau-de-Guers
 Colombiers
-Fabregues
 Baguer-Pican
 Cardroc
 Azay-le-Ferron
 Belabre
 Douadic
 Cere-la-Ronde
-Civray-sur-Esves
+Cinq-Mars-la-Pile
 Ardon
+Baresia-sur-l'Ain
 Arue
+Capbreton
 Carcen-Ponson
 Cauna
 Escalans
 Estigarde
 Francay
+Estivareilles
 Arsac-en-Velay
 Chadrac
+Chadron
 Chaspuzac
+Costaros
 Espalem
-Espaly-Saint-Marcel
 Esplantas
 Guerande
 Aulnay-la-Riviere
@@ -9161,21 +9124,18 @@ Armillac
 Bon-Encontre
 Cancon
 Castelmoron-sur-Lot
-Cazideroque
 Condezaygues
+Espiens
 Estillac
 Fauguerolles
-Chanac
 Esclanedes
 Estables
 Mas-d'Orcieres
 Barace
 Boce
-Cantenay-Epinard
 Chaze-sur-Argos
 Barenton
 Barisey-la-Cote
-Bezange-la-Grande
 Burey-la-Cote
 Cleguerec
 Cruguel
@@ -9186,22 +9146,23 @@ Guern
 Guillac
 Aunay-en-Bazois
 Clamecy
+Cuncy-les-Varzy
 Chabreloche
 Aincille
 Arcangues
 Arneguy
 Arros-de-Nay
 Barinque
+Ardengost
 Aries-Espenan
 Arras-en-Lavedan
 Artiguemy
 Bolquere
 Bula de Terranera
-Camelas
 Casefabre
 Cases-de-Pene
+Castellnou dels Aspres
 Catlla de Conflent
-Clara
 Corbera de les Cabanes
 Dorres
 Eguet
@@ -9219,20 +9180,19 @@ Andelarrot
 Coulombiers
 Cercier
 Bellencombre
-Combrand
 Arguel
 Arqueves
-Becordel-Becourt
 Belloy-en-Santerre
 Ambres
+Cadalen
+Castres
 Cunac
-Fiac
 Bardigues
 Cordes-Tolosannes
 Escatalens
 Esparsac
 Labastide-de-Penne
-Labastide-du-Temple
+Labourgade
 Bormes-les-Mimosas
 Brue-Auriac
 Carces
@@ -9240,6 +9200,7 @@ Collobrieres
 Cuers
 Mazaugues
 Bedarrides
+Cabrieres-d'Aigues
 Caromb
 Lacoste
 Lagarde-Pareol
@@ -9248,6 +9209,7 @@ Coulombiers
 Coses
 Cromac
 Festiac
+Champlost
 Eguenigue
 Eloie
 Felon
@@ -9260,19 +9222,17 @@ Aigues-Juntes
 Aigues-Vives
 Argancon
 Alpuech
-Aix-en-Provence
+Allas-Bocage
 Arcay
+Adam-les-Vercel
 Aibre
 Acon
 Argol
 Ajaccio
-Albertacce
 Aigues-Mortes
 Aimargues
 Arblade-le-Bas
-Aiglepierre
 Ardon
-Arcambal
 Aiguillon
 Antrenas
 Aizanville
@@ -9281,7 +9241,6 @@ Acy-en-Multien
 Alencon
 Aigueperse
 Ancizan
-Aiguebelle
 Aigueblanche
 Èx-los-Bens
 Ex-los-Bens
@@ -9304,22 +9263,22 @@ Sancerre
 Colombier
 Lucey
 Treguier
-Connezac
-Cubry
+Ecot
 Valence
+Chambray
 Venables
 Piedicroce
 Venaco
 Lartigue
+Monclar
 Puysegur
 Cenac
+Creon
 Lacanau
-Lapouyade
 Marcillac
 Monpel'e
 Gorad Manpel'e
 Grenoble
-Crotenay
 Montredon
 Montastruc
 Fontenay
@@ -9327,6 +9286,7 @@ Esternay
 Locqueltas
 Laquenexy
 Gorad Mec
+Meca
 Mecas
 Sarreguemines
 Gorad Lil'
@@ -9339,19 +9299,15 @@ Montastruc
 Planes
 Sant Hipolit de la Salanca
 Colombier
+Quenoche
 Fontenay
 Lacrost
-Entremont
-Fecamp
 Villenoy
 Quend
-Rue
 Garrigues
 Vabre
 Valence
-Sorgues
 Everiaco
-Lantosque
 Martigues
 Juillac
 Crocq
@@ -9360,36 +9316,39 @@ Artigue
 Cadillac
 Castries
 Ferce
+Cajarc
 Espeyroux
 Cubieres
+Luc
+Badonviller
 Carnac
 Guer
-Pertús
-Gorre
 Aigues-Vives
 Tremblay-en-France
 La Colombe
 La Fere
-La Ferte-Chevresis
+La Flamengrie
 La Piarre
 La Brigue
 La Feree
 La Riviere-de-Corps
 La Pomarede
-La Serpent
+La Fouillade
 La Loubiere
 La Cambe
 La Vacquerie
+La Vespiere
 La Faye
 La Jard
 La Jarrie
 La Tremblade
-La Prenessaye
 La Sauniere
 La Dornac
 La Jemaye
 La Planee
 La Garde-Adhemar
+La Gueroulde
+La Haye-Aubree
 La Ferte-Vidame
 La Vernarede
 La Lande-de-Fronsac
@@ -9399,26 +9358,29 @@ La Combe-de-Lancey
 La Ferriere
 La Morte
 La Ferte
+La Frasnee
 La Loye
 La Marre
+La Gresle
 La Pacaudiere
-La Ricamarie
+La Talaudiere
 Le Puy-en-Velay
 La Remaudiere
 La Dagueniere
 Le Guedeniau
+La Lande-Chasles
 La Previere
 La Colombe
 La Glacerie
 La Godefroy
 La Ronde-Haye
-La Genevroye
 Le Val-de-Gueblange
 La Fermete
 La Gorgue
 La Ferte-Mace
 La Perriere
 La Moutade
+La Renaudie
 Los Masos
 els Masos
 el Tec
@@ -9435,6 +9397,7 @@ La Roque-Esclapon
 La Roque-Alric
 La Gueriniere
 La Puye
+La Chapelaude
 La Besace
 La Bastide-de-Besplas
 La Bastide-de-Bousignac
@@ -9443,7 +9406,6 @@ La Bastide-l'Eveque
 La Bastide-Pradines
 La Bastide-Solages
 La Capelle-Balaguier
-Les Costes-Gozon
 Le Puy-Sainte-Reparade
 La Harmoye
 La Landec
@@ -9454,6 +9416,7 @@ Le Cabanial
 La Couyere
 La Balme-d'Epy
 La Cote-en-Couzan
+La Chapelle-Launay
 La Baule-Escoublac
 La Bastide-Puylaurent
 La Chaze-de-Peyre
@@ -9469,7 +9432,11 @@ La Couarde
 La Bastide
 La Crau
 La Martre
+La Ferriere
+La Garnache
+La Gaubretiere
 Montbray
+Lesperon
 Sarras
 Salvagnac-Cajarc
 Tauriac-de-Camares
@@ -9488,6 +9455,7 @@ Laramiere
 Linac
 Sainte-Colombe-de-Duras
 Launay-Villiers
+Vimarce
 Locmalo
 Lombia
 Pontacq
@@ -9511,7 +9479,6 @@ Aigueperse
 Aiguines
 La Ferte-Milon
 La Feuillade
-La Flamengrie
 Hodenc-l'Eveque
 Aigues-Vives
 Senantes
@@ -9521,10 +9488,10 @@ Lacave
 Esterencuby
 Francieres
 Estrees-les-Crecy
+Aurignac
 Place
 Cresancey
 Villesequelande
-Celon
 Labastide-Monrejeau
 Perignac
 Esparron
@@ -9540,9 +9507,9 @@ Colombiers
 Colombiers
 Lombard
 Recanoz
-Fargues
 Cesancey
 Crespin
+Lanrelas
 Pledeliac
 Lavancia-Epercy
 Lagarde
@@ -9554,11 +9521,11 @@ Argelos
 Aubiac
 Aubiac
 Arquenay
+Cabanes
 Gelos
 Labarde
 Semblancay
 Combret
-Gencay
 Les Estables
 Albiez-Montrond
 Elne
@@ -9573,6 +9540,7 @@ Cublac
 la Menera
 la Roca d'Albera
 La Valla-en-Gier
+el Volo
 el Voló
 Fontenay
 Rosoy-en-Multien
@@ -9580,18 +9548,19 @@ Ecot-la-Combe
 La Bastide
 Saint-Cirq-Madelon
 Arroses
+Cabanes
 La Barre
 La Charce
 Argelos
+Escaunets
 Saint-Nicolas-la-Chapelle
 Redon
-La Guerche
 Clarac
-Luc
 La Barde
 Lorcieres
 Le Valdecie
 Combiers
+La Ferriere
 La Londe
 La Perriere
 Lapeyrugue
@@ -9600,7 +9569,6 @@ Locmaria
 la Guingueta
 Laguepie
 Serrieres-de-Briord
-Longueval-Barbonval
 La Palud-sur-Verdon
 Esparron
 Jaunac
@@ -9636,8 +9604,10 @@ Temple-Laguyon
 Lombard
 La Repara-Auriples
 Eygluy-Escoulin
+Val-Maravel
 Montferrand-la-Fare
 Fontenay
+Nojeon-en-Vexin
 Val-de-Reuil
 Guarguale
 Sainte-Lucie-de-Tallano
@@ -9650,16 +9620,16 @@ Clarac
 Larroque
 Marignac
 Larra
+Lagarde
 Pouy-Loubrin
+Villecomtal-sur-Arros
 Bernos-Beaulac
 Juillac
 La Brede
 Lalande-de-Pomerol
 Colombieres-sur-Orb
 Muel
-La Ferriere
 Descartes
-Marray
 La Garde
 Val-d'Epy
 Colombier
@@ -9696,6 +9666,7 @@ Cordon
 Val-de-Fier
 Fontenay
 Crecy-la-Chapelle
+Prunay-en-Yvelines
 Hescamps
 Estrees-Mons
 Andouque
@@ -9713,10 +9684,10 @@ Arces-Dilo
 La Garde
 L'Escale
 Colombier
+L'Escarene
 Lacave
 Esplas-de-Serou
 Carcanieres
-Benagues
 La Bastide-de-Lordat
 Artigues
 Alos
@@ -9739,7 +9710,6 @@ Montastruc
 XIVe
 XVe
 Rosoy
-Region de l' Ogooue-Ivindo
 Province de la Nyanga
 Province de la Ngounie
 Province de la Ngounié
@@ -9754,11 +9724,13 @@ ELS
 Gales
 Reino Unido
 Royomo-Uni
+Royômo-Uni
 Stuorra-Británnia
 Tyne y Wear
 Suffolk
 Somerset
 Islas Shetland
+Setlando salos
 Escocia
 Escócia
 Escòcia
@@ -9777,6 +9749,7 @@ Hampshire
 Gran Mánchester
 gretara myanacestara
 Liela Mancestra
+Sir y Fflint
 ESS
 Elmbridge District
 ESX
@@ -9786,6 +9759,7 @@ Cornualles
 Central
 Cambridge
 Croydon
+Doncaster
 EAL
 ENF
 Hammersmith y Fulham
@@ -9794,6 +9768,8 @@ EDU
 ERW
 EDH
 Inglaterra
+Waddesdon
+Lucton
 Cadeby
 Prescote
 Ecton
@@ -9801,20 +9777,20 @@ Faenor
 Cadeby
 Pentrefoelas
 Elsdon
-Elslack
 Cwmbran Central
-Garriston
+Caldecote
 Pencoed
 Pentre
 Lyndon
 Camrose
 Llanfihangel Rhos-y-Corn
-Madeley
 Elm
 Elton
 Ladock
 Lanteglos
+Lezant
 Perranzabuloe
+Treneglos
 Esh
 Elton
 Parracombe
@@ -9826,7 +9802,6 @@ Prescot
 Preston Capes
 Ysgubor-y-Coed
 Pencarreg
-Llanfaelog
 Lode
 Elton
 Caldecote
@@ -9839,9 +9814,11 @@ Castle Eden
 Elmton
 Mercaston
 Salcombe
-Alton Pancras
+Hollacombe
+Brentor
 Puxton
 Elmdon
+Icomb
 Upleadon
 Elmore
 Sacombe
@@ -9850,18 +9827,17 @@ Quernmore
 Cuerdale
 Maescar
 Tresco
-Capel-le-Ferne
 Elmbridge
 Boscobel
-Quarrendon
+Allostock
 Lamport
 Cracoe
 Bilsdale Midcable
-Eskdaleside cum Ugglebarnby
 Bleadon
 Pen-y-Waun
 Clocaenog
 Llanferres
+Cranmore
 Ellastone
 Elton
 Botesdale
@@ -9874,32 +9850,33 @@ Esclusham
 Cusop
 Piercebridge
 Elton
+Llanidloes
 Pen-y-Graig
 Pont-y-Clun
 Ballidon
 Buerton
+Ashby-de-la-Zouch
 Fulmodeston
 Lacock
 Hellidon
 Trident
-Grade-Ruan
+Capel Curig
 Madron
 Mordon
+Muncaster
 Marr
+Layer-de-la-Haye
 Cliddesden
 Ely
-Barton
 Caunton
 Elston
 Ambrosden
 Bladon
 Upton Scudamore
-Cylch-y-Garn
 Enmore
 Croxden
 Saredon
 Barlaston
-Hundon
 Landore
 Loddon
 Granada
@@ -9916,11 +9893,15 @@ Guercuestan
 Abjasia
 Guayana Francesa
 Guyana francese
+Gueiana Francesa
 Francia Guyana
+Guyana Franceza
 Guayana Francesa
 Camopi
 Guernsey
 Wyspa Guernsey
+Guernesey
+Guernsey (general)
 Ghana
 Central
 Brong-Ahafo
@@ -9930,34 +9911,32 @@ Juaboso
 Gibraltar
 Gíbraltar
 Calpe
-jbl tarq
+Hibraltar
 jbl altarq
 Groenlandia
 Gorolande
 Central Jarra
 Jarra Central
 Gambia
-Orílẹ́ède Gambia
 Gámbia
 Gambía
 Gambie
 Gambio
-Central Baddibu
 Prefecture de Tougue
 Prefecture de Macenta
 Macenta
 Prefecture de Labe
-Prefecture de Koundara
 Guinea
 Gínea
 Prefecture de Guekedou
+Prefecture de Gaoual
 Prefecture de Faranah
 Prefecture de Dinguiraye
 Prefecture de Dalaba
 Prefecture de Dabola
-Prefecture de Beyla
 Prefecture de Coyah
 Prefecture de Lola
+Prefecture de Mandiana
 Guadalupe
 guadorupu
 Gvadelúpeyjar
@@ -9975,7 +9954,6 @@ Departement de la Guadeloupe
 Guadeloupe
 Valladolid de los Bimbiles
 Administracion Territorial de Niefang
-Sevilla de Niefang
 Administración Territorial de Niefang
 Demarcación de Sanda Isabel
 Demarcacion de Sanda Isabel
@@ -9994,7 +9972,6 @@ Administración Territorial de Kogo
 Puerto Iradier
 Ensoro
 Administracion Territorial de Nsok
-Ensorc
 Administración Territorial de Nsok
 Mongomo de Guadalupe
 Administración Territorial de Mikomeseng
@@ -10007,6 +9984,7 @@ Guinea Ecuatorial
 Provincia de la Guinea Ecuatorial
 Guinea Española
 Territorios Españoles del Golfo de Guinea
+Guinea Equeatoriala
 Posesiones Españolas del Golfo de Guinea
 República de Guinea Ecuatorial
 Territorios Espanoles del Golfo de Guinea
@@ -10020,14 +9998,12 @@ Administración Territorial de Annobón
 Isla de Annobón
 Provincia de Annobon
 Isla de Annobon
-Annobón
 Demarcación de Annobón
 Provincia de Annobón
 Administracion Territorial de Annobon
 Demarcacion de Annobon
 Provincia de Centro Sur
 Provincia de Kie-Ntem
-Provincia de Kié-Ntem
 Provincia de Litoral
 Provincia de Wele-Nzas
 Viotía
@@ -10039,17 +10015,18 @@ Nomó Thesprotías
 Eparkhía Soulíou
 Samos Prefecture
 Mesenia
+Messinía
 Magnesia
 Magnisía
-Eparkhía Lokrídos
 Mitilíni
+Lasíthi
 Laconia
 Corinthia
 Cyclades
+Chios Prefecture
 La Canea
 Kefalonia
 Elide
-Elis
 Ilía
 Nomós Ilías
 Elea
@@ -10057,8 +10034,8 @@ Ileía
 Ftiótide
 Nomós Fthiótidhas
 Ftiótida
+Nomós Fthiótidhos
 Fócida
-Evritanía
 Nomós Evritanías
 Nomos Dodecanese
 Arcadia
@@ -10066,6 +10043,7 @@ Arcadië
 Arcadie
 Argolida
 Argolís
+Nomós Argolídhas
 Acaya
 Etolia
 Grecia
@@ -10073,7 +10051,6 @@ Grecia - Ellada
 Vasilion tis Ellados
 Graecia
 Ellada
-Greci
 Siteías
 Eparchía Kainouríou
 Eparchía Ártas
@@ -10083,7 +10060,6 @@ Eparchia Lefkados
 Eparchia Lefkadas
 Eparchía Lefkádas
 Eparchía Vónitsas kai Xiromérou
-Eparchia Evrytanias
 Eparchía Kardítsis
 Eparchía Elassónas
 Eparchía Lárisas
@@ -10106,7 +10082,6 @@ Eparchía Peiraiós
 Eparchía Aíginas
 Eparchía Ándrou
 Eparchía Kéas
-Eparchía Sýrou
 Eparchía Mílou
 Eparchia Ermionidas
 Eparchía Ermionídas
@@ -10115,16 +10090,12 @@ Eparchía Pyrgiotíssas
 Eparchia Pediados
 Eparchia Pediadas
 Eparchía Pediádas
-Eparchia Rodou
 Perifereiakí Enótita Ródou
 Eparchía Ródou
 Ródou
-Eparchía Ko
 Eparchía Párou
 Perifereiakí Enótita Thíras
-Eparchía Míthymnas
 Xanti
-Salonica
 Nomos Serron
 Rodope
 Piería
@@ -10153,10 +10124,11 @@ Grece-Occidentale
 Macedoine-Occidentale
 Pavlos Melas
 Milos
+Dimos Acharnes
 Elafonisos
 Dimos Chalcis
 Lamieon
-Spaton - Artemidos
+Elassonas
 Elassona
 Dimos Elassona
 Dimos Velo-Vocha
@@ -10165,11 +10137,11 @@ Leros
 Dimos Chios
 Dimos Arriana
 Arriana
+Dimos Penteli
 Dimos Chalandri
 Dimos Pella
 Dimos Corfu
 Dimos Serres
-Dimos Servia-Velventos
 Prespon
 Prespes
 Dimos Prespes
@@ -10180,7 +10152,9 @@ Dimos Elefsina
 Metamorfoseos
 Tilos
 Pylos-Nestoras
-Perifereiakí Enótita Kentrikoú Toméa Athinón
+Peloponnísos - Dytikí Elláda - Ionía Nísia
+Aigaío
+Perifereiakí Enótita Dytikoú Toméa Athinón
 Perifereiakí Enótita Níson
 Islas Georgia del Sur y Sandwich del Sur
 Islas Georgias del Sur
@@ -10188,6 +10162,7 @@ Cənub Guercuestan və Cənub Sandvilc Adalari
 Municipio de Zunilito
 Municipio de Zunil
 Municipio de Zaragoza
+Municipio de Zapotitlan
 Municipio de Zacapa
 Departamento de Zacapa
 Municipio de Yupiltepeque
@@ -10195,6 +10170,7 @@ Municipio de Yepocapa
 Municipio de San Pedro Yepocapa
 Municipio de Villa Nueva
 Municipio de Villa Canales
+Municipio de Uzumatlán
 Municipio de Uspantán
 Municipio de San Miguel Uspantán
 Municipio de Uspantan
@@ -10208,7 +10184,6 @@ Departamento de Totonicapán
 Totonicapán
 Departamento de Totonicapan
 Municipio de Todos Santos Cuchumatán
-Municipio de Tiquisate
 Municipio de Tejutla
 Muncipio de Teculutan
 Municipio de Tectitan
@@ -10217,6 +10192,7 @@ Municipio de Taxisco
 Municipio de Tamahu
 Municipio de Tactic
 Municipio de Tacana
+Municipio de Sumpango
 Departamento de Suchitepéquez
 Suchitepequez
 Suchitepeque
@@ -10237,10 +10213,13 @@ Municipio de Santo Tomas La Union
 Municipio de Santo Domingo Xenacoj
 Municipio de Santo Domingo Suchitepequez
 Municipio de Santiago Sacatepequez
+Municipio de Santiago Chimaltenango
 Municipio de Santiago Atitlan
 Municipio de Santa Rosa de Lima
 Departamento de Santa Rosa
+Santa Rosa
 Municipio de Santa Maria Visitacion
+Municipio de Santa Maria Ixhuatan
 Municipio de Santa Maria de Jesus
 Municipio de Santa María de Jesús
 Municipio de Santa Maria Chiquimula
@@ -10253,6 +10232,7 @@ Municipio de Santa Cruz Verapaz
 Municipio de Santa Cruz Naranjo
 Municipio de Santa Cruz Mulua
 Municipio de Santa Cruz La Laguna
+Municipio de Santa Cruz del Quiche
 Municipio de Santa Cruz Balanya
 Municipio de Santa Clara La Laguna
 Municipio de Santa Catarina Pinula
@@ -10264,6 +10244,7 @@ Municipio de Santa Barbara
 Municipio de Santa Apolonia
 Municipio de Santa Ana Huista
 Municipio de Santa Ana
+Municipio de San Sebastian Huehuetenango
 Municipio de San Sebastian Coatan
 Municipio de San Sebastian
 Municipio de Sansare
@@ -10367,6 +10348,7 @@ Municipio de Salcaja
 Municipio de Salama
 Departamento de Sacatepequez
 Sacatepequez
+Departamento de Sacatepéquez
 Municipio de Sacapulas
 Municipio de Rio Blanco
 Municipio de Rabinal
@@ -10393,7 +10375,6 @@ Departamento del Petén
 Departamento de El Petén
 Municipio de Petapa
 Municipio de Patzun
-Municipio de Patzite
 Municipio de Patzicia
 Municipio de Pastores
 Municipio de Pasaco
@@ -10423,11 +10404,9 @@ Municipio de Morales
 Municipio de Monjas
 Municipio de Momostenango
 Municipio de Melchor de Mencos
-Municipio de Mazatenango
 Municipio de Mataquescuintla
 Municipio de Masagua
 Municipio de Malacatancito
-Santa Ana Malacatán
 Municipio de Malacatan
 Municipio de Magdalena Milpas Altas
 Municipio de Los Amates
@@ -10464,8 +10443,10 @@ Municipio de Huehuetenango
 Departamento de Huehuetenango
 Municipio de Guazacapan
 Guatemala
+Goa-te-ma-la
 República de Guatemala
 Municipio de Guatemala
+Departamento de Guatemala
 Municipio de Guanagazapa
 Municipio de Gualan
 Municipio de Granados
@@ -10485,6 +10466,7 @@ Municipio de El Rodeo
 Municipio de El Quetzal
 Municipio de El Progreso
 Municipio de El Progreso
+Progreso
 El Progreso
 Departamento de El Progreso
 Municipio de El Palmar
@@ -10542,6 +10524,7 @@ Municipio de Cahabón
 Municipio de Cahabon
 Municipio de Cabrican
 Municipio de Cabanas
+Santa Cruz Yalmox
 Santa Cruz Barillas
 Municipio de Barillas
 Municipio de Barberena
@@ -10561,6 +10544,7 @@ Yo’ ña
 Dededo Municipality
 Barrigada Municipality
 Guam
+guami
 Guinea-Bissáu
 Cacine
 Rising Sun-Eldorado Village District
@@ -10568,11 +10552,8 @@ Guyana
 Orílẹ́ède Guyana
 Yuen Long
 Hong Kong
-Tuen Mun
 Islas Heard y McDonald
-Heardo ir McDonaldo Salu Sritis
 Yuscarán
-Yocón
 Villa de San Francisco
 Villa de San Antonio
 Departamento de Valle
@@ -10593,7 +10574,6 @@ Santa Lucía
 Santa Lucia
 Santa Elena
 Santa Cruz de Yojoa
-Departamento de Santa Barbara
 Santa Ana de Yusguare
 San Pedro Zacapa
 San Pedro de Tutule
@@ -10606,9 +10586,9 @@ San Marcos de Sierra
 San Marcos de Colon
 San Marcos
 San Marcos
+San Manuel Colohete
 San Manuel de Colohete
 San Lucas
-San Juan de Opoa
 San Juan de Flores
 San José del Potrero
 San Jose del Potrero
@@ -10617,9 +10597,10 @@ San José de Copán
 San José de Comayagua
 San Jose de Comayagua
 San Jose de Colinas
-San Jeronimo
+San Jose
+San José
+San Jose
 San Jerónimo
-San Jeronimo
 San Jerónimo
 San Ignacio
 San Francisco de Yojoa
@@ -10637,7 +10618,6 @@ San Antonio de Flores
 San Antonio de Cortés
 San Antonio de Cortes
 Quimistán
-Puerto Lempira
 Potrerillos
 Potrerillos
 Departamento de Ocotepeque
@@ -10667,7 +10647,6 @@ La Jigua
 La Esperanza
 La Encarnación
 La Encarnacion
-La Ceiba
 La Campa
 Jose Santos Guardiola
 Jesus de Otoro
@@ -10709,6 +10688,7 @@ El Corpus
 Dulce Nombre de Culmí
 Dolores Merendón
 Dolores Merendon
+Cucuyagua
 Copán Ruinas
 Departamento de Copán
 Concepcion de Maria
@@ -10729,7 +10709,7 @@ Departamento de Colón
 Departamento de Colon
 Colomoncagua
 Cololaca
-Departamento de Choluteca
+Chinacla
 D.C. Tegucigalpa
 Cedros
 Candelaria
@@ -10768,13 +10748,12 @@ Haití
 Gros Morne
 Cotes-de-Fer
 Cerca La Source
-Cerca Carvajal
 Caracol
-Boucan Carre
 Hungría
 Ongría
 Macaraen
 Zala
+Gyor-Moson-Sopron
 Bács-Kiskun
 Suela
 Pacitan
@@ -10782,13 +10761,12 @@ Maros
 Kiaracondong
 Indonesia
 Indónesía
+Orileede Indonesia
 Orílẹ́ède Indonesia
-Enndonesii
+Indonesien
 Endonezya
-Desa Wonorejo
 Desa Sidorejo
 Desa Lorog
-Desa Rejosari
 Desa Celep
 Desa Pulosari
 Desa Celep
@@ -10804,47 +10782,42 @@ Desa Pacarrejo
 Pacarejo
 Desa Pacarejo
 Desa Wonosari
-Desa Poncosari
 Desa Selopamioro
-Desa Tirtosari
 Desa Sogoroyoso
 Desa Sidorejo
 Desa Sidomoyo
 Desa Sidorejo
-Desa Ngeposari
 Desa Argosari
 Desa Argorejo
 Desa Argodadi
 Desa Rejoso
 Desa Drono
+Desa Mlese
 Desa Ngolodono
 Desa Sentono
 Desa Wonodoyo
 Desa Bono
 Desa Nomporejo
 Desa Mojolegi
+Desa Bolon
 Desa Margosari
-Desa Somorejo
-Desa Mlese
+Desa Hargorejo
 Desa Donorejo
+Desa Maduretno
 Desa Selomoyo
 Desa Wonoroto
 Desa Sidorejo
-Desa Rejosari
 Desa Madyocondro
+Desa Tonoboyo
 Desa Sidorejo
 Desa Pulosaren
 Desa Purbosono
 Desa Losari
 Desa Reco
-Desa Wonosari
-Desa Rejosari
 Desa Drono
 Desa Madureso
 Desa Sidorejo
 Desa Sidorejo Kidul
-Desa Rejosari
-Desa Gilirejo
 Desa Gesono
 Desa Wonosegoro
 Desa Trosobo
@@ -10857,7 +10830,6 @@ Desa Losari
 Desa Sidorejo
 Desa Sonorejo
 Desa Trenten
-Desa Rejosari
 Desa Lencoh
 Desa Bedono
 Desa Citrosono
@@ -10867,7 +10839,6 @@ Desa Seloboro
 Desa Ngendrosari
 Desa Sidosari
 Desa Margoyoso
-Desa Menoreh
 Desa Cacaban Lor
 Desa Tlogosono
 Tlogosono
@@ -10879,7 +10850,6 @@ Desa Wonoroto
 Desa Sono
 Desa Plosogede
 Desa Sucen
-Desa Leses
 Margosono
 Desa Margosono
 Desa Madureso
@@ -10888,50 +10858,46 @@ Tlogosari
 Desa Tlogosari
 Jladri
 Desa Jladri
+Argopeni
 Desa Argosari
 Argosari
 Desa Wonoyoso
 Pesantren
-Desa Pesantren
 Desa Sempor Lor
 Sempor Lor
 Penican
 Desa Penican
-Desa Ngeposari
 Ngeposari
 Sidorejo
 Desa Sidorejo
 Desa Bedoyo
 Candirejo
+Desa Candirejo
 Suci
 Desa Suci
 Pracimantoro
 Desa Waluyorejo
 Desa Brecong
-Desa Buluspesantren
+Desa Glontor
 Donosari
 Desa Donosari
 Bonosari
 Desa Bonosari
-Desa Wonosigro
+Desa Maos Lor
 Maos Lor
 Losari
 Desa Losari
 Tlogosari
 Desa Tlogosari
-Desa Wonorejo Kulon
 Desa Balorejo
 Desa Lajer
-Ranterejo
-Argopeni
 Wonosari
-Desa Wonosari
 Desa Tirtomoyo
 Wonosari
-Desa Wonosari
 Desa Pencil
 Pencil
 Desa Lancar
+Desa Erorejo
 Padureso
 Desa Padureso
 Cilacap
@@ -10940,12 +10906,12 @@ Desa Losari
 Wanacipta
 Desa Wanacipta
 Mergosari
-Ngadisono
+Desa Mergosari
+Desa Ngadisono
 Desa Medono
 Medono
 Desa Tracap
 Desa Wonosroyo
-Pacitan
 Pacitan
 Ploso
 Cilacap
@@ -10953,9 +10919,9 @@ Jabres
 Desa Jabres
 Desa Meles
 Desa Madurejo
+Mentoro
 Desa Mentoro
 Desa Mantren
-Desa Gedongrejo
 Ploso
 Desa Ploso
 Desa Mantren
@@ -10966,15 +10932,19 @@ Ciporos
 Desa Laren
 Desa Grecol
 Desa Senon
+Desa Plompong
 Bode Lor
 Desa Bode Lor
 Semplo
+Bodesari
 Bojongcideres
 Desa Bojongcideres
+Desa Lame
 Lame
 Desa Cipeundeuy
 Desa Cicanir
 Gandasoli
+Desa Bobos
 Desa Lajer
 Desa Gua Lor
 Gua Lor
@@ -10982,35 +10952,35 @@ Desa Gadel
 Gadel
 Desa Lelea
 Candirejo
+Desa Candirejo
+Wonosari
 Desa Purbosono
 Ploso
 Desa Ploso
-Desa Ngreco
 Hargosari
 Guno
 Desa Guno
 Sidorejo
 Desa Sidorejo
-Plosorejo
 Desa Plosorejo
 Desa Selorejo
+Desa Jeporo
 Desa Golo
 Sidorejo
 Desa Sidorejo
 Ploso
 Desa Ploso
-Trosono
 Desa Trosono
+Pacalan
 Desa Setren
 Desa Setono
 Hargosari
 Wonosari
-Desa Wonosari
 Candirejo
-Desa Candirejo
 Desa Balegondo
 Sidorejo
 Desa Sidorejo
+Pacalan
 Widodaren
 Desa Widodaren
 Sidorejo
@@ -11018,16 +10988,18 @@ Desa Sidorejo
 Ploso
 Desa Ploso
 Desa Rejomulyo
-Plosorejo
 Desa Plosorejo
 Widodaren
+Desa Widodaren
 Widodaren
+Desa Gentong
 Desa Cantel
 Desa Lerep
 Candirejo
 Desa Gondoriyo
 Desa Wonoyoso
 Candirejo
+Desa Lajer
 Desa Ngleses
 Desa Plosorejo
 Desa Rejosari
@@ -11038,26 +11010,26 @@ Desa Plosorejo
 Pulosari
 Desa Guci
 Guci
-Desa Pulosari
 Pulosari
 Desa Botosari
 Desa Yosorejo
 Pesantren
+Desa Pesantren
 Desa Pacet
 Desa Deles
-Ngargosari
 Campurejo
-Desa Campurejo
 Desa Plososari
 Plososari
 Desa Wonocoyo
 Wonocoyo
 Desa Donorejo
 Pesantren
+Desa Pesantren
 Desa Pitrosari
 Mento
 Padureso
 Desa Padureso
+Desa Muncar
 Desa Margolelo
 Sucen
 Desa Sucen
@@ -11070,31 +11042,29 @@ Peron
 Losari
 Desa Losari
 Desa Giricahyo
-Ngloro
 Desa Ngloro
 Hargosari
+Desa Ngestirejo
 Desa Wonoroto
 Desa Wonosri
 Desa Kertosono
 Bencorejo
 Desa Bencorejo
+Desa Brondongrejo
+Desa Surorejo
 Wonosari
 Desa Wonosari
 Wonosari
-Desa Wonoyoso
 Desa Dolomarto
 Sidorejo
 Desa Sidorejo
 Desa Lugurejo
-Desa Besole
-Desa Rejosari
-Desa Bedonopageron
+Desa Kroyo Lor
 Brunosari
 Desa Brunorejo
 Desa Jolontoro
 Sidorejo
 Desa Sidorejo
-Desa Sanca
 Sanca
 Desa Compreng
 Desa Bobos
@@ -11105,22 +11075,26 @@ Desa Seloromo
 Desa Plosorejo
 Desa Cipeles
 Cipeles
-Desa Cigentur
 Desa Licin
 Desa Leles
 Sanca
 Desa Cipancur
+Gandasoli
 Desa Cigendel
 Desa Cileles
 Cipacing
 Desa Cipacing
+Desa Cileunca
 Desa Plered
+Desa Cipeundeuy
 Desa Bencoy
 Bencoy
+Gasol
 Desa Gasol
 Desa Ciloto
 Desa Cimacan
 Gandasoli
+Desa Cipeundeuy
 Margacinta
 Desa Cicau
 Desa Nagacipta
@@ -11131,7 +11105,6 @@ Desa Laladon
 Laladon
 Selacau
 Baros
-Cipedes
 Caracas
 Desa Caracas
 Desa Pacing
@@ -11140,18 +11113,13 @@ Desa Cicinde Selatan
 Cicinde Selatan
 Ciciende Utara
 Desa Ciciende Utara
-Desa Cipeundeuy
-Desa Pulosari
 Pulosari
-Tapos Dua
 Desa Tapos Dua
 Desa Cileles
 Desa Pulosari
-Pulosari
 Desa Margorejo
 Wonosari
 Desa Nonorejo
-Desa Margosari
 Margosari
 Pucangrejo
 Sidorejo
@@ -11159,23 +11127,27 @@ Desa Sidorejo
 Desa Yosorejo
 Sidorejo
 Desa Sidorejo
+Poncorejo
 Desa Poncorejo
 Desa Mentosari
 Mentosari
+Desa Rowobranten
+Desa Wonorejo
 Wonosari
 Bedono
 Desa Bedono
+Desa Rejosari
+Mulyorejo
 Desa Mulyorejo
 Wonosari
 Desa Wonosari
 Sedo
 Sidorejo
 Desa Sidorejo
-Desa Rejosari
-Desa Pulosari
 Pulosari
 Desa Donorejo
 Desa Bogosari
+Bogosari
 Desa Yosorejo
 Sidorejo
 Desa Sidorejo
@@ -11184,23 +11156,27 @@ Desa Losari
 Wonosari
 Desa Wonosari
 Desa Mrican
+Mulyorejo
 Desa Mulyorejo
 Desa Sidosari
 Sidosari
 Gadudero
 Desa Gadudero
 Desa Somosari
+Desa Cendono
 Ploso
 Desa Ploso
 Desa Bacin
 Bacin
 Desa Plosorejo
+Desa Rejosari
+Jono
+Desa Nglobar
 Desa Dorolegi
 Desa Guci
 Guci
 Desa Pulorejo
 Wonosari
-Desa Wonosari
 Desa Pladen
 Pladen
 Desa Margorejo
@@ -11211,31 +11187,33 @@ Desa Limo
 Ciracas
 Sidorejo
 Desa Sidorejo
+Desa Rejosari
 Desa Colo
+Desa Koroncong
 Baros
 Bidaracina
 Pesantren
-Desa Blacanan
+Desa Pesantren
 Blacanan
 Molas
+Dermasuci
 Desa Toyomerto
 Losari
+Desa Wonorejo
 Desa Tirtomoyo
 Mergosono
 Cipedes
-Desa Cipedes
+Desa Loa
 Kenconorejo
 Desa Kenconorejo
 Desa Wonosegoro
 Desa Durenombo
-Desa Toyomarto
-Desa Parerejo
 Pacar
 Desa Samborejo
 Sidorejo
 Desa Wonoyoso
+Desa Rowocacing
 Medono
-Desa Yosorejo
 Baros
 Sidorejo
 Desa Sidorejo
@@ -11243,34 +11221,31 @@ Losari
 Losari
 Losari Lor
 Desa Losari Lor
+Desa Losari Lor
 Sidorejo
 Desa Sidorejo
 Madigondo
 Sidorejo
 Desa Sidorejo
 Desa Klecorejo
-Pacinan
 Desa Pacinan
 Garon
 Desa Garon
 Pucangrejo
-Desa Rejosari
 Desa Sidorejo
 Desa Betoyoguci
 Desa Cileles
 Desa Plosoampel
 Desa Girimoyo
+Desa Torongrejo
 Desa Selorejo
 Desa Mulyorejo
 Desa Pacentan
-Desa Pulosari
 Pulosari
 Margoyoso
 Desa Margoyoso
 Ploso
 Desa Ploso
-Desa Plaosan
-Desa Ngaresrejo
 Desa Trosobo
 Bogares Lor
 Desa Bogares Lor
@@ -11299,14 +11274,15 @@ Sidorejo
 Desa Sidorejo
 Desa Gupolo
 Desa Gupolo
+Desa Ronosentanan
 Campurejo
-Desa Campurejo
 Desa Gontor
 Desa Argosari
 Argosari
 Suci
 Desa Suci
 Desa Cerme Lor
+Jono
 Desa Hendrosari
 Desa Lestari
 Mentoro
@@ -11328,30 +11304,31 @@ Desa Mrican
 Campurejo
 Jubel Lor
 Desa Jubel Lor
+Desa Puspo
 Suci
 Desa Suci
 Caracas
 Desa Caracas
 Baledono
 Jeladri
-Desa Mesoyi
 Mesoyi
 Desa Rogoselo
-Desa Jolotigo
-Desa Tumbrep
+Mendolo
 Desa Blado
 Desa Pacet
 Wonosari
+Desa Wonosari
 Desa Wonosobo
 Desa Donorejo
 Candirejo
+Desa Candirejo
 Wonosari
 Desa Wonosari
 Desa Tersono
+Desa Rejosari
 Margosono
 Desa Margosono
 Baros
-Mulyorejo
 Desa Mulyorejo
 Ploso
 Losari
@@ -11359,7 +11336,6 @@ Desa Losari
 Ploso
 Desa Ploso
 Pesantren
-Desa Pesantren
 Desa Pulorejo
 Desa Madureso
 Madureso
@@ -11367,8 +11343,6 @@ Desa Centini
 Desa Compreng
 Penidon
 Wonosari
-Desa Rejosari
-Desa Slambrit
 Mulyorejo
 Desa Mulyorejo
 Desa Bloro
@@ -11378,6 +11352,7 @@ Desa Plososari
 Plososari
 Desa Sentonorejo
 Sentonorejo
+Desa Baureno
 Sidorejo
 Desa Sidorejo
 Desa Plososari
@@ -11392,18 +11367,20 @@ Srondol Kulon
 Lamper Lor
 Sidorejo
 Desa Sidorejo
+Desa Puncu
 Puncu
+Desa Madiredo
+Wonosari
+Desa Rejoso Lor
 Wonosari
 Desa Wonosari
-Desa Rejoso Lor
-Desa Segoropuro
-Desa Kertosono
-Wonosari
 Desa Trotosari
+Tlogosari
 Desa Tlogosari
 Wonosari
 Desa Walidono
 Walidono
+Desa Rejomulyo
 Desa Pencol
 Pencol
 Desa Sobontoro
@@ -11415,13 +11392,13 @@ Desa Sidorejo
 Desa Sombron
 Sombron
 Desa Loceret
-Desa Cerme
+Desa Pace Kulon
 Desa Sonorejo
 Candirejo
 Desa Pare Lor
+Desa Wonorejo
 Desa Pulorejo
 Desa Mejono
-Desa Wonorejo
 Desa Blado Kulon
 Desa Selorejo
 Desa Nguntoronadi
@@ -11430,39 +11407,34 @@ Garon
 Desa Garon
 Ploso
 Desa Ploso
-Desa Rejomulyo
 Desa Setonorejo
 Desa Rejoso
+Desa Setren
 Ploso
-Desa Pulosari
 Pulosari
 Gluranploso
 Desa Gluranploso
 Gadel
-Desa Rosep
 Desa Bendorejo
-Cendono
+Desa Cendono
 Desa Ngreco
 Desa Selodono
 Selodono
+Desa Selosari
 Gambrian
 Desa Dono
 Desa Wonoploso
-Desa Rejosari
-Desa Madiopuro
 Mentoro
 Desa Mentoro
 Desa Nglele
 Mancar
 Desa Jogoloyo
 Mancilan
-Desa Rejoslamet
 Desa Selorejo
 Desa Pacet
 Desa Centong
 Desa Raci
 Raci
-Desa Mojoparon
 Mentor
 Desa Mentor
 Desa Leces
@@ -11471,7 +11443,6 @@ Mancon
 Desa Mancon
 Desa Selorejo
 Mlancu
-Mulyorejo
 Desa Mulyorejo
 Losari
 Desa Losari
@@ -11479,6 +11450,7 @@ Wonosari
 Dharmacamplong
 Desa Laden
 Laden
+Tlesa
 Desa Lepelle
 Desa Pulosari
 Pulosari
@@ -11490,28 +11462,29 @@ Desa Sidorejo
 Desa Ploso Lor
 Ploso Lor
 Desa Ploso Kidul
-Wonorejotrisulo
 Desa Wonorejotrisulo
+Desa Rejuno
 Ploso
 Desa Ploso
 Wonosari
-Desa Wonosari
 Wonosari
-Desa Wonosari
 Desa Pacing
 Pacing
-Desa Mori
+Desa Jono
 Campurejo
 Desa Mojodeso
+Mulyorejo
 Desa Mulyorejo
 Sidorejo
 Desa Sidorejo
 Desa Sobontoro
 Desa Pacing
+Pacing
 Desa Margorejo
 Sidorejo
 Desa Sidorejo
 Desa Mlideg
+Desa Cerme
 Desa Lamongrejo
 Desa Pulorejo
 Desa Locare
@@ -11524,11 +11497,11 @@ Desa Sonorejo
 Desa Margorejo
 Desa Pulorejo
 Desa Klecoregonang
+Desa Baureno
 Desa Selorejo
 Sidorejo
 Desa Sidorejo
 Desa Selorejo
-Desa Gondoriyo
 Landono
 Lasolo
 Desa Balesono
@@ -11540,6 +11513,7 @@ Wonosari
 Sidorejo
 Desa Sidorejo
 Wonosari
+Desa Wonosari
 Desa Gondel
 Mulyorejo
 Desa Mulyorejo
@@ -11554,8 +11528,8 @@ Sidorejo
 Desa Sidorejo
 Desa Bonorejo
 Wonosari
-Desa Wonosari
 Senori
+Desa Lurejo
 Morocalan
 Desa Morocalan
 Sidorejo
@@ -11567,13 +11541,13 @@ Gucialit
 Desa Pace
 Suco
 Desa Suco
-Mulyorejo
 Desa Mulyorejo
 Desa Gucialit
 Gucialit
 Desa Bence
 Desa Seneporejo
 Desa Solor
+Desa Wonorejo
 Candirejo
 Tlogosari
 Desa Tlogosari
@@ -11581,26 +11555,28 @@ Sidorejo
 Desa Sidorejo
 Mergosari
 Salen
-Desa Mejoyo
 Segodobancang
+Desa Segodobancang
 Desa Wonosobo
-Desa Muncan
 Muncan
 Lape
-Berora
 Desa Goloriwu
 Melo
 Desa Gololobos
 Elar
-Desa Gogodeso
+Desa Golomunde
+Golomunde
+Desa Plosoarang
+Gogodeso
+Plosorejo
 Desa Plosorejo
 Ngadireso
-Desa Ngadireso
 Mulyorejo
 Ploso
-Mulyorejo
 Desa Pesucen
 Desa Licin
+Desa Rejosari
+Desa Wonorejo
 Muncan
 Desa Montongterep
 Ladolima
@@ -11618,18 +11594,16 @@ Macangpacar
 Desa Raporendu
 Raporendu
 Ndona
-Ende Selatan
+Desa Maurole
 Tlogosari
 Desa Madurejo
 Ncera
 Desa Ntori
 Desa Gorontalo
-Desa Golobilas
 Cuncalolos
 Desa Cuncalolos
 Ladur
 Desa Ladur
-Desa Waerenca
 Desa Waecodi
 Desa Compalcibal
 Loce
@@ -11647,17 +11621,17 @@ Desa Bloro
 Suci
 Desa Suci
 Desa Loloan
-Desa Monta
 Lido
+Desa Lido
 Desa Rego
 Desa Lante
 Beradolu
-Desa Beradolu
 Lombu
 Golombu
 Namparmacing
 Desa Namparmacing
 Desa Golomeni
+Desa Solo
 Golosandea
 Desa Golosandea
 Golodesat
@@ -11669,16 +11643,15 @@ Loderesan
 Desa Pulotondo
 Pulotondo
 Desa Bono
+Desa Trenceng
 Medoyo
+Desa Loa
 Lape
-Desa Lape
 Nuaone
-Desa Cibareno
 Cibareno
 Desa Cisuren
+Ciodeng
 Desa Montor
-Desa Cipeundeuy
-Desa Curuglemo
 Baros
 Ciracap
 Desa Cipeundeuy
@@ -11690,13 +11663,10 @@ Desa Cidolog
 Cidaun
 Desa Santosa
 Santosa
-Desa Cisero
 Ciela
 Desa Ciela
-Desa Toblong
 Margacinta
 Desa Margacinta
-Desa Ciaro
 Cintabodas
 Desa Cintabodas
 Cipedes
@@ -11713,32 +11683,38 @@ Mencon
 Desa Mencon
 Tlogosari
 Desa Tlogosari
+Desa Pasucen
 Desa Ngurenrejo
 Desa Cisontrol
 Desa Puncel
 Puncel
 Desa Raci
 Raci
-Selacai
+Pacar
 Lasem
 Desa Cicapar
 Cicapar
+Desa Segoromulyo
 Desa Pesucen
 Desa Gempolrejo
+Desa Seso
 Seso
 Margacina
 Desa Margacina
 Desa Pacing
 Pacing
+Desa Jlodro
 Desa Boncong
-Desa Ngepon
 Desa Gadon
 Gadon
+Desa Pulogede
+Desa Laju Lor
 Desa Rejodadi
 Senori
 Desa Senori
 Desa Socorejo
 Socorejo
+Gedongombo
 Paciran
 Desa Paciran
 Paciran
@@ -11747,20 +11723,17 @@ Tracal
 Desa Tracal
 Srigonco
 Desa Srigonco
-Sale
 Mentoso
 Desa Mentoso
 Campurrejo
 Desa Campurrejo
 Lasem
 Gosari
-Desa Kertosono
 Desa Wonocoyo
 Wonocoyo
 Desa Kertosono
 Desa Argotirto
 Pecoro
-Desa Pecoro
 Desa Besole
 Cill Mhantáin
 Contae Ros Comáin
@@ -11769,8 +11742,6 @@ Contae Lú
 Contae Lu
 Contae Chiarraí
 República de Irlanda
-Republica de Irlanda
-Poblachd na h-Eireann
 República d'Irlanda
 Orílẹ́ède Ailandi
 República da Irlanda
@@ -11779,13 +11750,12 @@ Dublin
 Contae Dhún na nGall
 Úlster
 Jezre`el Sub-district
-Jezre‘el Sub-district
 Israel
+isra'el
 Ereẕ Yisra’el
 I-xra-en
 Central
 Sentral-Israel
-Hadera Sub-district
 Elat
 Isla de Man
 Islla de Man
@@ -11812,13 +11782,15 @@ Guna
 Damán y Diu
 Goa
 Cólonia Goa
+Balasore
 acam
+Andaman & Nicobar
+Andaman et Nicobar
 Distrito de Wayanad
 Distrito de Murshidabad
 Districte de Murshidabad
 Territorio Británico del Océano Índico
 Samarra'
-Diyala Province
 Irak
 lar
 Gorgon
@@ -11826,6 +11798,7 @@ Provincia de Zanjan
 Zəncan
 Zencan
 Provincia de Semnan
+Province de Semnan
 Mazandarán
 Markazi
 Central Province
@@ -11859,30 +11832,28 @@ Cerdeña
 Pace del Mela
 Región de Calabria
 Categoria:Calabria
+Kalabría
 Calabre
 Calabria
 Calabrie
 Calabrien
 Region de Calabria
 Agrigento
-Vicence
 Verbano Cusio Ossola
 Venecia
 Véneto
 Región de Véneto
-Valmorea
 Valdidentro
 Región del Valle de Aosta
-Valle de Aosta
 Umbría
 Region de Umbria
 Región de Umbría
-Provincia del Friuli
 Trento
 Región de Trentino-Alto Adigio
 Tirol del Sud
 Bol'cano
 Región de Toscana
+Toscan-a
 Turín
 Tarento
 senaresu
@@ -11894,6 +11865,7 @@ Reggio Emilia
 Rávena
 Apulia
 Región de Apulia
+Prela
 Pisa
 Región de Piamonte
 Pescara
@@ -11915,6 +11887,7 @@ Manerba del Garda
 Lucca
 Lombardía
 Region de Lombardia
+Lombardy
 Lombardei
 Región de Lombardía
 Livorno
@@ -11959,6 +11932,7 @@ Region de Los Abruzos
 Los Abruzos
 els Abrucos
 Rímini
+Toscolano-Maderno
 Dobbiaco - Toblach
 Perca - Percha
 San Genesio Atesino - Jenesien
@@ -11970,7 +11944,6 @@ Casale Cremasco-Vidolasco
 La Valle
 Lona-Lases
 Ivano-Fracena
-Casorzo
 Cunico
 Casalnoceto
 Badalucco
@@ -11987,11 +11960,10 @@ Bedollo
 Caldes
 Montenars
 Tonadico
-Peschiera del Garda
 Cona
 Aiello del Friuli
 Pulfero
-Podenzana
+Mariano del Friuli
 Medea
 Borgonovo Val Tidone
 Cinto Euganeo
@@ -12003,7 +11975,6 @@ Cantalupo Ligure
 Carrosio
 San Sebastiano Curone
 Alzano Lombardo
-Gerosa
 Castenedolo
 Garlasco
 Casteldidone
@@ -12022,10 +11993,10 @@ Serra de' Conti
 Serra San Quirico
 Muccia
 Altidona
+Monsampolo del Tronto
 Pedaso
 Londa
 San Piero a Sieve
-Marciana Marina
 Manciano
 Corciano
 Paciano
@@ -12036,11 +12007,11 @@ Castel Gandolfo
 Castel Madama
 Labico
 Marano Equo
-Sambuci
 Collepardo
 Lucinasco
 Campo Ligure
 Arsago Seprio
+Rancio Valcuvia
 San Colombano al Lambro
 Sedriano
 Varedo
@@ -12084,6 +12055,7 @@ Paceco
 Casteldaccia
 Santa Lucia del Mela
 Cianciana
+Racalmuto
 Montedoro
 Serradifalco
 Aidone
@@ -12102,7 +12074,9 @@ Bidoni
 San Nicolo d'Arcidano
 Sorradile
 Casargo
+Brembio
 Montescudo
+Filadelfia
 Cambiano
 Druento
 Balmuccia
@@ -12127,7 +12101,6 @@ Marano Lagunare
 Torviscosa
 Moraro
 Turriaco
-Calestano
 San Secondo Parmense
 Trecasali
 Varano de' Melegari
@@ -12146,12 +12119,15 @@ Barberino Val d'Elsa
 Certaldo
 Marradi
 Vinci
+Crespina
 Preci
 Castel Viscardo
 Guardea
 Lubriano
 Monterosi
 Casperia
+Capranica Prenestina
+Mandela
 Castrocielo
 Esperia
 Guarcino
@@ -12160,20 +12136,18 @@ Casaluce
 Torrecuso
 Anacapri
 Caposele
-Casalbore
 Castelfranci
+Fontanarosa
 Lacedonia
 Atena Lucana
 Capaccio
-Palomonte
 San Mauro Cilento
 San Mauro la Bruca
 Torraca
 Cappadocia
 Pietracamela
 Serramonacesca
-Cupello
-Lucito
+Sant'Eusanio del Sangro
 Candela
 Vico del Gargano
 Leporano
@@ -12182,27 +12156,29 @@ Armento
 Castelsaraceno
 Ruvo del Monte
 Colobraro
+San Mauro Forte
 Aiello Calabro
 San Marco Argentano
+Serra d'Aiello
 Cicala
 Montepaone
 Locri
 San Procopio
+Camporeale
 Mandanici
 Cerami
 Villarosa
 San Cono
+Priolo Gargallo
 Laerru
 Escalaplano
 Gadoni
-Domus de Maria
 Ortacesus
 Quartucciu
 Castel del Giudice
 Chiauci
 Bonarcado
 Marrubiu
-Villa Verde
 Borriana
 Candelo
 Fombio
@@ -12218,7 +12194,6 @@ Lombardore
 Casanova Elvo
 Lamporo
 Entracque
-Gambasca
 La Morra
 Boscotrecase
 Villacidro
@@ -12230,8 +12205,8 @@ Carona
 Predosa
 Lasino
 San Nazario
+Crespino
 Medesano
-Sant'Elpidio a Mare
 Cecina
 Santa Luce
 Labro
@@ -12246,24 +12221,21 @@ Sante Marie
 Monasterace
 San Luca
 Sacile
-Caresana
-Camino
 Carceri
 Marciana
+Castel del Piano
 Bucciano
 Bellosguardo
 Camerota
 Salento
 Elice
-Casoli
 Fuscaldo
 San Teodoro
+Torriana
 Cesa
 Pombia
 Pescara
-Caralis
 San Leonardo
-Testico
 Carvico
 Scaldasole
 Gemona del Friuli
@@ -12271,17 +12243,17 @@ Pastrengo
 Medicina
 Pedace
 Crosa
+Vinadio
 Corteolona
 Torre de' Picenardi
 Casalmoro
 Ceresara
-Campo San Martino
 Mestrino
 San Polo d'Enza
-Castenaso
 Borgo Pace
 Montemonaco
 Moresco
+Casole d'Elsa
 Percile
 Subiaco
 Sant'Elia Fiumerapido
@@ -12297,12 +12269,12 @@ Apollosa
 Solopaca
 San Sebastiano al Vesuvio
 Acciano
+Manfredonia
 Cornuda
 Belmonte Calabro
 Saracena
 Cinquefrondi
 Rosarno
-Montalbano Elicona
 Calamonaci
 Barrafranca
 Conca Casale
@@ -12310,14 +12282,15 @@ Esino Lario
 Taceno
 Mesoraca
 San Francesco al Campo
+Gamalero
 San Bonifacio
 Sarcedo
 Cento
-Mesola
 Casola Valsenio
 Castelplanio
 Morro d'Alba
 Lapedona
+Porto Sant'Elpidio
 Sansepolcro
 Roccastrada
 Capena
@@ -12330,6 +12303,7 @@ Secinaro
 Montenerodomo
 Quadri
 Tornareccio
+Monacilioni
 San Chirico Raparo
 Castrolibero
 Paterno Calabro
@@ -12337,8 +12311,8 @@ Serra Pedace
 Cesaro
 Ficarra
 Lode
-Marcianise
 Cercino
+San Mauro Torinese
 Borgosesia
 Furci
 Predore
@@ -12358,12 +12332,10 @@ Serracapriola
 San Pietro a Maida
 Capaci
 San Teodoro
-Zelo Buon Persico
 Francica
 Villar Perosa
 Arona
 Castellar Guidobono
-Riva del Garda
 Torrebelvicino
 Sant'Elena
 Castel del Rio
@@ -12373,8 +12345,8 @@ Caserta
 Lajatico
 Terracina
 Torre del Greco
+Mirabella Eclano
 Caporciano
-Lanciano
 Noci
 Carosino
 Gordona
@@ -12388,7 +12360,6 @@ Ferrara
 Ferrare
 Ancona
 Gorad Palerma
-San Colombano Certenoli
 Moniga del Garda
 San Nicandro Garganico
 Lampedusa e Linosa
@@ -12396,7 +12367,6 @@ Civitacampomarano
 Santopadre
 Castel Frentano
 Acquedolci
-Buccinasco
 San Nicola la Strada
 Santena
 Due Carrare
@@ -12410,54 +12380,57 @@ Concamarise
 Gerre de' Caprioli
 Malosco
 Reana del Rojale
+Cerro Veronese
 Larciano
 Menarola
 Castel Morrone
 Samolaco
 Sarre
 Cavaso del Tomba
-Corte Palasio
 Fresonara
 Bedero Valcuvia
 Cunardo
 Jerago con Orago
 Dresano
-Mesero
 Madone
 Costa de' Nobili
 Alonte
 Carre
+Enego
+Berceto
 San Prospero
 Gualdo
+Coreno Ausonio
+Jovencan
 Tovo San Giacomo
 Cucciago
 Lambrugo
-Lipomo
 Vedano al Lambro
-Zelo Surrigone
 Chiuduno
 Niardo
-Felonica
 Salasco
-Sant'Angelo a Cupolo
+Succivo
 Santa Maria del Cedro
 Belcastro
 Villaperuccio
 San Paolo Cervo
 Parlasco
 Perego
+Verderio Superiore
 Montegridolfo
 Cambiasca
 Perosa Canavese
 San Carlo Canavese
 San Colombano Belmonte
 Caresanablot
+Gargallo
 Barolo
 Lequio Berria
 Montaldo Roero
 Torresina
 Cerro Tanaro
 Carrega Ligure
+Cartosio
 Villa Rendena
 Tambre
 Carinaro
@@ -12471,7 +12444,6 @@ Salerano sul Lambro
 Monte Colombo
 Gurro
 Montecrestese
-Toceno
 Lanzada
 Cerro al Lambro
 parre
@@ -12481,19 +12453,20 @@ Lombriasco
 Vialfre
 Guardabosone
 Arguello
-Carde
 Lequio Tanaro
 Jersey
 Kingston
 Jamaica
 Clarendon
 Jordania
-Sharq el Urdun
 Jórdanía
+Sharq el Urdunn
 Jordánia
 yunomaemachi
 Yunomae-machi
 Tsuda-cho
+tosagun
+Susono-machi
 susonoshi
 Sunto-gun
 Suginami
@@ -12501,21 +12474,22 @@ Sue-mura
 Sue-machi
 Sue-mura
 Sueda
-Ōyodo
 en na cun
 Ōfu
 Motosu-gun
 Monobe-mura
 Gocho-gun
+nan qu
+Kyōto-fu
 Japón
 Xapón - 日本
 Xapón
-Isobe-mura
+Chapón
 Iide-machi
 Hitonose-mura
 fan duo jun
+Haguro-machi
 Futase-machi
-fu jian qu
 Fuchū-mura
 Fuchū-mura
 Ena
@@ -12523,14 +12497,15 @@ Ebino-cho
 Chitose-mura
 Chitose-mura
 re tian qu
+Aino-machi
 Aino-mura
 Adachi
 Toride
 Sue-mura
-Fudō-mura
 Sisido
 Ofunado
 Ōfunado
+Mono-gun
 Monō-gun
 Horonobe-mura
 Furubira-cho
@@ -12547,31 +12522,27 @@ bo duo qu
 ba fan dong qu
 suemachi
 Sue-machi
-itodamachi
 funaigun
 Yosano-cho
 yosanochou
-qiu mo jun
 qiu mo cun
-zhen dao cun
 jun he qu
-esashigun
 futamigun
-Usu-gun
 yuan fan cun
 po cun
 Furudono-machi
 furudonomachi
 uenomura
+Ogose-machi
 ruo ye qu
 Hosu-gun
 Dimo’s Place
 Dimo's Place
+Ugunja Sub-Location
 Nyadorera Sub-Location
 Teso
 Mombasa District
 Kenia
-Karadolo Sub-Location
 Esaba Sub-Location
 Endo Location
 Elgon Location
@@ -12582,7 +12553,9 @@ Mount Elgon
 Kirgizistán
 Quirguicistán
 Residence de Pursat
+Province des Lacs
 Brigade des Lacs
+Province de Takeo
 Residence de Takeo
 Residence de Soai Rieng
 Province de Svay Rieng
@@ -12591,13 +12564,13 @@ Residence de Prey Veng
 Province de Prey-Veng
 Province de Mondolkiri
 Residence de Kratie
-Residence de Kandal
+Province de Kos Kong
+Province de Kandal
 Province de Kampot
 Reino de Camboya
 district de Banteay Meas
 Kiribati
 Comoras
-Insulae Comorianae
 Xunión de les Comores
 Oileáin Chomóra
 Las Comoras
@@ -12619,8 +12592,6 @@ laseon
 Esyun-men
 Corea, República de
 Louna Korea
-Corèa del Sud
-Suður-Kórea
 Corea del Sud
 Corea del Sur
 República da
@@ -12630,12 +12601,11 @@ Respublica Coreae
 Fuyo-gun
 Fusan-fu
 Fuzan-fu
-Mitsuyo-men
+Poun-gun
 Jeolla Namdo
 Tsiuen-la
 Jeolla Bugdo
 Tsiuen-la
-Chojo-gun
 deolen
 no-eunmyeon
 deogchimyeon
@@ -12645,19 +12615,18 @@ eomomyeon
 naeseomyeon
 subimyeon
 dosanmyeon
+yueomyeon
 Kuwait
 Islas Caimán
+Orílẹ́ède Etíokun Kámánì
 Insulas de Caiman
 Illas Caimán
-Gur’yev Oblast
 Kazajistán
 Casaquistán - Қазақстан
 Casacstan
-Cazacstan
 Laos
-Laosaen
 laosi
-Laosa
+Orileede Laosi
 la'os
 Laose DRV
 Laoso
@@ -12671,24 +12640,22 @@ Caza de Trablous
 Caza de Tyr
 Caza de Rachaïya
 Caza de Marjayoun
-Caza de Marjayoûn
 el país del cedro
 el pais del cedro
-Orílẹ́ède Lebanoni
+Caza de Jbayl
 Monte Libano
-Caza de Hâsbaïya
 Caza de Becharre
 Caza de Bent Jbail
 Caza de Bent Jbaïl
-Caza de Baalbeck
+Caza de Baabda
 Caza de Nabatîyé
 Caza de Koura
 Caza de la Beqaa-Ouest
 Caza de la Beqâa-Ouest
 Caza de Batroun
 Caza de Aaley
-Caza de Saida
 Santa Lucía
+S:t Lucia
 Sfanta Lucia
 Santa Llucía
 Sancte Lucia
@@ -12701,6 +12668,7 @@ Saint Lúsía
 Santa Lúcia
 San Lucia
 Santa-Lucie
+Saint Lucia Colony
 Sent-Lucio
 Noo Lucia
 Santez-Lusia
@@ -12708,19 +12676,21 @@ Laborie
 Castries
 Liechtenstein
 Isla Trapobana
-Cejlono
 Srí Lanca
 Hambantota District
 Colombo
 Central
 Central Province
+Nunavil Center
 Godapola East
 Meddepola Ihala
 Dungon Place
 Gampola East
 Gampola East
-Murapola East
+Elamulla
+Ihala Madampella East
 Panadura Division
+Wan- Ela
 Madampe Division
 Ja-Ela Division
 Ja-Ela
@@ -12734,7 +12704,6 @@ Ellegedara
 Baradelpola
 Ellalagoda
 Elalla
-Yederabo
 Tenor
 Montserrado
 Liberia
@@ -12746,8 +12715,9 @@ Distrito de Quthing
 Lesoto
 Leosóta
 Lesoso
+Orílẹ́ède Lesoto
+Losooto
 Distrito de Leribe
-reribe xian
 Distrito de Butha-Buthe
 Distrito de Berea
 Lituania
@@ -12764,10 +12734,12 @@ Ventspils
 Madonas Rajons
 Letonia
 Letónia
+Ciblas Novads
 El Marj District
 El Marj
 Om El Araneb
 El Orban
+El Mahjoub
 Tarabulus
 Libia, República Árabe
 República Árabe
@@ -12786,6 +12758,7 @@ Sale
 Province de Safi
 Province de Rabat
 Provincia de Uxda
+Province de Oujda-Angad
 Province de Nador
 Marruecos
 Reino de Marruecos
@@ -12806,8 +12779,6 @@ Province de Larache
 Province de  Laayoune
 Province de Laayoune
 El Aaiun
-El-Ksar-El-Kbir
-Cercle d'el Ksar el Kebir
 Provincia de Juribga
 Province de Khenifra
 Province de Rabat
@@ -12829,25 +12800,20 @@ El-Jadida
 Cercle d' El Jadida
 Cercle d' El Hajeb
 Casablanca
-Wilaya de Casablanca
 Region du Grand Casablanca
 Prefecture de Casablanca
 Préfecture de Casablanca
 Grand Casablanca
 Province de Benslimane
 Cercle de Benahmed
-Provincia de Alhucemas
 Es-Semara
 Province d'Es-Semara
-Guelmim-Es Smara
 Region de Guelmim-Es Smara
-Région de Taza-Al Hoceima-Taounate
 Laayoune-Boujdour-Sakia El Hamra
-Ksar El Majaz (CR)
-Ksar El Majaz (Commune Rurale)
 Ksar El Majaz
+Tamaguert
 El Mansouria (CR)
-Machraa El Ain
+Rdadna Oulad Malek (Commune Rurale)
 Elatef
 Oulad Mimoun (CR)
 Oulad Mimoun
@@ -12856,18 +12822,21 @@ Elgara
 Elgara (MU)
 Elmers (CR)
 Elmers
+Fnidq (MU)
 Errachidia (MU)
+Gheris El Ouloui
+Dar El Hamra (CR)
 Echatea El Abied
 Lamharra (CR)
 Es-Semara (MU)
 Es-Semara
+Aznaguen (CR)
 Moualine El Ghaba
 Moualine El Ghaba (CR)
 Aouguenz
-Elmarsa (MU)
 Guenfouda (CR)
 Guenfouda
-Sidi El Makhfi
+Ain Mediouna (CR)
 Ermila (CR)
 Fes-Medina
 Fes-Medina (AR)
@@ -12885,16 +12854,18 @@ Toudgha El Oulia (CR)
 Toudgha El Oulia
 Lagdadra
 Lagdadra (CR)
+Oulad Abdoune (CR)
 Oulad Abdoune
-Melg El Ouidane
 Melg El Ouidane (CR)
 Mechouar Casablanca
 Mechouar Casablanca (MU)
 Oulad Frej
+Sidi Allal El Bahrao
 Oulad Amrane (CR)
 Dir El Ksiba (CR)
 En-Nzala (CR)
 En-Nzala
+Ait Sedrate Jbel  El (CR)
 M Garto
 Elganzra (CR)
 Elganzra
@@ -12904,6 +12875,7 @@ Aloued
 Elguerdane
 Elguerdane (MU)
 Elfaid
+Elfaid (CR)
 Oum El Guerdane
 Oum El Guerdane (CR)
 El Argoub
@@ -12912,22 +12884,23 @@ Oulad El Garne
 Oulad El Garne (CR)
 Oulad Hcine
 Oulad Hcine (CR)
-Ferkla El Oulia (CR)
+Ferkla El Oulia (Commune Rurale)
+Ferkla El Oulia
 Mediouna (MU)
 Mediouna
 Ras El Ma
 Ras El Ma (CR)
+M Ssici
+Bouyablane (CR)
 Elkoudia El Beida (CR)
 Elkoudia El Beida (Commune Rurale)
 Elkoudia El Beida
 Guelmim
-Bouguedra
 Bouguedra (CR)
 Lamrasla (CR)
 tadrt
 Bouadel
 Bouadel (CR)
-Skoura Ahl El Oust
 El Kbab
 El Kbab (CR)
 Iguerferouane
@@ -12936,7 +12909,6 @@ Elbeddouza (CR)
 Elbeddouza
 Targante (CR)
 Ait El Farsi
-Oulad Gouaouch
 Elfoqra
 Elfoqra (CR)
 Elborouj
@@ -12947,11 +12919,9 @@ Oulad Fares El Halla
 Oulad Fares El Halla (CR)
 Sidi El Aidi
 Ait Aadel (CR)
-Eddachra (CR)
-Elaamria (CR)
+El Kelaa Des Sraghna (MU)
 Lounasda (CR)
 Lounasda
-Oulad Bouali Loued
 Jbiel (CR)
 Jouala (CR)
 Sour El Aaz
@@ -12960,8 +12930,10 @@ El-Jadida (MU)
 El-Jadida
 Lamharza Essahel
 Lamharza Essahel (CR)
+Laghnadra (CR)
 Bin El Ouidane (CR)
 Bin El Ouidane
+El Ksiba (MU)
 El Ksiba
 Oulad Nacer (CR)
 Oulad Nacer
@@ -12971,7 +12943,6 @@ Mibladen
 Mibladen (CR)
 Gueliz
 Gueliz (AR)
-Jorf El Melha (MU)
 Oulad Nouel (CR)
 Oulad Nouel
 Sidi El Ghandour
@@ -12980,12 +12951,16 @@ Ain El Aouda (MU)
 Ain El Aouda
 El Hajeb (MU)
 El Hajeb
+Elborj
 Oued Jdida (CR)
 Oued Jdida
+Ait El Mane (CR)
 Ait El Mane
+Elmenzel (MU)
 Elbibane (CR)
 Guercif
 Guercif (MU)
+Oulad Bourima
 Bouizazarene Ihaddad
 Bouizazarene Ihaddad (AC)
 Province de Meknes
@@ -13016,13 +12991,13 @@ Monacô
 Monacó
 Monaco
 Principâ de Monego
-Principa de Monego
 Monoecus
 Comuna de Mónaco
 Comú de Mònaco
 Comuna de Monaco
 Comu de Monaco
 Condado de Telenesti
+Condado de Teleneşti
 Raion de Taraclia
 Rejon Taraclia
 Rejon Soroca
@@ -13047,15 +13022,13 @@ San Martiño
 Isla de San Martín
 Madagascar
 Republique de Madagascar
+Madagáscar
 La Grand Île de Madagascar
-La Grand Ile de Madagascar
 Madagascar and Dependencies
 Marshall
-Orílẹ́ède Etikun Máṣali
 Macedonia, Antigua República Yugoslava
 An Mhacadóin
 República de Macedònia
-Republica da Macedonia
 República da Macedónia
 An Mhacadoin
 Macidonia
@@ -13065,28 +13038,26 @@ República da
 Macedónia
 Macedonia
 Macedonie
+Republica de Macedonia
 Respublica Macedonica
 Bogdanci
-Grad Kavadarci
+Grad Radovis
 Centar
 Opstina Cucer-Sandevo
 Jegunovce
-Opstina Debarca
 Region de Segou
-Region de Mopti
 Mali
 Malí
 Sudán Francés
-Douentza Cercle
 Diema Cercle
 Nara Cercle
 Oula Department
 Henzada District
 Birmania (Myanmar)
+Yoson dzuyl sumu
 Yugun tszuyl somon
 Central
 Central Aimak
-Nomogon Somon
 Mongolia
 Mongolí
 Mongólía
@@ -13098,7 +13069,7 @@ Provincia de Macau
 Islas Marianas del Norte
 Norður-Maríanaeyjar
 Insulas Marianna del Nord
-Illas Marianas do norte
+Boreies Marianes Nesoi
 Farallon de Pajaros
 Martinica
 Martinica
@@ -13108,15 +13079,17 @@ Mauritania
 Mauritánie
 Mauritánia
 Mauretánie
+Mauretánia
 Region d' El 'Acaba
 Montserrat
 Moŋsera
 Isla de Malta
 Ħal Tarxien
-Ta’ Xbiex
+Ta' Xbiex
 República de Mauricio
 República de Maurício
 Maŭricio
+Mauricio
 Maurício
 Maurícia
 Oileán Mhuirís
@@ -13141,6 +13114,7 @@ Estado de Tamaulipas
 Tabasco
 Quintana Roo
 Querétaro de Arteaga
+Estado de Queretaro de Arteaga
 Queretaro de Arteaga
 Puebla
 Etat de Puebla
@@ -13169,13 +13143,14 @@ Mexico D.F.
 Ciudad de Mexico
 Chiapas
 Campeche
-Estado de Campeche
 Estat de Campeche
 Zacatecas
 Estado de Zacatecas
 Sonora
 Sinaloa
 San Luis Potosí
+Etat de San Luis Potosi
+Estado de San Luis Potosi
 Estat de San Luis Potosí
 Estat de San Luis Potosi
 Ojo Caliente
@@ -13183,12 +13158,13 @@ Nayarit
 Estado de Nayarit
 Michoacán de Ocampo
 Estado de Michoacán de Ocampo
+Estado de Michoacan
 Estado de Michoacan de Ocampo
 Michoacan de Ocampo
 Nueva España
 México
+i-Mexico
 Mexico
-Mèxic
 Mesico
 República Méjico
 Mexic
@@ -13249,14 +13225,14 @@ Xonacatlan
 Ecatepec de Morelos Municipality
 Malasia
 Malasía
-Orílẹ́ède Malasia
 Interior Residency
 Central
 Putrajaya
+pu tra ca ya
 Salor
+Provincia de Zambezia
 Circunscricao de Vilanculos
 Metónia
-Circunscricao de Valadim
 Intendencia de Tete
 Provincia de Tete
 Provincia de Sofala
@@ -13266,6 +13242,7 @@ Provincia de Mocambique
 Republica Popular de Mocambique
 Mosambice
 Republica de Mocambique
+Colónia de Moçambique
 Mocambique
 Colonia de Mocambique
 Mosambic
@@ -13274,7 +13251,6 @@ República de Moçambique
 Mozambico
 República Popular de Moçambique
 Mosaimbic
-Mozambique - Mocambique
 Mongincual
 Lúrio
 Circunjcricao de Meconta
@@ -13287,20 +13263,22 @@ Distrito de Muchopes
 Provinca de Manica e Sofala
 Distrito de Vila Pery
 Provincia de Manica
+Manica
+Circunscricao de Lago
 Gorongosa District
 Intendencia de Gaza
 Provincia de Gaza
 Provincia de Cabo Delgado
 Intendencia de Cabo Delgado
 Cabo Delgado Province
-Gondola District
 Chicualacuala
+Lago District
+Tambara District
 Nicoadala District
 Mueda District
 Namuno District
 Montepuez
 Namibia
-Orílẹ́ède Namibia
 Ouegoa
 Nueva Caledonia
 Ny Caledonien
@@ -13312,10 +13290,11 @@ Nigeria
 Nígería
 Lagos
 Federal Capital Territory
-Abuja Capital Territory
 Abuja Federal Capital Territory
 Edo
+Egbedore
 Gombi
+Lagos Island
 Rimin Gado
 Epe
 Departamento de (historical) Zelaya
@@ -13465,7 +13444,6 @@ Municipio de Ciudad Antigua
 Municipio de Cinco Pinos
 Departamento de Chontales
 Municipio de Chinandega
-Departamento de Chinandega
 Municipio de Chichigalpa
 Municipio de Catarina
 Municipio de Carlos Fonseca Amador
@@ -13486,12 +13464,14 @@ Municipio de Altagracia
 Municipio de Acoyapa
 Municipio de Achuapa
 Región Autónoma Atlántico Norte
+Atlántico Norte
 Atlántico Sur
 Atlantico Sur
 Región Autónoma Atlántico Sur
 Municipio El Cua
 Holanda Meridional
 Hollande-Méridionale
+Gueney Hollanda
 Zelanda
 Nuenen
 Holanda Septentrional
@@ -13510,16 +13490,21 @@ Drente
 Amsterdam
 Flevolanda
 Vaeroy
+Rodoy
 Ytre Rendal Herad
 Noruega
+Noruecan
+Naeroy
 Meloy
 Vardo
 Nepal
+Nepalo
 Salme
-Gudel
 Sabla
 Salena
 Gumdel
+Guptesor4
+Guptesor5
 Guptesor7
 Gudel1
 Gudel2
@@ -13530,6 +13515,7 @@ Gudel6
 Gudel7
 Gudel8
 Gudel9
+Media9
 Satosar1
 Satosar2
 Satosar3
@@ -13539,6 +13525,7 @@ Satosar6
 Satosar7
 Satosar8
 Satosar9
+Gonarpura7
 Gumdel1
 Gumdel2
 Gumdel3
@@ -13548,15 +13535,13 @@ Gumdel6
 Gumdel7
 Gumdel8
 Gumdel9
-Guptesor2
-Guptesor3
-Guptesor4
+Guptesor8
 Sipadol1
 Sipadol2
 Sipadol3
 Sipadol4
-Sipadol5
 Sipadol6
+Sipadol7
 Sipadol8
 Sipadol9
 Asurena1
@@ -13568,10 +13553,12 @@ Asurena6
 Asurena7
 Asurena8
 Asurena9
+Labhra1
+Labhra2
 Labhra3
 Labhra4
-Labhra6
-Labhra8
+Labhra5
+Labhra7
 Labhra9
 Gela1
 Gela2
@@ -13628,8 +13615,6 @@ Anetan
 Anabar
 Aiwo
 Isla Niue
-Niue
-Niue Adalari
 Wellington
 Nueva Zelanda
 Cambridge
@@ -13639,7 +13624,6 @@ Omán
 Lomaen
 Barrio del Chorrillo
 Corregimiento El Chorillo
-Corregimiento Yaviza
 Corregimiento Yape
 Corregimiento Hato del Volcán
 El Volcan
@@ -13652,14 +13636,12 @@ Corregimiento Viento Frio
 Provincia de Veraguas
 Camarón
 Corregimiento Veracruz
-Corregimiento Utira
 Corregimiento Tulu
 Corregimiento Tucuti
 Corregimiento Tubuala
 Corregimiento Tres Quebradas
 Corregimiento Toza
 Corregimiento Tonosi
-Corregimiento Tole
 Corregimiento Tocumen
 Corregimiento Tobobe
 Corregimiento Toabre
@@ -13738,6 +13720,8 @@ Corregimiento Sabanita
 Corregimiento Sabana Grande
 Corregimiento Rodeo Viejo
 Corregimiento Rio Sereno
+Corregimiento Rio Grande
+Corregimiento Rio Grande
 Corregimiento Rio de Jesus
 Corregimiento Rio Abajo
 Distrito Renacimiento
@@ -13774,7 +13758,7 @@ Potrera de Cana
 Corregimiento Potrero de Caña
 Corregimiento Potrerillos Abajo
 Corregimiento Potrerillos
-Corregimiento Portobelo
+Corregimiento Portobelillo
 Corregimiento Ponuga
 Corregimiento Pocri
 Corregimiento Pocri
@@ -13830,7 +13814,6 @@ Corregimiento Oeste Numero Uno
 Corregimiento Oeste Número Dos
 Corregimiento Oeste Numero Dos
 Corregimiento Ocu
-Corregimiento Obaldia
 Corregimiento Nuevo Emperador
 Corregimiento Nuevo Chagres
 Corregimiento Nuevo Arraijan
@@ -13847,6 +13830,7 @@ Corregimiento Nombre de Dios
 Corregimiento Mununi
 Corregimiento Mununí
 Corregimiento Montijo
+Corregimiento Monte Lirio
 Corregimiento Monjaras
 Corregimiento Mogollón
 El Mogollon
@@ -13887,7 +13871,6 @@ Corregimiento Llano Grande
 Llano Largo
 Corregimiento Llano de Piedra
 Corregimiento Llano de la Cruz
-Corregimiento Llano de Catival
 Corregimiento Llano Abajo
 El Limon
 Corregimiento Limón
@@ -13901,6 +13884,7 @@ Corregimiento La Tiza
 Corregimiento Las Uvas
 Corregimiento Las Trancas
 Corregimiento Las Tablas Abajo
+Las Tablas Abajo
 Distrito Las Tablas
 Corregimiento Las Tablas
 Corregimiento Las Palmitas
@@ -13908,7 +13892,6 @@ Corregimiento Las Palmas
 Corregimiento Las Palmas
 Corregimiento Las Ollas Arriba
 Corregimiento La Soledad
-Distrito Las Minas
 Corregimiento Las Minas
 Corregimiento Las Margaritas
 Corregimiento Las Lomas
@@ -13972,6 +13955,7 @@ Provincia de Herrera
 Corregimiento Herrera
 Corregimiento Hato Juli
 Corregimiento Hato Julí
+Corregimiento Hato Jobo
 Hato de Culantro
 Corregimiento Hato Culantro
 Corregimiento Guzman
@@ -14059,6 +14043,7 @@ Corregimiento El Barrito
 Corregimiento El Arado
 Corregimiento El Alto
 Corregimiento Dos Rios
+Corregimiento Dolega
 Corregimiento David
 Provincia de Darién
 Provincia del Darien
@@ -14074,6 +14059,7 @@ El Corozal
 Provincia de Colon
 Colón
 Provincia de Colón
+Corregimiento Cocle del Norte
 Provincia de Cocle
 Provincia de Coclé
 Corregimiento Cocle
@@ -14083,9 +14069,12 @@ Corregimiento Chupa
 Corregimiento Chumical
 Corregimiento Chiru
 Provincia de Chirique
+Provincia de Chiriqui
 Provincia de Chiriquí
 Corregimiento Chiriqui
+Corregimiento Chiman
 Corregimiento Chilibre
+Chiquirí Arriba
 Corregimiento Chiguirí Arriba
 Corregimiento Chica
 Corregimiento Chepo
@@ -14109,13 +14098,13 @@ El Banco
 Corregimiento Cerro Banco
 Corregimiento Cermeno
 Corregimiento Cascabel
-Corregimiento Capira
 Corregimiento Canquintu
 Corregimiento Canazas
 Corregimiento Canaveral
 Corregimiento Canas Gordas
 Corregimiento Canas
 Corregimiento Campana
+Corregimiento Camoganti
 Corregimiento Camaron Arriba
 Corregimiento Calovebora
 Corregimiento Calovebora
@@ -14128,6 +14117,7 @@ Barrio de Calidonia
 La Exposición
 Corregimiento Calidonia
 Corregimiento Caldera
+Corregimiento Caimito
 Corregimiento Cacique
 Corregimiento Cabuya
 Corregimiento Cabuya
@@ -14151,14 +14141,13 @@ Corregimiento Bijagual
 Corregimiento Belisario Porras
 Corregimiento Bejuco
 Corregimiento Bayano
-Corregimiento Bastimentos
-Corregimiento Bastimentos
 Corregimiento Barrio Balboa
 Corregimiento Barrio Colon
 Corregimiento Barnizal
 Corregimiento Bajos de Guera
 Corregimiento Bajo Corral
 Corregimiento Bajo Boquete
+Corregimiento Bahia Honda
 Corregimiento Bagala
 Corregimiento Atalaya
 Corregimiento Aserrio de Gariche
@@ -14180,9 +14169,8 @@ Corregimiento Ailigandi
 Corregimiento Aguadulce
 Corregimiento Agua de Salud
 Corregimiento Achiote
-Comarca Embera-Wounaan
-Comarca Emberá-Wounaan
 Provincia de Zarumilla
+Provincia de Yungay
 Provincia de Ucayali
 Region de Ucayali
 Departamento de Ucayali
@@ -14289,7 +14277,6 @@ Provincia de Huamalíes
 Provincia de Huamachuco
 Provincia de Huallaga
 Provincia de Hualgayoc
-Gualcayog
 Provincia de Ferreñafe
 Provincia de Ferrenafe
 Ferreñafe
@@ -14320,7 +14307,6 @@ Provincia de Cajabamba
 Provincia de Bongará
 Provincia de Bongara
 Cajamarquilla
-Provincia de Bolivar
 Provincia de Bolívar
 Provincia de Bagua
 Provincia de Ayabaca
@@ -14358,7 +14344,9 @@ Provincia de Sandia
 Racuay
 Provincia de Recuay
 Recuay
+Provincia de Quispicanchis
 Provincia de Puno
+Puno Jach’a Suyu
 Departamento de Puno
 Region de Puno
 Departamento Puno
@@ -14425,10 +14413,10 @@ Región de Ica
 Departamento de Ica
 Provincia de Huarochiri
 Provincia de Huarochirí
+Huarochirí
 Provincia de Huaral
 Provincia de Huanta
 Provincia de Huancayo
-Huancavelica
 Provincia de Huancavelica
 Región de Huancavelica
 Huancavelica
@@ -14445,6 +14433,7 @@ Provincia de General Sánchez Cerro
 Provincia de Espinar
 Espinar
 Daniel Carrión
+Daniel Carrion
 Provincia de Daniel Carrion
 Provincia de Daniel Carrión
 Provincia de Cusco
@@ -14483,9 +14472,11 @@ Provincia de Canchis
 Provincia de Canas
 Provincia de Camaná
 Provincia de Camana
+Provincia Constitucional del Callao
 Región de Callao
 Provincia de Calca
 Provincia de Cajatambo
+Provincia de Bolognesi
 Provincia de Asangaro
 Provincia de Azangaro
 Provincia de Asángaro
@@ -14493,6 +14484,7 @@ Provincia de Azángaro
 Provincia de Aimaraes
 Provincia de Aymaraes
 Departamento Ayacucho
+Region de Ayacucho
 Departamento de Ayacucho
 Región de Ayacucho
 Provincia de Arequipa
@@ -14510,6 +14502,7 @@ Provincia de Angaraes
 Provincia de Andahuaylas
 Provincia de Ambo
 Provincia de Acomayo
+Acomayo
 Provincia de Acobamba
 Provincia de Abancay
 Provincia de Chupaca
@@ -14534,25 +14527,24 @@ Esa'ala District
 Enga Province
 Central
 Central Province
+Zamboanga del Norte
 Zamboanga
-Villaviciosa
 Victorias
-Varuela
 Valladolid
 Valenzuela
 Valencia
 Valencia
 Valencia
 Tolosa
-Talacogon
+Tarragona
 Surigoa del Sur
 Surigao del Sur
 Surigao del Norte
 Subic
 Southern Leyte
-Cotabato del Sur
 Sergio Osmeña Sr
 San Teodoro
+Santa Rosa
 Santa Rosa
 Santa Praxedes
 Santa Marcela
@@ -14560,14 +14552,12 @@ Santa Lucia
 Santa Josefa
 Santa Ignacia
 Santa Elena
-San Roque
 San Ricardo
 San Pascual
 San Pascual
 San Nicolas
 San Nicolas
 San Nicolas
-San Narciso
 San Narciso
 San Miguel
 San Miguel
@@ -14582,7 +14572,6 @@ San Manuel
 San Leonardo
 San Jose del Monte
 San Jose de Buan
-San Jose
 San Jose
 San Jose
 San Jacinto
@@ -14608,6 +14597,7 @@ Puerto Princesa
 Puerto Princesa City
 Puerto Galera
 President Quirino
+Municipality of President Manuel Acuña Roxas
 Municipality of President Manuel Acuna Roxas
 President Manuel Acuña Roxas
 President Manuel Acuna Roxas
@@ -14618,8 +14608,8 @@ Plaridel
 Plaridel
 Placer
 Placer
-Piñan
 Filipinas
+Republica de Filipinas
 Penablanca
 Santa Clara
 Paranaque
@@ -14629,7 +14619,8 @@ Paracale
 Padre Garcia
 Padre Burgos
 Padre Burgos
-Oroquieta City
+Nueva Vizcaya
+Province of Nueva Vizcaya
 Nueva Valencia
 Nueva Era
 Samar del Norte
@@ -14646,6 +14637,7 @@ Misamis Oriental Province
 Misamis Occidental
 Misamis Occidental Province
 Oriental Mindoro
+Province of Mindoro Occidental
 Occidental Mindoro
 Mindoro Occidental
 Mexico
@@ -14661,6 +14653,7 @@ Los Banos
 Lopez Jaena
 Looc
 Looc
+Loboc
 Llorente
 Licuan
 Licab
@@ -14674,7 +14667,6 @@ Lal-lo
 La Libertad
 La Libertad
 Lacub
-La Carlota
 Labrador
 Labo
 Loñgos
@@ -14702,7 +14694,6 @@ Esperanza
 Escalante
 Escalante City
 El Salvador
-Municipality of El Nido
 El Nido
 Echague
 Samar Oriental
@@ -14714,6 +14705,7 @@ Duenas
 Don Carlos
 Doña Remedios Trinidad
 Davao del Sur
+Dasmariñas
 Culasi
 Cuenca
 Cuartero
@@ -14729,7 +14721,6 @@ Concepcion
 Cebú
 Casiguran
 Casiguran
-Carrascal
 Carmen
 Carmen
 Carmen
@@ -14744,13 +14735,9 @@ Candelaria
 Camarines Sur
 Camarines Norte
 San Miguel
-Calape
 Cajidiocan
 Cabarroquis
 Cabarroguis
-Burgos
-Burgos
-Burgos
 Burgos
 Burgos
 Bulacan
@@ -14762,14 +14749,16 @@ Barotac Nuevo
 Barcelona
 Ballesteros
 Baleno
-Bacuag
+Bacong
 Bacon
 Villa de Bacolor
+Baco
 Bacarra
 Asuncion
 Antequera
 Aloran
 Allacapan
+Alicia
 Alegria
 Alegria
 Alcoy
@@ -14787,6 +14776,7 @@ Municipality of El Salvador
 Jose Abad Santos
 Bonifacio
 Calabarzon
+Islamabad Capital Territory
 Pakistán
 Pacastan
 Pacistan
@@ -14796,10 +14786,9 @@ Pacistania
 Lasbela District
 Las Bella
 Las-Eela
-Hunza-Nagar District
+Jacobabad District
 Polonia
-polenda
-polanda
+Poloña
 poland
 Pólland
 Lublin
@@ -14822,33 +14811,29 @@ Provincia de Opole
 Pomerania
 Silesia
 Gran Polonia
+Pomerania Occidental
 Cuyavia y Pomerania
 Voivodato de Cuyavia y Pomerania
-Gmina Dobre Miasto
 Gorad Torun'
 Lueblin
 Elblag
 Grabica
 Dobron
-Gardeja
-Babice
 Breslavia
 Gorad Vroclau
 Leoncin
+Lancut
 Jarocin
 Reda
-Terespol
 Bartosice
 Dobre
 Jasienica
 Dobre
 Chodel
 Jablon
-Elk
 Elblag
 El'blong
 Gorad Racibor
-Plosnica
 Lubien
 Lososina Dolna
 Terespol
@@ -14868,6 +14853,7 @@ Arroyo
 Barceloneta
 Barranquitas
 Barricada Ferran
+Bayamon Municipio
 Cabo Rojo Municipio
 Caguas Municipio
 Camuy Municipio
@@ -14882,13 +14868,13 @@ Cidra Municipio
 Coamo Municipio
 Municipio de Coamo
 Corozal Municipio
-Culebra Municipio
 Dorado Municipio
 Fajardo Municipio
 Florida Municipio
 Guanica Municipio
 Guanica
 Guayama Municipio
+Guayanilla Municipio
 Guaynabo Municipio
 Gurabo Municipio
 Hormigueros Municipio
@@ -14928,8 +14914,10 @@ Quebradillas
 Sabana Grande Municipio
 Salinas Municipio
 San German Municipio
+San Sebastian Municipio
 Santa Isabel Municipio
 Toa Alta Municipio
+Toa Baja Municipio
 Municipio de Trujillo Alto
 Utuado Municipio
 Municipio de Utuado
@@ -14937,6 +14925,8 @@ Vega Alta Municipio
 Vega Baja Municipio
 Municipio de Vega Baja
 Municipio de Vieques
+Villalba Municipio
+Yabucoa Municipio
 Yauco Municipio
 Vieques
 Vieques Municipio
@@ -14950,6 +14940,7 @@ Celada Barrio
 Centro Barrio
 Cercadillo Barrio
 Cerrillos Barrio
+Cerro Gordo Barrio
 Cerrote Barrio
 Charcas Barrio
 Chupacallos Barrio
@@ -14987,6 +14978,8 @@ Coto Sur Barrio
 Cruces Barrio
 Cruces Barrio
 Cruz Barrio
+Cuartel Cuarto Subbarrio
+Cuartel Primero Subbarrio
 Cuartel Segundo Subbarrio
 Cuartel Tercero Subbarrio
 Cuarto Barrio
@@ -15003,7 +14996,6 @@ Culebrinas Barrio
 Cupey Barrio
 Cuyon Barrio
 Cuyon Barrio
-Dajaos Barrio
 Descalabrado Barrio
 Don Alonso Barrio
 Dona Elena Barrio
@@ -15012,11 +15004,11 @@ Dos Bocas Barrio
 Dos Bocas Barrio
 Duey Alto Barrio
 Duey Bajo Barrio
-Duey Barrio
 Duque Barrio
 Egozcue Barrio
 El Cinco Barrio
 Adjuntas Barrio-Pueblo
+Aguacate Barrio
 Aguacate Barrio
 Aguada Barrio-Pueblo
 Aguadilla Barrio-Pueblo
@@ -15101,6 +15093,7 @@ Caguabo Barrio
 Caguana Barrio
 Caguas Barrio-Pueblo
 Caimital Bajo Barrio
+Caimito Barrio
 Cain Bajo Barrio
 Calabazas Barrio
 Calabazas Barrio
@@ -15109,6 +15102,7 @@ Callejones Barrio
 Camaceyes Barrio
 Camarones Barrio
 Camino Nuevo Barrio
+Campo Alegre Subbarrio
 Camuy Arriba Barrio
 Camuy Barrio-Pueblo
 Canabon Barrio
@@ -15122,6 +15116,7 @@ Candelero Abajo Barrio
 Candelero Arriba Barrio
 Cangrejo Arriba Barrio
 Caniaco Barrio
+Cano Barrio
 Canovanas Barrio-Pueblo
 Canovanillas Barrio
 Caonillas Abajo Barrio
@@ -15160,6 +15155,7 @@ Cedro Barrio
 Ceiba Alta Barrio
 El Rio Barrio
 El Vedado Subbarrio
+Emajagua Barrio
 Emajagual Barrio
 Encarnacion Barrio
 Eneas Barrio
@@ -15202,7 +15198,6 @@ Guaraguao Abajo Barrio
 Guaraguao Arriba Barrio
 Guayabo Dulce Barrio
 Guayabos Barrio
-Guayacan Barrio
 Guayama Barrio-Pueblo
 Guayanilla Barrio-Pueblo
 Guaynabo Barrio-Pueblo
@@ -15224,7 +15219,6 @@ Hato Nuevo Barrio
 Hato Puerco Abajo Barrio
 Hato Puerco Arriba Barrio
 Hato Puerco Barrio
-Hato Rey Central Barrio
 Hato Tejas Barrio
 Hato Viejo Barrio
 Hato Viejo Barrio
@@ -15244,7 +15238,6 @@ Humacao Barrio-Pueblo
 Indiera Alta Barrio
 Indiera Fria Barrio
 Indios Barrio
-Institucion Subbarrio
 Isabel II Barrio-Pueblo
 Isabela Barrio-Pueblo
 Isla de Mona e Islote Monito Barrio
@@ -15255,7 +15248,6 @@ Jacana Barrio
 Jacanas Barrio
 Jagual Barrio
 Jagual Barrio
-Jaguas Barrio
 Jaguas Barrio
 Jaguas Barrio
 Jaguas Barrio
@@ -15280,6 +15272,7 @@ Juncos Barrio-Pueblo
 La Torre Barrio
 Lagunas Barrio
 Lajas Arriba Barrio
+Lajas Barrio
 Lajas Barrio-Pueblo
 Lapa Barrio
 Lapa Barrio
@@ -15318,7 +15311,6 @@ Machuelo Abajo Barrio
 Machuelo Arriba Barrio
 Magas Barrio
 Magos Barrio
-Maguayo Barrio
 Magueyes Barrio
 Magueyes Barrio
 Magueyes Urbano Barrio
@@ -15328,7 +15320,7 @@ Malezas Barrio
 Mameyal Barrio
 Mameyes Abajo Barrio
 Mameyes Arriba Barrio
-Mameyes II Barrio
+Mameyes I Barrio
 Mana Barrio
 Maragueez Barrio
 Maravilla Este Barrio
@@ -15386,7 +15378,6 @@ Mulita Barrio
 Munoz Rivera Barrio
 Naguabo Barrio-Pueblo
 Naranjito Barrio-Pueblo
-Naranjo Barrio
 Navarro Barrio
 Negros Barrio
 Nuevo Barrio
@@ -15396,11 +15387,9 @@ Obrero Subbarrio
 Oriente Barrio
 Orocovis Barrio-Pueblo
 Padilla Barrio
-Pajaros Barrio
 Palmarejo Barrio
 Palmarejo Barrio
 Palmarejo Barrio
-Palo Hincado Barrio
 Palo Seco Barrio
 Palo Seco Barrio
 Palomas Barrio
@@ -15425,12 +15414,10 @@ Piedras Blancas Barrio
 Piletas Barrio
 Pinales Barrio
 Pinas Barrio
-Pinas Barrio
 Planas Barrio
 Plata Barrio
 Plata Barrio
 Plata Barrio
-Playa Barrio
 Poblado Sitios Subbarrio
 Pollos Barrio
 Primero Barrio
@@ -15504,19 +15491,21 @@ Quebrada Grande Barrio
 Quebrada Grande Barrio
 Quebrada Grande Barrio
 Quebrada Honda Barrio
+Quebrada Honda Barrio
 Quebrada Infierno Barrio
 Quebrada Larga Barrio
 Quebrada Limon Barrio
 Quebrada Negrito Barrio
 Quebrada Seca Barrio
 Quebrada Vueltas Barrio
+Quebrada Yeguas Barrio
 Quebradas Barrio
 Quebradas Barrio
 Quebradillas Barrio
 Quebradillas Barrio-Pueblo
+Rabanal Barrio
 Rayo Barrio
 Real Barrio
-Reparada Subbarrio
 Rincon Barrio
 Rincon Barrio
 Rincon Barrio
@@ -15526,7 +15515,7 @@ Rio Abajo Barrio
 Rio Abajo Barrio
 Rio Abajo Barrio
 Rio Abajo Barrio
-Rio Arriba Barrio
+Rio Abajo Barrio
 Rio Arriba Barrio
 Rio Arriba Barrio
 Rio Arriba Barrio
@@ -15540,7 +15529,7 @@ Rio Canas Arriba Barrio
 Rio Grande Barrio-Pueblo
 Rio Jueyes Barrio
 Rio Lajas Barrio
-Rio Lajas Barrio
+Rio Piedras Antiguo Subbarrio
 Robles Barrio
 Robles Barrio
 Rocha Barrio
@@ -15549,13 +15538,9 @@ Rosario Alto Barrio
 Rosario Bajo Barrio
 Rosario Barrio
 Rosario Penon Barrio
-Rosario Subbarrio
 Rubias Barrio
 Rucio Barrio
-Rufina Barrio
 Sabalos Barrio
-Sabana Abajo Barrio
-Sabana Barrio
 Sabana Barrio
 Sabana Barrio
 Sabana Eneas Barrio
@@ -15566,6 +15551,7 @@ Sabana Llana Norte Barrio
 Sabana Seca Barrio
 Sabana Yeguas Barrio
 Sabanetas Barrio
+Sabanetas Barrio
 Saco Barrio
 Sagrado Corazon Subbarrio
 Saliente Barrio
@@ -15574,12 +15560,11 @@ Salto Abajo Barrio
 Salto Arriba Barrio
 Salto Barrio
 Saltos Barrio
-San Anton Barrio
+Salud Subbarrio
 San Anton Barrio
 San Antonio Barrio
 San Antonio Barrio
 San Cristobal Subbarrio
-San Francisco Subbarrio
 San Francisco Subbarrio
 San German Barrio-Pueblo
 San Isidro Barrio
@@ -15614,9 +15599,11 @@ Talante Barrio
 Tallaboa Poniente Barrio
 Tallaboa Saliente Barrio
 Tejas Barrio
+Tejas Barrio
 Tercero Barrio
 Tierras Nuevas Poniente Barrio
 Tierras Nuevas Saliente Barrio
+Tijeras Barrio
 Toa Alta Barrio-Pueblo
 Toa Baja Barrio-Pueblo
 Torre Barrio
@@ -15644,14 +15631,15 @@ Vegas Barrio
 Venezuela Subbarrio
 Victoria Barrio
 Villa Palmeras Subbarrio
-Villalba Abajo Barrio
 Villalba Arriba Barrio
 Villalba Barrio-Pueblo
+Vivi Arriba Barrio
 Voladoras Barrio
 Yabucoa Barrio-Pueblo
 Yauco Barrio-Pueblo
 Yaurel Barrio
-Yayales Barrio
+Zamas Barrio
+Zarzal Barrio
 Certenejas Barrio
 Franja de Gaza
 Bande de Gaza
@@ -15659,6 +15647,7 @@ gaza de qu
 Territorios Palestinos
 Na Críocha Pailistíneacha
 Territorios palestinos
+Otoritas Palestina
 Tiriadoù Palestina
 Territórios palestinos
 Setúbal
@@ -15676,6 +15665,7 @@ Faro
 Castelo Branco
 Beja
 Provincia do Alto Alentejo
+Provincia do Algarve
 Madeira
 Viseu
 Vila Real
@@ -15692,10 +15682,12 @@ Acores
 Lisboa
 Porto
 Sao Miguel (Azoren)
+Tolosa
 Reguengo
 Vale do Peso
 Vale de Acor
 Chancelaria
+Cabeco de Vide
 Estarreja
 Murtosa
 Vale de Cambra
@@ -15703,7 +15695,6 @@ Barrancos
 Barcelos
 Celorico de Basto
 Esposende
-Vila Verde
 Mirandela
 Torre de Moncorvo
 Vila Flor
@@ -15722,7 +15713,6 @@ Torres Vedras
 Vila Franca de Xira
 Marco de Canaveses
 Paredes
-Alcanena
 Constancia
 Entroncamento
 Salvaterra de Magos
@@ -15730,6 +15720,7 @@ Sardoal
 Alcacer do Sal
 Sesimbra
 Melgaco
+Moncao
 Valenca
 Valpacos
 Vila Real
@@ -15753,6 +15744,7 @@ Fermedo
 Cacia
 Escapaes
 Espargo
+Lobao
 Casal Comba
 Luso
 Murtosa
@@ -15770,13 +15762,11 @@ Cabeca Gorda
 Beja (Salvador)
 Entradas
 Colos
-Bicos
 Serpa (Salvador)
 Caldelas
 Paredes Secas
 Barcelos
 Carapecos
-Durraes
 Fonte Coberta
 Fragoso
 Grimancelos
@@ -15797,7 +15787,6 @@ Priscos
 Sobreposta
 Vilaca
 Fradelos
-Bucos
 Pedraca
 Vila Nune
 Corgo
@@ -15805,6 +15794,7 @@ Fervenca
 Esposende
 Cepaes
 Medelo
+Queimadela
 Aroes (Santa Cristina)
 Arosa
 Barco
@@ -15815,7 +15805,6 @@ Gonca
 Lordelo
 Mascotelos
 Pencelo
-Covelas
 Esperanca
 Galegos
 Ciboes
@@ -15834,7 +15823,6 @@ Seide (Sao Miguel)
 Barros
 Codeceda
 Marrancos
-Oriz (Sao Miguel)
 Prado (Sao Miguel)
 Eucisia
 Ferradosa
@@ -15849,6 +15837,7 @@ Chacim
 Edroso
 Espadanedo
 Lombo
+Murcos
 Peredo
 Palacoulo
 Paradela
@@ -15869,7 +15858,6 @@ Celas
 Curopos
 Edral
 Edrosa
-Caria
 Benquerencas
 Lardosa
 Barco
@@ -15877,27 +15865,24 @@ Peso
 Alcongosta
 Barroca
 Escarigo
-Medelim
 Sobral
 Vilar Barroco
 Benquerenca
 Penamacor
-Cabecudo
 Nesperal
 Cepos
 Febres
 Castelo Viegas
 Lamarosa
 Santa Clara
+Furadouro
 Vila Seca
 Buarcos
-Bobadela
+Lagares
 Cabril
 Paradela
 Penela (Sao Miguel)
-Alfarelos
 Degracias
-Samuel
 Espariz
 Lavegadas
 Poiares (Santo Andre)
@@ -15933,11 +15918,12 @@ Jarmelo (Sao Miguel)
 Vila Fernando
 Vila Garcia
 Povoa D' El-Rei
+Baracal
 Lomba
+Pena Lobo
 Sandomil
 Santa Comba
 Carnicaes
-Torres
 Vila Garcia
 Vilares
 Santa Comba
@@ -15958,6 +15944,7 @@ Salir de Matos
 Vila Ca
 Juncal
 Serro Ventoso
+Meca
 Alenquer (Santo Estevao)
 Alenquer (Triana)
 Vila Verde Dos Francos
@@ -15974,7 +15961,7 @@ Merces
 Santa Engracia
 Sao Francisco Xavier
 Apelacao
-Reguengo Grande
+Bucelas
 Encarnacao
 Santo Isidoro
 Barcarena
@@ -15998,7 +15985,6 @@ Lagares
 Lordelo
 Margaride (Santa Eulalia)
 Vila Fria
-Vila Verde
 Lomba
 Medas
 Cernadelo
@@ -16014,8 +16000,8 @@ Modelos
 Lordelo
 Sobrosa
 Cabeca Santa
+Capela
 Casteloes
-Galegos
 Lagares
 Marecos
 Paredes
@@ -16027,9 +16013,10 @@ Canidelo
 Canidelo
 Pedroso
 Valadares
+Covelas
 Guidoes
 Barrosa
-Envendos
+Constancia
 Alcobertas
 Arrouquelas
 Arruda Dos Pisoes
@@ -16047,12 +16034,12 @@ Melides
 Pegoes
 Cercal
 Santo Andre
-Arrentela
 Sesimbra (Santiago)
 Lapela
 Lara
 Longos Vales
 Lordelo
+Moncao
 Valadares
 Rubiaes
 Vascoes
@@ -16098,7 +16085,6 @@ Paradela
 Redondelo
 Santa Leocadia
 Vilela Seca
-Cabril
 Ferral
 Fervidelas
 Padornelos
@@ -16108,6 +16094,7 @@ Vilares
 Fontelas
 Lobrigos (Sao Miguel)
 Curros
+Lebucao
 Valpacos
 Vilarandelo
 Lamares
@@ -16115,7 +16102,6 @@ Lordelo
 Vila Real (Sao Pedro)
 Torgueda
 Cimbres
-Queimadela
 Vacalar
 Vila Seca
 Currelos
@@ -16137,6 +16123,7 @@ Esmolfe
 Penedono
 Barro
 Carquere
+Vilarouco
 Pindelo Dos Milagres
 Valadares
 Carregal
@@ -16156,8 +16143,6 @@ Santos Evos
 Fatauncos
 Funchal (Santa Maria Maior)
 Funchal (Sao Pedro)
-Canical
-Campanario
 Canico
 Monte de Fralaes
 Vilar de Perdizes (Sao Miguel)
@@ -16166,12 +16151,10 @@ Vila Boa de Quires
 Vila Cova de Carros
 Santiago de Subarrifana
 Vale de Santiago
-Vila Nova de Cacela
 Casal de Cambra
 Santo Isidro de Pegoes
 Casal de Cinza
 Vila Franca da Serra
-Torres Vedras (Santa Maria do Castelo e Sao Miguel)
 Santo Andre de Vagos
 Vila Franca do Rosario
 Vila Cha de Braciosa
@@ -16194,6 +16177,7 @@ Canas de Santa Maria
 Lajeosa do Dao
 Vila Cha de Sa
 Vale de Prados
+Chas de Tavares
 Vale de Mos
 Evora de Alcobaca
 Santa Comba de Vilarica
@@ -16204,12 +16188,11 @@ Alfarela de Jales
 Casal de Ermio
 Torre de Vilela
 Barril de Alva
-Sao Miguel de Poiares
 Sao Miguel de Vila Boa
-Sao Vicente de Lafoes
 Quintela de Azurara
 Vilares de Vilarica
 Santana de Cambas
+Castro de Avelas
 Santa Maria de Sardoura
 Torre de Moncorvo
 Vale de Frades
@@ -16230,7 +16213,7 @@ Veiga de Lila
 Vilar de Mouros
 Vale de Vargo
 Vila Real de Santo Antonio
-Santa Barbara de Padroes
+Paredes de Coura
 Escalos de Cima
 Santa Clara de Louredo
 Torre de Vale de Todos
@@ -16244,6 +16227,7 @@ Reguengos de Monsaraz
 Sao Miguel de Machede
 Santa Maria de Belem
 Vale de Estrela
+Cabanas de Viriato
 Vilar Seco de Lomba
 Carrazedo de Montenegro
 Quintela de Lampacas
@@ -16257,14 +16241,15 @@ Paredes de Viadores
 Corticadas de Lavre
 Santa Maria de Lamas
 Casal de Loivos
+Lomba de Sao Pedro
 Santo Antonio de Monforte
 Camara de Lobos
 Mire de Tibaes
 Santa Cruz da Graciosa
 Travanca de Lagos
+Vila de Punhe
 Santiago de Riba-Ul
 Vale de Cavalos
-Vilela do Tamega
 Bornes de Aguiar
 Grijo de Parada
 Vilar de Peregrinos
@@ -16273,7 +16258,6 @@ Rio de Loba
 Lapa do Lobo
 Lajeosa do Mondego
 Vila Franca do Campo (Sao Miguel)
-Viana do Alentejo
 Palau
 Departamento de San Pedro
 Presidente Hayes
@@ -16281,7 +16265,6 @@ Departamento de Presidente Hayes
 Paraguay
 República del Paraguay
 Orílẹ́ède Paraguye
-Orileede Paraguye
 Republica del Paraguay
 Paraguee
 El Paraguay
@@ -16303,11 +16286,13 @@ Septimo Departamento
 Encarnacion
 Séptimo Departamento
 Encarnación
+Departamento de Ytapua
 Departamento de Encarnación
 Departamento de Itapúa
 Departamento de Ytapúa
 Departamento del Guaira
 Departamento del Guairá
+Cuarto Departamento
 Departamento de la Cordillera
 Departamento de Concepción
 Departamento de Concepcion
@@ -16316,10 +16301,10 @@ Concepción
 Primer Departamento
 Departamento (historical) Chaco
 Central
-Undecimo Departamento
 Departamento Central
 Departamento de Villeta
 Departamento de Canendiyú
+Departamento de Canindeyu
 Departamento de Canindeyú
 Departamento de Canendiyu
 Decimocuarto Departamento
@@ -16327,7 +16312,6 @@ Departamento de Caazapa
 Departamento de Caazapá
 Departamento de Caaguazú
 Departamento de Caaguazu
-Departamento de Yhú
 Pedro Juan Caballero
 Decimotercero Departamento
 Departamento del Amambai
@@ -16336,6 +16320,7 @@ Departamento del Alto Parana
 Departamento del Alto Paraná
 Decimo Departamento
 Decimoseptimo Departamento
+Decimoséptimo Departamento
 Departamento de Alto Paraguay
 Asuncion
 Departamento de (historical) Nueva Asuncion
@@ -16346,7 +16331,6 @@ Departamento de Boqueron
 Decimosexto Departamento
 Qatar
 Reunión
-Reuenion
 Rejunion
 Reunionas
 Illa de la Reunió
@@ -16365,6 +16349,7 @@ Comuna Zavideni
 Comuna Zauan
 Comuna Zarnesti
 Comuna Zarnesti
+Comuna Zapodeni
 Comuna Zanesti
 Comuna Zalnoc
 Comuna Zagra
@@ -16376,7 +16361,6 @@ Comuna Vulcan-Pandele
 Comuna Vulcana-Pandele
 Comuna Vulcan-Bai
 Comuna Vulcan
-Vrancea
 Comuna Vlasinesti
 Comuna Vlad Tepes
 Comuna Vlad Tepes
@@ -16390,6 +16374,7 @@ Comuna Vladeni
 Comuna Vladeni
 Comuna Vladeni
 Comuna Vladeni
+Comuna Chioara
 Comuna Vladeni
 Comuna Vizantea
 Comuna Vartoapele
@@ -16403,6 +16388,7 @@ Comuna Vidra
 Comuna Vidra
 Comuna Videle
 Comuna Victoria
+Comuna Vetca
 Comuna Vernesti
 Comuna Velesti
 Comuna Vela
@@ -16415,6 +16401,7 @@ Comuna Varsand
 Comuna Varias
 Comuna Vard
 Comuna Valisoara
+Comuna Valisoara
 Comuna Valeni
 Comuna Valeni
 Comuna Valeni
@@ -16423,21 +16410,19 @@ Comuna Valea Seaca
 Comuna Valea Seaca
 Comuna Valea Seaca
 Comuna Valea Seaca
-Comuna Valea Salciei
 Comuna Valeapai
 Comuna Valea Larga
 Comuna Valcau
 Comuna Valari
 Comuna Vaideeni
+Comuna Vadeni
 Comuna Vad
 Comuna Vacaresti
 Comuna Vacareni
 Comuna Usurel
-Comuna Urmenis
 Comuna Urluesti
 Comuna Urlueni
-Comuna Urechesti
-Comuna Urdari
+Comuna Urleasca
 Comuna Unteni
 Comuna Şocariciu
 Comuna Socariciu
@@ -16451,11 +16436,9 @@ General Poetas Comuna
 Comuna Ulmeni
 Comuna Ulmeni
 Comuna Ulmeni
-Comuna Ulmeni
 Comuna Ulies
 Comuna Uesti
 Comuna Udresti
-Comuna Udesti
 Comuna Tuzla
 Comuna Tusnad Bai
 Comuna Tureni
@@ -16484,13 +16467,12 @@ Comuna Titesti
 Comuna Titesti
 Comuna Targusor
 Comuna Targu Logresti
-Comuna Targu Carbunesti
 Comuna Tintesti
-Comuna Tantareni
+Comuna Tintea
 Comuna Tinosu
 Comuna Tinca
 Comuna Timisesti
-Comuna Tamboesti
+Comuna Tileagd
 Comuna Tiganesti
 Comuna Tifesti
 Comuna Ticusu Vechi
@@ -16502,9 +16484,10 @@ Comuna Tabanesti
 Comuna Tia Mare
 Comuna Tesila
 Comuna Tescani
+Comuna Terebesti
 Comuna Tepu
 Comuna Tepesti
-Comuna Teliuc
+Comuna Teliu
 Comuna Telesti
 Comuna Telejna
 Comuna Telega
@@ -16512,6 +16495,7 @@ Comuna Tela
 Comuna Tecuci
 Comuna Teascu
 Comuna Teaca
+Comuna Tavadaresti
 Comuna Tasad
 Comuna Tartasesti
 Comuna Tareni
@@ -16532,9 +16516,9 @@ Comuna Suseni
 Comuna Surduc
 Comuna Surdila-Greci
 Comuna Surani
+Comuna Sura Mare
 Comuna Suplacu de Barcau
 Comuna Suici
-Comuna Sucutard
 Comuna Suciu de Sus
 Comuna Stroesti
 Comuna Stroesti
@@ -16549,7 +16533,6 @@ Comuna Eschibaba
 Comuna Spalnaca
 Comuna Sotrile
 Comuna Sosdea
-Comuna Sorostin
 Comuna Soporu de Campie
 Comuna Sona
 Comuna Somes-Uileac
@@ -16558,6 +16541,8 @@ Comuna Somes-Guraslau
 Comuna Solesti
 Comuna Soldanu
 Comuna Buruene
+Comuna Socrujeni
+Comuna Socond
 Comuna Soars
 Comuna Smeeni
 Comuna Slon
@@ -16572,6 +16557,8 @@ Comuna Santimbru
 Comuna Santana de Mures
 Comuna Santana
 Comuna Santamaria-Orlea
+Comuna Sanpetru de Campie
+Comuna Sanmihaiu de Campie
 Comuna Sanmiclaus
 Comuna Sanmartinu de Campie
 Comuna Sanmartin
@@ -16593,7 +16580,7 @@ Comuna Sihlea
 Comuna Sag
 Comuna Sieu
 Comuna Sicula
-Comuna Sibot
+Comuna Sic
 Comuna Sibiel
 Comuna Sibiciu de Sus
 Comuna Seulia de Mures
@@ -16606,8 +16593,8 @@ Comuna Semlac
 Comuna Semlacu
 Comuna Şemlacu
 Comuna Semlac
-Comuna Selimbar
 Comuna Selaru
+Comuna Seica Mare
 Comuna Segarcea Vale
 Comuna Segarcea
 Comuna Secusigiu
@@ -16633,6 +16620,7 @@ Comuna Saulesti
 Comuna Saucesti
 Comuna Sauca
 Comuna Sascut
+Comuna Sasca
 Comuna Sarosu pe Tarnave
 Comuna Saros
 Comuna Sarinasuf
@@ -16658,6 +16646,8 @@ Comuna Salcioara
 Comuna Salcioara
 Comuna Salcami
 Comuna Salcia Tudor
+Comuna Salcia
+Comuna Salcia
 Comuna Salcia
 Comuna Salcia
 Comuna Salcea
@@ -16688,6 +16678,7 @@ Comuna Sacadate
 Comuna Sacadat
 Comuna Sabed
 Comuna Sabareni
+Comuna Rusanestii de Jos
 Comuna Rusanesti
 Comuna Rus
 Comuna Runcu
@@ -16704,18 +16695,19 @@ Comuna Rosia-Jiu
 Comuna Rosia de Secas
 Comuna Rosia
 Comuna Rona de Sus
+Comuna Rona de Jos
 Comuna Roesti
-Comuna Rocsoreni
+Comuna Rodna
 Comuna Rociu
 Comuna Robesti
 Comuna Robeasca
 Comuna Robanesti
 Comuna Raureni
-Comuna Rau de Mori
 Comuna Riscu
 Comuna Rapa
 Comuna Ranceni
 Comuna Rancaciov
+Comuna Ramnic
 Comuna Rajletu-Vierosi
 Comuna Valea Neagra de Jos
 Comuna Rieni
@@ -16725,7 +16717,6 @@ Comuna Raca
 Comuna Reviga
 Comuna Retevoesti
 Comuna Repedea
-Comuna Rediu
 Comuna Rediu
 Comuna Oasele
 Comuna Redea
@@ -16740,10 +16731,10 @@ Comuna Rauseni
 Comuna Raucesti
 Comuna Rasuceni
 comuna Rastoaca
+Comuna Rasnicu
 Comuna Rasa
 Comuna Rapsig
 Comuna Ramna
-Comuna Radulesti
 Comuna Raducaneni
 Comuna Radoesti
 Comuna Racu
@@ -16753,6 +16744,7 @@ Comuna Racoasa
 Comuna Raciu
 Comuna Racila
 Comuna Raci
+Comuna Racatau
 Comuna Racajdia
 Comuna Racasdia
 Comuna Racari
@@ -16760,7 +16752,6 @@ Comuna Racari
 Comuna Racaciuni
 Comuna Putreda
 Comuna Putna
-Comuna Puteni
 Comuna Puscasi
 Comuna Purcareni
 Comuna Purani
@@ -16771,15 +16762,16 @@ Comuna Puesti
 Comuna Puesti
 Comuna Puesti
 Comuna Pueni
+Comuna Pucheni
 Comuna Prunisor
 Comuna Prundu
 Comuna Prundeni
 Comuna Provita de Sus
-Comuna Progresu
 Comuna Probota
 Comuna Probota
 Comuna Priseaca
 Comuna Prisacani
+Comuna Priponesti
 Comuna Prigoria
 Comuna Prigor
 Comuna Priboieni
@@ -16793,8 +16785,6 @@ Comuna Poienele de Sub Munte
 Comuna Poenesti
 Comuna Poienesti
 Comuna Poiana Seciuri
-Comuna Poenari
-Comuna Poenari
 Comuna Poclusa de Barcau
 Comuna Plugari
 Comuna Plostina
@@ -16828,6 +16818,7 @@ Comuna Pancota
 Comuna Pancesti
 Comuna Pildesti
 Comuna Pietrosani
+Comuna Pietrosani
 Comuna Pietroasele
 Comuna Pietroasa
 Comuna Pietroasa
@@ -16843,12 +16834,13 @@ Comuna Petresti
 Comuna Petresti
 Comuna Petresti
 Comuna Petresti
+Comuna Petelca
+Comuna Pestis
 Comuna Pescari
 Comuna Pesac
 Comuna Perisoru
 Comuna Perieni
 Comuna Pelisor
-Comuna Peciu Nou
 Comuna Pecineaga
 Comuna Pecica
 Comuna Pechea
@@ -16870,11 +16862,8 @@ Comuna Otelec
 Comuna Orodelu
 Comuna Orlesti
 Comuna Orlea
-Comuna Oporelu
 Comuna Oinacu
 Comuna Odobesti
-Comuna Odobesti
-Comuna Odobasca
 Comuna Ocland
 Comuna Obreja
 Comuna Obarsia-Closani
@@ -16888,7 +16877,9 @@ Comuna Nucsoara
 Comuna Nucet
 Comuna Noslac
 Comuna Niuved
+Comuna Nitchidorf
 Comuna Nicseni
+Comuna Nicoresti
 Comuna Nicolae Balcescu
 Comuna Nicolae Balcescu
 Comuna Nicolae Balcescu
@@ -16914,8 +16905,6 @@ Comuna Necsesti
 Comuna Naruja
 Comuna Nartesti
 Comuna Nanesti
-Comuna Nandru
-Comuna Nana
 Comuna Namoloasa
 Comuna Naeni
 Comuna Nadrag
@@ -16954,12 +16943,15 @@ Comuna Mogosesti
 Comuna Mogosesti
 Comuna Moeciu
 Comuna Modelu
+Comuna Mocrea
 Comuna Mociu
 Comuna Moara Saraca
 Comuna Moacsa
 Comuna Mlajet
 Comuna Mislea
+Comuna Marsa
 Comuna Miresu Mare
+Comuna Mircesti
 Comuna Miraslau
 Comuna Maneciu-Ungureni
 Comuna Maneciu-Pamanteni
@@ -16969,25 +16961,25 @@ Comuna Manastireni
 Comuna Milosesti
 Comuna Milas
 Comuna Mihesu de Campie
-Comuna Miersig
 Comuna Mierlau
 Comuna Miclesti
 Comuna Micfalau
 Comuna Micasasa
 Comuna Mica
 Comuna Mica
+Comuna Mesesenii de Jos
 Comuna Meresti
 Comuna Mereni
 Comuna Mereni
 Comuna Mereni
 Comuna Mera
-Comuna Menti
 Comuna Mehadica
 Comuna Mediesu Aurit
 Comuna Maxineni
 Comuna Maureni
 Comuna Mastacani
 Comuna Masloc
+Comuna Maruntisu
 Comuna Mariselu
 Comuna Mariselu
 Comuna Marisel
@@ -16996,21 +16988,21 @@ Comuna Margaritesti
 Comuna Margaritesti
 Comuna Marga
 Comuna Mares
-Comuna Marculesti
 Comuna Marcesti
 Comuna Marca
+Comuna Maraus
 Comuna Maracineni
 Comuna Maracineni
 Comuna Manoleasa
 Comuna Manesti
 Comuna Manesti
 Comuna Manastiur
-Comuna Malusteni
 Comuna Malu
 Comuna Malnas
 Comuna Maldaresti
 Comuna Maldaeni
 Comuna Maicanesti
+Comuna Mahmudia
 Comuna Mahaceni
 Comuna Maguri
 Comuna Magureni
@@ -17063,9 +17055,11 @@ Comuna Lovnic
 Comuna Loman
 Comuna Loamnes
 Comuna Lisnau
+Comuna Limanu
 Comuna Liesti
 Comuna Leu
 Comuna Lesu
+Comuna Leresti
 Comuna Lepindea
 Comuna Leordeni
 Comuna Leorda
@@ -17076,6 +17070,7 @@ Comuna Leca
 Comuna Lazareni
 Comuna Lazarea
 Comuna Laza
+Comuna Launele de Jos
 Comuna Latunas
 Comuna Laslea
 Comuna Laslau
@@ -17085,7 +17080,6 @@ Comuna Lapusnic
 Comuna Lapus
 Comuna Laposu
 Comuna Lalosu
-Comuna Lalesti
 Comuna Ladesti
 Comuna Lacusteni
 Comuna Laceni
@@ -17103,7 +17097,6 @@ Comuna Jideni
 Comuna Jichis
 Comuna Jibert
 Comuna Jelna
-Comuna Jegalia
 Comuna Jabenita
 Comuna Iresti
 Comuna Intregalde
@@ -17117,7 +17110,7 @@ Comuna Ideciu de Jos
 Comuna Icusesti
 Comuna Ictar
 Comuna Icoana
-Comuna Ibrianu
+Comuna Ibanesti
 Comuna Ibanesti
 Comuna Ibanesti
 Comuna Iara de Mures
@@ -17134,13 +17127,13 @@ Comuna Hundorf
 Comuna Huedin
 Comuna Hudesti
 Comuna Hotar
+Comuna Horodistea
 Comuna Horlesti
 Comuna Horgesti
-Comuna Horezu
 Comuna Homoraciu
 Comuna Holod
+Comuna Holboca
 Comuna Holbav
-Comuna Hodoni
 Comuna Hoceni
 Comuna Hitias
 Comuna Hartiesti
@@ -17150,10 +17143,9 @@ Comuna Harlau
 Comuna Hidisel
 Comuna Herendesti
 Comuna Herculian
+Comuna Herasti
 Comuna Helestieni
-Comuna Hasmos
 Comuna Harmanesti
-Comuna Harman
 Comuna Harau
 Comuna Hantesti
 Comuna Hanesti
@@ -17168,6 +17160,7 @@ Comuna Gulianca
 Comuna Gugesti
 Comuna Gubaucea
 Comuna Groserea
+Comuna Grojdibodu
 Comuna Granari
 Comuna Grigoreni
 Comuna Greci
@@ -17178,14 +17171,14 @@ Comuna Greceanca
 Comuna Grebenisu de Campie
 Comuna Greaca
 Comuna Grebanu
-Comuna Greabanu
 Comuna Grajduri
 Comuna Grajdana
 Comuna Gradinari
-Comuna Grabat
+Comuna Gradina
 Comuna Gornesti
 Comuna Gorgota
 Comuna Gorgota
+Comuna Goranu
 Comuna Golesti
 Comuna Golesti
 Comuna Golesti
@@ -17199,7 +17192,6 @@ Comuna Glodeni
 Comuna Gliganu de Sus
 Comuna Glajarie
 Comuna Gladna Romana
-Comuna Giuvarasti
 Comuna Garnic
 Comuna Garliste
 Comuna Garliciu
@@ -17211,10 +17203,12 @@ Comuna Garcina
 Comuna Garceni
 Comuna Garbovu
 Comuna Garbovi
+Comuna Garbou
 Comuna Garbesti
 Comuna Galgau
 Comuna Galdau
 Comuna Ghiorac
+Comuna Ghindeni
 Comuna Balaria
 Comuna Ghilad
 Comuna Ghijasa de Sus
@@ -17227,7 +17221,6 @@ Comuna Ghelar
 Comuna Gepiu
 Comuna George Enescu
 Comuna Gemenea
-Comuna Gemenea
 Comuna Gelu
 Comuna Geaca
 Comuna Gauriciu
@@ -17237,18 +17230,17 @@ Comuna Ganeasa
 Comuna Ganeasa
 Comuna Galu
 Comuna Galospetreu
-Comuna Galicea
 Comuna Galesti
 Comuna Galanesti
-Comuna Gad
 Comuna Furceni
 Comuna Fundeni-Dobroesti
 Comuna Fundeni
 Comuna Fundeni
+Comuna Fundata
 Comuna Fumureni
 Comuna Fulga
-Comuna Folesti
-Comuna Floresti
+Comuna Frunzaru
+Comuna Fantana Mare
 Comuna Fieni
 Comuna Feresti
 Comuna Ferendia
@@ -17274,10 +17266,12 @@ Comuna Eibenthal
 Comuna Iedera
 Comuna Durnesti
 Comuna Dunarea
+Comuna Dumesti
+Comuna Dumesti
 Comuna Dumbraveni
 Comuna Dranceni
-Comuna Dridu
 Comuna Drauseni
+Comuna Drasov
 Comuna Drajna de Sus
 Comuna Drajna de Jos
 Comuna Draguseni
@@ -17291,15 +17285,16 @@ Comuna Dragoesti
 Comuna Dragoesti
 Comuna Dragoesti
 Comuna Dragoeni
-Comuna Dragodanesti
 Comuna Dracsani
 Comuna Dracea
 Comuna Dorolea
 Comuna Dorobantu
 Comuna Dorobantu
 Comuna Dorobanti
+Comuna Dornesti
 Comuna Dorna Candrenilor
 Comuna Dor Marunt
+Comuna Dorgos
 Comuna Domnesti
 Comuna Domnesti
 Comuna Domasnea
@@ -17331,9 +17326,9 @@ Comuna Dambovicioara
 Comuna Dalga
 Comuna Dienci
 Comuna Dieci
-Comuna Didesti
 Comuna Dezna
 Comuna Deveselu
+Comuna Devesel
 Comuna Desesti
 Comuna Desa
 Comuna Dersca
@@ -17347,9 +17342,12 @@ Comuna Deleni
 Comuna Dejoi
 Comuna Dejesti
 Comuna Dedrad
+Comuna Deda
 Comuna Decea
 Comuna Dealu
 Comuna Deaj
+Comuna Darmanesti
+Comuna Darmanesti
 Comuna Darmanesti
 Comuna Darmanesti
 Comuna Danesti
@@ -17360,10 +17358,10 @@ Comuna Damienesti
 Comuna Daeni
 Comuna Dacia
 Comuna Dabaca
+Comuna Cuza Voda
 Comuna Cuzaplac
 Comuna Cuvejdia
 Comuna Cuvesdia
-Comuna Cut
 Comuna Cusdrioara
 Comuna Curtici
 Comuna Cursesti
@@ -17378,7 +17376,6 @@ Comuna Cudalbi
 Comuna Cucueti
 Comuna Cucueti
 Comuna Cucorani
-Comuna Cuciulata
 Comuna Cuci
 Comuna Cuca
 Comuna Cuca
@@ -17386,10 +17383,10 @@ Comuna Crucisor
 Comuna Cruceni
 Comuna Crucea
 Comuna Crucea
-Comuna Crit
+Comuna Cris
 Comuna Crangurile
 Comuna Crangeni
-Comuna Cricau
+Comuna Crevenicu
 Comuna Cremenari
 Comuna Creaca
 Comuna Crasnaleuca
@@ -17400,19 +17397,19 @@ Comuna Craesti
 Comuna Craesti
 Comuna Craciunesti
 Comuna Craciunelu de Jos
-Comuna Craciunei
 Comuna Cracaoani
 Comuna Cracalia
+Comuna Cozmesti
 Comuna Cozmeni
 Comuna Cotesti
 Comuna Cosula
 Comuna Cosoba
 Comuna Cosnea
-Comuna Cosmesti
 Comuna Cosambesti
 Comuna Cosesti
 Comuna Cosereni
 Comuna Coseiu
+Comuna Cosbuc
 Comuna Corzu
 Comuna Corunca
 Comuna Coroesti
@@ -17437,6 +17434,7 @@ Comuna Copacel
 Comuna Concesti
 Comuna Comlosu Mic
 Comuna Comlosu Mare
+Comuna Comanesti
 Comuna Colibasi
 Comuna Colibasi
 Comuna Colceag
@@ -17456,6 +17454,7 @@ Comuna Cobadin
 Comuna Babele
 Comuna Clejani
 Comuna Cleja
+Comuna Ciuslea
 Comuna Ciurari
 Comuna Ciuperceni
 Comuna Ciuperceni
@@ -17476,6 +17475,7 @@ Comuna Carjiti
 Comuna Carjelari
 Comuna Carja
 Comuna Ciresu
+Comuna Ciresu
 Comuna Ciresanu
 Comuna Cireasov
 Comuna Carbesti
@@ -17488,7 +17488,6 @@ Comuna Campeni
 Comuna Calnicu
 Comuna Calnic
 Comuna Calnic
-Comuna Cilieni
 Comuna Cicarlau
 Comuna Chiuesti
 Comuna Chislaz
@@ -17504,16 +17503,14 @@ Comuna Chinteni
 Comuna Chilieni
 Comuna Chiheru
 Comuna Chiesd
-Comuna Chier
 Comuna Chibed
 Comuna Chiajna
 Comuna Cheveresu Mare
-Comuna Cherechiu
+Comuna Cherelus
 Comuna Chendu
 Comuna Chelmac
 Comuna Certesti
 Comuna Certeju de Sus
-Comuna Cernuc
 Comuna Cernica
 Comuna Cernesti
 Comuna Cerna
@@ -17523,7 +17520,6 @@ Comuna Cerasu
 Comuna Ceptura
 Comuna Ceplea
 Comuna Cepari
-Comuna Cenadu
 Comuna Cenad
 Comuna Celaru
 Comuna Cefa
@@ -17535,7 +17531,9 @@ Comuna Ceahlau
 Comuna Cazasu
 Comuna Cazanesti
 Comuna Cazanesti
+Comuna Cavadinesti
 Comuna Castelu
+Comuna Casa Veche-Olanu
 Comuna Carpen
 Comuna Carcaliu
 Comuna Carbunesti
@@ -17543,6 +17541,7 @@ Comuna Carbunari
 Comuna Carastelec
 Comuna Carani
 Comuna Capusu de Campie
+Comuna Capus
 Comuna Capreni
 Comuna Capleni
 Comuna Canlia
@@ -17581,11 +17580,9 @@ Comuna Buzoesti
 Comuna Bustenari
 Comuna Burzuc
 Comuna Buruenesti
-Comuna Burjuc
+Comuna Buru
 Comuna Burdusaci
 Comuna Buntesti
-Comuna Bunila
-Comuna Bunesti
 Comuna Bunesti
 Comuna Bulz
 Comuna Bujoreni
@@ -17614,7 +17611,6 @@ Comuna Buciumeni
 Comuna Bucium
 Comuna Bucinisu
 Comuna Buchin
-Comuna Bucesti
 Comuna Buces
 Comuna Bucerdea-Granoasa
 Comuna Brebeni
@@ -17626,6 +17622,7 @@ Comuna Boteni
 Comuna Bosanci
 Comuna Borlesti
 Comuna Bordusani
+Comuna Bordosiu
 Comuna Bordesti
 Comuna Bordeni
 Comuna Borca
@@ -17669,18 +17666,17 @@ Comuna Barna
 Comuna Barlogu
 Comuna Barghis
 Comuna Barca
-Comuna Bara
 Comuna Balvanesti
+Comuna Baldana
 Comuna Bilbor
+Comuna Bila
 Comuna Biertan
 Comuna Baclesu
 Comuna Biborteni
 Comuna Bezdead
 Comuna Beuca
 Comuna Bestepe
-Comuna Beslii
 Comuna Bertea
-Comuna Beriu
 Comuna Berislavesti
 Comuna Berevoesti
 Comuna Beresti
@@ -17696,11 +17692,11 @@ Comuna Berbesti
 Comuna Benic
 Comuna Bengesti
 Comuna Benesti
+Comuna Benesat
 Comuna Bencecu
 Comuna Belotu
 Comuna Belobresca
 Comuna Belis
-Comuna Belcesti
 Comuna Beciu
 Comuna Beceni
 Comuna Beba Veche
@@ -17727,11 +17723,11 @@ Comuna Balsa
 Comuna Bals
 Comuna Balotesti
 Comuna Balota
-Comuna Balosani
 Comuna Balesti
 Comuna Balesti
 Comuna Baleni
 Comuna Balcaciu
+Comuna Bale
 Comuna Balasesti
 Comuna Balanesti
 Comuna Balanesti
@@ -17742,6 +17738,7 @@ Comuna Balacita
 Comuna Balaci
 Comuna Balaceanca
 Comuna Balaceana
+Comuna Balabanesti
 Comuna Bala
 Comuna Bala
 Comuna Baciu
@@ -17769,7 +17766,9 @@ Comuna Arefu
 Comuna Ardeoani
 Comuna Arcus
 Comuna Archiud
+Comuna Archis
 Comuna Arcani
+Comuna Arbore
 Comuna Araci
 Comuna Andrieseni
 Comuna Andrid
@@ -17796,9 +17795,8 @@ Comuna Alamor
 Comuna Aiton
 Comuna Aita Seaca
 Comuna Aita Mare
+Comuna Agrisu Mic
 Comuna Agrisu Mare
-Comuna Agrij
-Comuna Adanca
 Comuna Acas
 Rumanía
 Romanía
@@ -17813,7 +17811,7 @@ Oras Pucioasa
 Oras Nucet
 Suplac
 Oras Victoria
-Oras Rupea
+Lugasu De Jos
 Oras Slanic
 Dobretu
 Nuci
@@ -17822,10 +17820,10 @@ Lunca
 Farcasesti
 Oras Isaccea
 Camin
-Oras Calimanesti
 Oras Panciu
 Racos
 Oras Macin
+Bagaciu
 Central Serbia
 Opstina Pecinci
 Serbia
@@ -17837,14 +17835,11 @@ Moscú
 Moscu Ciudad Federal
 Ingushetia
 Daguestán
-Daguestao
-Daguestan
 Chuvasia
 Chechenia
 Tiumen
 Krai de Krasnojarsk
 Rusia
-leosia
 Krai De Primorsky
 Krai de Khabarovsk
 Óblast Autónomo Hebreo
@@ -17858,14 +17853,16 @@ Hebrea Aŭtonomio
 Sajalin
 Ruanda
 Prefecture de Kibuye
+Prefecture de Gisenyi
 Prefecture de Cyangugu
 Province de l'Est
 District de Kayonza
+District de Gasabo
 Ngororero District
 Ngororero
+District de Ngororero
 Arabia Saudita
 Arabia Saudí
-Arábia Saudita
 Saudiarabien
 El Ha'sa
 El Ha’sa
@@ -17878,20 +17875,20 @@ Salomonoerne
 Salomonoyene
 Solomon Eilande
 Salomonoearna
-Salomonöarna
 Zua Salomoeon
 Salomonas
+Salomonseilanden
 Insulae Salomonicae
 Salómonseyjar
 Salomonseyjar
 Insulas Solomon
 Illas Salomón - Solomon Islands
 Îles Salomon
-Orílẹ́ède Etikun Solomoni
 Salomon
 Islas Salomon
 Illas Salomón
 Isabel Province
+Guadalcanal
 Guadalcanal Province
 Central Province
 Seychelles
@@ -17911,6 +17908,7 @@ El Meilig Rural Council
 El Mi‘eiliq Rural Council
 Central
 El Jezira
+En Nuhud
 Suecia
 su'idena
 Suedi
@@ -17918,25 +17916,25 @@ Suecia - Sverige
 Suede
 Suedia
 Ystad Municipality
+Botnie occidentale
 Vaesteras Municipality
 Tibro Municipality
 Tibro
 OErebro laen
 Orebro Lan
 OErebro Laen
-Nybro Municipality
 Comte de Dalarna
 Hjo Municipality
 Halmstad Municipality
+Filipstad Municipality
 Eda Municipality
 Eda
 Trosa Municipality
-Vaestra Goetalands laen
 Comte de Vaestra Goetaland
 Vastra Gotaland
 Vaestra Goetaland
-Junosuando socken
-Fulloesa socken
+Estuna socken
+Vaestra Harg
 Vaestra Ryd
 Yllestad
 Vaexjoe Maria
@@ -17946,10 +17944,10 @@ Ed
 Boras Caroli
 AEspered
 Lyrestad
+Loevestad
 Gualoev
 Esloev
 Tibro
-OEstuna
 Los-Hamra
 Sexdrega, del
 Hova-AElgaras, del
@@ -17963,6 +17961,7 @@ Bogloesa
 Eda
 Ed
 Saebra
+Liden
 Ed
 Arnaes
 Blidoe
@@ -17975,8 +17974,8 @@ Singapur
 Santa Elena
 Sfanta Elena
 Sant’Elena
+Santu eleni
 Agia Elene
-Sant'Elena
 Sántu eleni
 Eslovenia
 Obcina Lenart
@@ -17987,21 +17986,22 @@ Obcina Jursinci
 Radenci
 Puconci
 Obcina Puconci
-Obcina Sentrupert
 Svalbard y Jan Mayen
 Archipelagos Svalmparnt
-Region de Presov
 Distrito de Trenčín
+Trenčín District
 Trencin
 Okres Trencin
 Eslovaquia (República Eslovaca)
 Eslovaquia (Republica Eslovaca)
+Slofacia
 Eslováquia (República Eslovaca)
 Distrito de Skalica
 Senica
 Distrito de Nové Mesto nad Váhom
 Lucenec
 Losonci jaras
+Okres Lucenec
 Distrito de Hlohovec
 Distrito de Brezno
 Distrito de Banská Bystrica
@@ -18009,23 +18009,26 @@ Region de Trencin
 Trencin
 Central Province
 Sierra Leona
-Orílẹ́ède Siria looni
+Syera-Leone
 Serra Leoa - Sierra Leone
 Síerra Leóne
 Siera-Leono
+Sierra Leon
 Serra Leoa
 Siarra Leon
 Siérra Leone
-S'erra-Leone
+Moyamba District
 San Marino
 Republica de San Marino
-San Mariño - San Marino
 San Maríno
+Republica de San Marin
 República de San Marino
+can merino
 San Mairíne
 Repùblica de San Marin
 San Marínó
 Chiesanuova
+Tambacounda
 Region de Tambacounda
 Senegal
 Seneqal
@@ -18042,10 +18045,8 @@ Boven-Saramacca
 Saramacca
 Bahr el Ghazal Province
 Sudán del Sur
-Sudan del Sur
 República de Sudán del Sur
 Republica de Sudan del Sur
-Sudan del Sud
 Santo Tomé y Príncipe
 Sao Tome en Principe
 Santu Tomas y Principe
@@ -18058,6 +18059,7 @@ San Tome y Prenzipe
 Isla de Santo Tomé
 Isla de Santo Tome
 Isla de Príncipe
+Illa do Príncipe
 Provincia Príncipe
 Isla de Principe
 Municipio de Zaragoza
@@ -18069,7 +18071,6 @@ Municipio de Yayantique
 Municipio de Yamabal
 Municipio de Victoria
 Municipio de Verapaz
-Municipio de Usulutan
 Departamento de Usulután
 Municipio de Uluazapa
 Municipio de Turin
@@ -18077,6 +18078,7 @@ Municipio de Torola
 Municipio de Tonacatepeque
 Distrito de Tonacatepeque
 Municipio de Texistepeque
+Municipio de Tepetitan
 Municipio de Tepecoyo
 Municipio de Teotepeque
 Municipio de Tenancingo
@@ -18084,6 +18086,7 @@ Municipio de Tejutla
 Municipio de Tejutepeque
 Municipio de Tecoluca
 Municipio de Tecapan
+Municipio de Tapalhuaca
 Municipio de Tamanique
 Municipio de Talnique
 Municipio de Tacuba
@@ -18138,7 +18141,6 @@ Municipio de San Pedro Perulapan
 Municipio de San Pedro Nonualco
 Distrito de San Pedro Nonualco
 Municipio de San Pedro Masahuat
-Distrito de San Pedro Masahuat
 Municipio de San Pablo Tacachico
 Municipio de San Miguel Tepezontes
 Municipio de San Miguel de Mercedes
@@ -18171,6 +18173,7 @@ Municipio de San Jorge
 Municipio de San Isidro Labrador
 Municipio de San Isidro
 Municipio de San Isidro
+Municipio de San Ildefonso
 Municipio de San Ignacio
 Municipio de San Gerardo
 Municipio de San Francisco Morazan
@@ -18208,7 +18211,6 @@ Municipio de Potonico
 Municipio de Poloros
 Municipio de Perquin
 Municipio de Pasaquina
-Municipio de Panchimalco
 Municipio de Ozatlan
 Municipio de Osicala
 Municipio de Oratorio de Concepcion
@@ -18260,7 +18262,6 @@ Distrito de Jucuapa
 Municipio de Juayua
 Distrito de Juayua
 Municipio de Jocoro
-Municipio de Jocoaitique
 Municipio de Joateca
 Municipio de Jiquilisco
 Municipio de Jicalapa
@@ -18294,6 +18295,7 @@ El Salwador
 Sal'vador
 El Salfador
 ela selvadora
+ela salabhadora
 ala salvadora
 Elsavado
 Republic of El Salvador
@@ -18304,7 +18306,6 @@ el salabhador
 Salvadori
 Ël Salvador
 El Salbador
-Salvadoro
 Municipio de El Rosario
 Municipio de El Rosario
 Municipio de El Rosario
@@ -18350,8 +18351,8 @@ Municipio de Chiltiupan
 Municipio de Chilanga
 Municipio de Chapeltique
 Municipio de Chalchuapa
+Distrito de Chalchuapa
 Municipio de Chalatenango
-Departamento de Chalatenango
 Municipio de Carolina
 Municipio de Candelaria de La Frontera
 Municipio de Candelaria
@@ -18397,6 +18398,8 @@ El Bab
 Swazilandia
 Islas Turcas y Caicos
 Turks en Caicos Eilande
+Prefecture du Mayo Kebbi
+Region du Mayo-Kebbi Est
 Prefecture du Logone Occidental
 Lac
 Guera
@@ -18407,9 +18410,7 @@ Region de la Ville de N'Djamena
 Mandoul Occidental
 Europa Island
 Bassas da India
-Archipel des Crozet
 Juan de Nova Island
-Glorioso Islands
 Territorios Australes Franceses
 Douaroù aostral Frañs
 Territoris Franzos Meridiunals
@@ -18422,13 +18423,14 @@ Subdivision de Tabligbo
 Subdivision de Nuatja
 Prefecture de Lome
 Prefecture de la Binah
+Prefecture de Tone
 Prefecture des Lacs
 Region de la Kara
+Jolor
 Tailandia
 Loey
 Udon
 Tayikistán
-An Táidsíceastáin
 Taxiquistán
 Garm
 Ҷabbor Rasupo'
@@ -18436,7 +18438,6 @@ Tokelau
 Tocala
 Atáfu Island
 Distrito Viqueque
-Circunscricao Civil de Viqueque
 Manufahi
 Ermera
 Bobonaro
@@ -18456,18 +18457,17 @@ Colonia de Timor
 Turkmenistán
 Turcomenistán - Türkmenostan
 Túnez
+La Tunisie
 Tunísia
 Túnis
-Delegation de Gamouda
 Delegation d' El Regueb
 El Mazouna
 Delegation de Medjez-el-Bab
 Mejez El Bab
-Delegation d' El Hadjeb
+Delegation de Hadjeb el Aioun
 Al Munastir
 El Kef
 Oued Meliz
-El Ayoun
 Tonga
 Eua
 Grupo Niuas
@@ -18476,6 +18476,7 @@ Provincia de Van
 Provincia de Usak
 Provincia de Sanliurfa
 Turquía
+Turquie
 Provincia de Tunceli
 Tuncaeliaen
 Provincia de Sivas
@@ -18493,9 +18494,9 @@ Provincia de Kuetahya
 Provincia de Konya
 Provincia de Kayseri
 Provincia de Kahramanmaraş
-Provincia de Kahramanmaras
 Provincia de Isparta
 Isparta
+Isparta Vilayeti
 Provincia de Mersin
 Provincia de Hatay
 Provincia de Hakkari
@@ -18553,7 +18554,7 @@ Provincia de Yalova
 Provincia de Ardahan
 Yueregir
 Guersu
-Eminoenue
+Guengoeren
 Mercan
 UErguep
 Ercis
@@ -18563,43 +18564,38 @@ Valencia
 Trinidad y Tobago
 Trínidad og Tóbagó
 Trinidad et Tobago
+Trinidan və Tobaqo
 Trinidad és Tobago
 Trinidad ne Tobago
 Trinidad eta Tobago
 Trinidad en Tobago
-Trinidad a Thobago
-Trinidad və Tobaqo
 Trinidada un Tobago
 Trinidad e Tobago
 Trinidad a Tobago
 Trinidad le Tobago
 Trinidad und Tobago
 Trinidad un Tobago
+Trinidadeaen e Tobageaens
 Trinidad-Tobago
 Trinidad es Tobago
 Trinidad ve Tobago
 Trínídad og Tóbagó
 Tacarigua
 La Brea
+Cedros Ward
 Cedros
 Tuvalu
 Funafuti
-you tian cun
 dong yue cun
-T'ien-fu Ts'un
 de song cun
-T'an-pien Ts'un
 T’an-pien Ts’un
 Taiwán
-da quan cun
-San-ho Ts’un
 San-ho Ts’un
 San-ho Ts'un
-San-ho Ts’un
-Sanqi Cun
-Bucian Li
+San-ho Ts'un
 Hsia-ho Ts'un
 Hsia-ho Ts’un
+ba gua cun
 Pa-p’a-hsien
 Pa-p'a-hsien
 Nancun Li
@@ -18615,9 +18611,10 @@ Lo-ts'o Ts'un
 Lo-ts’o Ts’un
 lao quan li
 Gancuo Cun
+ren de xiang
 Yide Li
+yi de li
 yi ren cun
-I-ho Ts’un
 Hua-lien
 Hua-lien
 Hsia-fu
@@ -18641,17 +18638,19 @@ Fu-te Li
 fu de li
 Funan Cun
 Fu-li
+Fulian Cun
 Fuqi Cun
+fu bao cun
 Fu-pao Ts'un
-Fu-pao Ts’un
 fen yuan cun
-qun ying cun
+Ch'uan-liao Ts'un
+Chen-liao Ts’un
 Chen-liao Ts'un
 Cyuancuo Cun
+Quancuo Cun
 Cho-lan
+Chia-t'ien Ts'un
 Chia-lien Li
-Anpo Cun
-an po cun
 Aiguo Cun
 Fuyuan Cun
 fu yuan cun
@@ -18673,8 +18672,8 @@ Oblast de Kherson
 Provincia de Kherson
 Uganda
 Maraca
-Central Province
 Lyantonde
+Lyantonde District
 Mbarara Municipality
 Alero
 Loro
@@ -18682,8 +18681,8 @@ Isla Wake
 Isla Navassa
 Islas menores alejadas de los Estados Unidos
 Illas Menores Distantes dos EUA.
+Comte de Bullock
 Comte de Conecuh
-Comte de Cullman
 Comte de Dallas
 Comte d'Escambia
 Escambia County
@@ -18714,14 +18713,16 @@ Antonio Huertas Grant
 Bartolomeo de Castro Y Ferro Grant
 Condado de Brevard
 Quan Brevard
+Domingo Reyes Grant
 E Hudnal Grant
+E Hudnall Grant
 Comte d'Escambia
 Escambia County
 Florida
 Francis P Sanchez Grant
 Francis R Sanchez Grant
+Francis R Sanchez Grant
 Francisco Barrios Grant
-Geronimo Alvarez Grant
 J B Entralgo Grant
 Jose de la Maza Arrendondo Grant
 Juan Dominquez Grant
@@ -18737,56 +18738,53 @@ Moses E Levy Grant
 Moses E Levy Grant
 Moses E Levy Grant
 Moses E Levy Grant
-Moses E Levy Grant
 Pablo Granpera Grant
 Pedro Cocifacio Grant
+Pedro Trope Grant
 Comte de Putnam
 Salvador Ramiez Grant
 Comte de Santa Rosa
 Santiego Coleman Grant
 Comte de Sarasota
 Comte de Taylor
+Comte de Bulloch
 Carroll
 Comte de Carroll
-Comte de Clay
 Comte de Fulton
 Estado de Georgia
 Comte de Glascock
 Comte de Lamar
 Comte de Macon
-Comte de Madison
 Comte de Murray
 Comte de Pulaski
 Comte de Putnam
-Comte de Rockdale
 Comte de Taliaferro
+Comte de Taylor
 Arcadia Election Precinct
 Burnside Election Precinct
 Central Election Precinct
 Elco Election Precinct (historical)
 Elvira Election Precinct
+Golconda Number 3 Election Precinct
+Lancaster Election Precinct
 Comte de Macon
 Comte de Madison
 Comte de Perry
 Comte de Pulaski
-Rosiclare Election Precinct
-Ruma Election Precinct
-Comte de Sangamon
+Villa Ridge Election Precinct
 Comte de Perry
-Comte de Putnam
 Estado de Kansas
 Comte de Ballard
 Comte de Carroll
 Comte de Casey
 Comte de Fulton
 Comte de Garrard
+Comte de Madison
 Comte de Perry
 Comte de Pulaski
-Comte de Rockcastle
 Comte de Taylor
 Las Ormigas Grant
 Louisiana
-Ludoviciana
 Comte de Carroll
 Comte de Cecil
 District 5, Accident
@@ -18795,8 +18793,6 @@ Comte de Barry
 Comte de Carroll
 Comte de Cedar
 Comte de Dallas
-Gasconade County
-Comte de Laclede
 Comte de Macon
 Comte de Madison
 Comte de McDonald
@@ -18804,8 +18800,10 @@ Misuri
 Comte de Perry
 Comte de Pulaski
 Comte de Carroll
+Comte de Copiah
 Issaquena County
 Juan DeCuevas Claim
+Comte de Lamar
 Comte de Madison
 Misisipi
 Comte de Perry
@@ -18817,8 +18815,11 @@ Estado de Carolina del Norte
 Carolina Septentrionalis
 Carolina de Nord
 Norður-Karólína
+Comte de Robeson
+Comte de Madison
 Comte de Noble
 Comte de Perry
+Comte de Choctaw
 Comte de Major
 Comte de Murray
 Comte de Noble
@@ -18833,28 +18834,27 @@ Suður-Karólína
 Louna-Carolina
 Carolina del Sued
 Carolina del Sur
-Sueued-Carolina
 Carolina del Sud
 Etelae-Carolina
+Hego Carolina
 Carolina de Sud
 Carolina dû Sud
 Comte de Carroll
 Comte de Macon
 Comte de Madison
+Comte de Morgan
 Comte de Perry
 Comte de Putnam
 Estado de Tennessee
 Comte de Tipton
-Atascosa County
 Colorado County
 Comte de Dallas
 Comte de Gonzales
 Comte de Guadalupe
-Comte de Lamar
 Comte de Lampasas
 Comte de Lavaca
-Comte de Llano
 Comte de Madison
+Comte de Mason
 Comte de McCulloch
 Comte de Medina
 Comte de Menard
@@ -18875,8 +18875,9 @@ Comte de Carroll
 Comte de Lancaster
 Comte de Madison
 Comte de Pulaski
+Saluda District
 Comte de Mason
-Comte de Taylor
+Comte de Putnam
 Virginia Occidental
 Virxinia Occidental
 Virgínia Occidentala
@@ -18890,7 +18891,6 @@ Comte de Dallas
 Iowa
 Comte de Lucas
 Comte de Madison
-Comte de Sac
 Comte de Story
 Comte de Taylor
 Comte de Carroll
@@ -18898,11 +18898,10 @@ Comte de Fulton
 Estado de Illinois
 Comte de Mason
 Comte de Menard
+Comte de Peoria
 Comte de Carroll
 Comte de Fulton
 Estado de Indiana
-Comte de Madison
-Comte de Noble
 Comte de Pulaski
 Comte de Tippecanoe
 Condado de Warren
@@ -18918,36 +18917,38 @@ Comte de Carlton
 Estado de Minnesota
 Comte de Murray
 Comte de Waseca
-Comte de Putnam
-Allen Election Precinct
 Arago Election Precinct
+Atlanta Election Precinct
 Avoca Election Precinct
 Barada Election Precinct
 Buda Election Precinct
 Comte de Cedar
+Cedar Election Precinct
 Cozad Election Precinct
 Elba Election Precinct
-Elk Election Precinct
 Erina Election Precinct
 Comte de Gosper
 Helena Election Precinct
 Kalamazoo Election Precinct
 La Vista Election Precinct
 Comte de Lancaster
+Lancaster Election Precinct
+Leroy Election Precinct
 Comte de Madison
 McFadden Election Precinct
 Nebraska
 Nebrasca
 Panama Election Precinct
+Pierce Election Precinct
 Posen Election Precinct
 Rulo Election Precinct
 Saltillo Election Precinct
-Comte de Sarpy
+Selden Election Precinct
 Vesta Election Precinct
-Waco Election Precinct
 Comte de Carroll
 Comte de Merrimack
 Nuevo Hampshire
+Nueva Hampshire
 Condado de Bergen
 Jersey City
 Nueva Jersey
@@ -18958,29 +18959,31 @@ Comte de Fulton
 Comte de Madison
 Estado de Nueva York
 Nua-Eabhrac
-Comte de Putnam
 Comte de Seneca
 Comte de Carroll
 Comte de Coshocton
 Comte de Defiance
 Comte de Fulton
-Comte de Guernsey
 Comte de Lucas
 Comte de Medina
+Comte de Mercer
 Ohio
+Ohio suyu
 Comte de Putnam
 Comte de Seneca
 Comte de Clarion
 Comte de Fulton
+Lake Canadohta (historical)
 Condado de Lancaster
 Comte de Lancaster
 Comte de Perry
+Comte de Philadelphia
 Rhode Island
-Ellan Rhode
 Estado de Rhode Island
-Comte de Clay
+Comte de Gregory
 Comte de Caledonia
 Vermont
+Fermont
 Comte de Langlade
 Comte de Racine
 Comte de Taylor
@@ -18991,10 +18994,12 @@ Los Trigos
 Condado de Cochise
 Condado de La Paz
 Comte de La Paz
+Luis Maria Baca Grant
 Comte de Navajo
 Rancho de Martinez
 San Ignacio de la Canoa
 San Ignacio del Babocomari
+San Jose de Sonoita
 San Juan de las Boguillas y Nogales
 San Rafael de la Zanja
 Comte de Santa Cruz
@@ -19042,13 +19047,14 @@ Canada De La Segunda
 Canada De Verde Y Arroyo De La Purisima
 Canada Del Hambre Y Las Bolsas
 Canada Del Rincon En El Rio San Lorenzo De Santa Cruz
+Canada Larga o Verde
 Canada Del Hambre Y Las Bolsas
 Canada de la Carpenteria
 Canada del Corral
 Canada Del Corte De Madera
 Castac
 Cienega De Los Paicines
-Colusa
+Cienega O Paso De La Tijera
 Condado de Contra Costa
 Quan Contra Costa
 Corral De Tierra
@@ -19064,7 +19070,6 @@ El Conejo
 El Corte de Madera
 Comte d'El Dorado
 El Dorado County
-Comté d'El Dorado
 El Encino
 El Escorpio
 El Pescadero
@@ -19104,7 +19109,6 @@ La Natividad
 La Puente
 La Purisima Concepcion
 La Sierra
-La Sierra
 La Zaca
 Lac
 Laguna De Los Palos Colorados
@@ -19116,6 +19120,7 @@ Las Cienegas
 Las Cruces
 Las Juntas
 Las Mariposas
+Las Positas
 Las Positas Y La Calera
 Llano De Buena Vista
 Llano De Santa Rosa
@@ -19127,6 +19132,7 @@ Lomerias Muertas
 Los Alamitos
 Los Alamos
 Los Alamos Y Agua Caliente
+Comte de Los Angeles
 Los Capitancillos
 Los Carneros
 Los Carneros
@@ -19151,8 +19157,10 @@ Los Putos
 Los Tularcitos
 Los Ulpinos
 Los Vallecitos De San Marcos
+Mallacomes or Moristol
 Mallacomes or Moristul Y Plan De Agua Calien
 Comte de Mariposa
+Comte de Mendocino
 Comte de Merced
 Mission Viejo or La Paz
 Monte Del Diablo
@@ -19188,6 +19196,7 @@ Punta De La Laguna
 Punta De Los Reyes
 Punta De Los Reyes
 Punta De Pinos
+Punta De Quentin
 Punta Del Ano Nuevo
 Rancheria Del Rio Estanislao
 Rancho Corral de Tierra
@@ -19199,13 +19208,13 @@ Rincon De Los Esteros
 Rincon De Los Esteros
 Rincon De Los Esteros
 Rincon De Musalacon
+Rincon De San Francisquito
 Rincon Del Diablo
 Rincon de la Puente del Monte
 Rincon de las Salinas
 Rincon De Los Bueyes
 Rinconada Del Arroyo De San Francisquito
 Rinconada De Los Gatos
-Rio Blanco Tract
 Rio De Los Putos
 Roblar De La Miseria
 Arroyo Del Rodeo
@@ -19224,7 +19233,6 @@ Comte de San Francisco
 San Gabriel
 San Jacinto Nuevo Y Potrero
 San Jacinto Viejo
-San Jose
 San Jose De Buenos Ayres
 San Lucas
 San Marcos
@@ -19237,11 +19245,12 @@ San Pascual
 San Pascual
 Sanjon De Los Moquelumnes
 Santa Ana Y Quien Sabe
-Santa Clara County
 Comte de Santa Clara
 Santa Clara Del Norte
-Santa Manuela
 Santa Margarita Y Las Flores
+Santa Paula Y Saticoy
+Santa Rosa
+Santa Rosa
 Santa Rosa
 Saucito
 Sausal Redondo
@@ -19252,10 +19261,12 @@ Tularcitos
 Tzabaco
 Ulistac
 Vega Del Rio Del Pajaro
+Comte de Baca
 Estado de Colorado
 Colorado suyu
 Coloradu
 Comte de Conejos
+Comte de Costilla
 Comte de Dolores
 Comte d'El Paso
 Comte de Huerfano
@@ -19263,17 +19274,14 @@ Comte de La Plata
 Comte de Las Animas
 Comte de Montrose
 Comte de Pueblo
+Comte de Saguache
 Comte de San Juan
 Comte de San Miguel
 Sangre de Cristo Grant
-Comte de Hamilton
-Comte de Wallace
 Acoma Pueblo
 Acoma Pueblo Grant
 Alamitos or Juan Salas Grant
-Anton Chico Grant
 Arroyo Hondo Grant
-Black Mesa Grant
 Caja del Rio Grant
 Canada De Los Alamos Grant
 Canada De Los Alamos Grant
@@ -19292,6 +19300,7 @@ Francisco Montes Vigil
 Comte de Guadalupe
 Ignacio Chavez Grant
 Isleta Pueblo Grant
+Isleta Pueblo
 Jacona Grant
 Jemez Pueblo
 Jemez Pueblo Grant
@@ -19342,9 +19351,8 @@ Salvador Gonzales
 San Antonio De Las Huertas Grant
 San Felipe Pueblo
 San Felipe Pueblo Grant
-San Ildefonso Pueblo Grant
+San Ildefonso Pueblo
 Comte de San Juan
-San Juan Pueblo Grant
 San Marcos Pueblo Grant
 Comte de San Miguel
 San Miguel Del Bado Tract Number 1
@@ -19361,14 +19369,13 @@ San Pedro Grant
 San Ysidro Grant
 Sandia Pueblo
 Sandia Pueblo Grant
-Sangre de Cristo Grant
 Santa Ana Pueblo Grant
 Santa Clara Pueblo
 Comte de Santa Fe
-Santa Rosa De Cubero Grant
 Santiago Ramirez Grant
 Santo Domingo Pueblo
 Santo Domingo Pueblo Grant
+Santo Domingo De Cundiyo Grant
 Sebastian de Vargas Grant
 Sitio De Los Cerrillos Grant
 Sito de Juana Lopez Grant
@@ -19377,27 +19384,31 @@ Taos Pueblo Grant
 Tenorio Tract Taos Pueblo
 Tesuque Pueblo
 Tesuque Pueblo Grant
-Tract B Taos Pueblo
 Tract C Taos Pueblo
 Comte de Valencia
+Valencia County
 Zia Pueblo
 Zia Pueblo Grant
 Zuni Pueblo Grant
 Esmeralda County
+Comte d'Esmeralda
 Estado de Nevada
 Comte de Storey
 Comte de Cimarron
 Comte d'El Paso
 Comte de Garza
 Comte de Lamb
+Comte de Scurry
 Comte de San Juan
 Utah
 yurra
 Comte d'Alamosa
 Arizona
+Arizona suyu
 El Primer Canon or Rio de Los Berre
 La Barranca Colorada
 Las Flores
+Rio De Los Molinos
 San Buena Ventura
 Saucos
 Trinidad Rancheria
@@ -19414,27 +19425,27 @@ Comte de Rosebud
 Dakota del Norte
 Dacota Septentrionalis
 Allen Election Precinct
+Antelope Election Precinct
 Cambridge Election Precinct
 Eden Election Precinct
 Funston Election Precinct
 Gillaspie Election Precinct
+Indianola Election Precinct
 Lisco Election Precinct
-Medicine Election Precinct
+Lorenzo Election Precinct (historical)
 Nenzel Election Precinct
 Orafino Election Precinct
 Palisade Election Precinct
 Rural Ogallala Election Precinct
 Seneca Election Precinct
-Wauneta Election Precinct
+Comte de Clackamas
 Comte de Curry
 Oregón
 Oregon suyu
-Comte de Campbell
 Dakota del Sur
 Comte de Box Elder
 Comte de Clallam
 Comte de Ferry
-Comte de Mason
 Comte de Pacific
 Comte de San Juan
 Washington
@@ -19443,7 +19454,7 @@ Wyoming
 Vayominq
 Nanue
 Puna District
-Haneo‘o
+Haneo'o
 Hawái
 Alena
 Honopueo
@@ -19455,15 +19466,19 @@ Alasca
 Estados Unidos
 Masaĉuseco
 Pensilvania
+pencilveniya
 Virginía
+Village of Eldorado
+Village of Los Lunas
 Village of Los Ranchos de Albuquerque
 Ideal Segment
+Manuelito Chapter
 Ojo Encino Chapter
-Pablo District
 Pascua Pueblo Yaqui Reservation
 Pueblo Pintado Chapter
 San Felipe Pueblo/Santa Ana Pueblo Joint-Use Area
 San Felipe Pueblo/Santo Domingo Pueblo Joint-Use Area
+Alamo Chapter
 Ysleta del Sur Pueblo
 Santa Clara Pueblo Grant
 Seneca District
@@ -19474,13 +19489,13 @@ República Oriental del Uruguay
 Treinta y Tres
 Departamento de Treinta y Tres
 Departamento de Tacuarembó
-Tacuarembó
 Departamento de Tacuarembo
 Soriano
+San José
 Departamento de San Jose
-San Jose
 Departamento de San José
 Departamento de Salto
+Departamento de Rocha
 Departamento de Paysandu
 Departamento de Paysandú
 Departamento Montevideo
@@ -19501,7 +19516,6 @@ Canelones
 Departamento de Canelones
 Artigas
 La Barra de Maldonado
-Qashqadaryo Province
 Buxoro Viloyati
 Farghona Oblasti
 Fergana Oblast
@@ -19510,12 +19524,14 @@ Usbequistán
 Uzbequistán
 El Vaticano
 Santa Sede (Estado de la Ciudad del Vaticano)
+el Vatica
 Santa Sede
 Ciudad del Vaticano
 San Vicente y las Granadinas
 Saluda-Vinsenteaen e Grenadineaens
 sentobinsentooyobigurenadin zhu dao
 San Bizen y as Granadinas
+Sent-Vincento kaj la Grenadinoj
 Sentvinsenta un Grenadinas
 Sant Vincenc e las Grenadinas
 senta vinasenta enda grenada'insa
@@ -19524,16 +19540,17 @@ Sancte Vincente e le Grenadinas
 San Vicente e Granadinas
 San Bizén y as Granadinas
 Santu vesa mpe Gelenadinɛ
-Saint Vincent e las Grenadinas
 Municipio Zamora
 Municipio Zamora
 Municipio Zamora
 Estado Yaracuy
 Venezuela
+Venezuelaea
 Venesúela
 Orileede Fenesuela
 Venecuela
 Republica de Venezuela
+Venezuelo
 venesuela
 Republica Bolivariana de Venezuela
 República Bolivariana de Venezuela
@@ -19547,6 +19564,7 @@ Municipio Valera
 Municipio Valencia
 Municipio Uribante
 Municipio Turen
+Departamento Tucupita
 Municipio Tubores
 Estado Trujillo
 Municipio Trujillo
@@ -19569,7 +19587,6 @@ Municipio San Felipe
 Municipio San Cristobal
 Municipio San Casimiro
 Municipio San Carlos
-Municipio Romulo Gallegos
 Municipio Rojas
 Municipio Rivas Davila
 Municipio Río Negro
@@ -19604,6 +19621,7 @@ Municipio Autonomo Mejías
 Municipio Autonomo Mejias
 Municipio Mauroa
 Municipio Marino
+Municipio Marino
 Municipio Maracaibo
 Municipio Mara
 Municipio Lobatera
@@ -19625,6 +19643,7 @@ Municipio Independencia
 Municipio Heres
 Municipio Guanarito
 Municipio Guanare
+Municipio Guaicaipuro
 Municipio Guacara
 Municipio Garcia de Hevia
 Dependencias Federales de Alta Mar
@@ -19638,7 +19657,6 @@ Municipio Esteller
 Municipio Escuque
 Municipio Democracia
 Territorio Federal Delta Amacuro
-Territorio Delta Amacuro
 Delta de l'Orenoque
 Municipio Cristobal Rojas
 Municipio Crespo
@@ -19653,6 +19671,7 @@ Municipio Carirubana
 Municipio Cardenas
 Municipio Carache
 Municipio Campo Elias
+Municipio Buchivacoa
 Municipio Bruzual
 Municipio Bocono
 Municipio Barinas
@@ -19743,6 +19762,7 @@ Municipio Andres Eloy Blanco
 Municipio Jose Antonio Paez
 Municipio Pueblo Llano
 Municipio Pedernales
+Municipio Guasimos
 Municipio Juan Manuel Cajigal
 Municipio Tulio Febres Cordero
 Municipio Libertador
@@ -19753,9 +19773,9 @@ Municipio Romulo Gallegos
 Municipio Guaraque
 Municipio Veroes
 Municipio Julian Mellado
+Municipio Cocorote
 Municipio Manuel Ezequiel Bruzual
 Municipio Monsenor Iturriza
-Municipio Camatagua
 Municipio La Trinidad
 Municipio San Genaro de Boconoito
 Municipio Cruz Paredes
@@ -19768,7 +19788,6 @@ Municipio Guanta
 Municipio San Judas Tadeo
 Municipio La Ceiba
 Municipio Jesus Maria Semprun
-Municipio Lima Blanco
 Municipio Vargas
 Municipio Francisco de Miranda
 Municipio San Jose de Guanipa
@@ -19777,7 +19796,6 @@ Municipio Francisco Linares Alcantara
 Municipio Padre Pedro Chien
 Municipio Libertador
 Municipio Los Guayos
-Municipio Naguanagua
 Municipio San Diego
 Municipio Casacoima
 Municipio Los Taques
@@ -19822,14 +19840,13 @@ Parroquia El Valle
 Parroquia Candelaria
 Parroquia La Pastora
 Parroquia La Vega
-Parroquia San Agustin
 Parroquia San Bernardino
 Parroquia San Jose
 Parroquia San Juan
 Parroquia San Pedro
 Parroquia Santa Rosalia
 Parroquia Sucre
-Parroquia Sabaneta
+Parroquia Rodriguez Dominguez
 Parroquia Andres Bello
 Parroquia Nicolas Pulido
 Parroquia La Union
@@ -19852,8 +19869,8 @@ Parroquia Ramon Ignacio Mendez
 Parroquia El Real
 Parroquia La Luz
 Parroquia Ciudad Bolivia
-Parroquia Dolores
 Parroquia Palacios Fajardo
+Parroquia Santa Rosa
 Parroquia Ciudad de Nutrias
 Parroquia El Regalo
 Parroquia Puerto de Nutrias
@@ -19866,39 +19883,37 @@ Islas Virgenes Britanicas
 Illas Virxes Británicas
 Islas Vírgenes
 Illas Virxes Britanicas
-Estate Adelphi
+Estate Agnes Fancy
 Estate Altona
 Altona Estate
 Estate Annas Fancy
-Estate Bolongo
 Estate Bonne Esperance 2
 Estate Bonne Esperance
 Estate Caledonia
 Estate Cane Bay
 Estate Caneel Bay
-Estate Cotton Garden
-Cruz Bay Estate
-Estate Donoe
+Estate Contentment
 Estate Elizabeth
+Estate Elizas Retreat
 Envy Estate
 Estate Frydendal
 Estate Granard
 Estate Grove Place
-Estate La Press Valley
+Estate Hard Labor
 Estate La Grande Princess
-Estate Lebanon Hill
+Estate Lameshur
 Estate Liliendal and Marienjoj
 Estate Longford
+Estate Montpellier East
 Estate Colquohoun
 Estate Envy
+Estate Nicholas
 Palestina Estate
 Estate Parasol
 Estate Pastory
 Patience Grove Estate
 Estate Perseverance
-Pleasant Prospect Estate
 Estate Prospect Hill
-Estate Rose Hill
 Estate San Soucci
 Estate Santa Maria
 Estate Teague Bay
@@ -19908,20 +19923,20 @@ Inslas Verginas Americanas
 Islas Virgenes de los Estados Unidos
 Vietnam
 Huyen Mo Cay
+Huyen Can Gio
 Huyen Xuyen Moc
-Huyen Con Dao
 Huyen Ea Sup
 Huyen Can Duoc
 Huyen Can Giuoc
 Huyen Meo Vac
 Huyen Co To
 Huyen Gia Lam
-Huyen Tu Liem
 Huyen Gia Vien
-Huyen Que Vo
-Huyen Yen Lac
+Huyen Xuan Loc
 Huyen Can Loc
 Huyen Mo Duc
+Huyen Gia Rai
+Huyen Gia Loc
 Huyen Lac
 Huyen Ea H'Leo
 Huyen Cu Jut
@@ -19940,14 +19955,19 @@ Samó
 Kosovo
 Komuna e Gracanices
 Yemen
+Orílẹ́ède yemeni
 Liwā’ el-Qiblah
 El Makhā
+El Makha
 El Ḥodeidah
+El Hodeidah
+Aden Municipality
 Al Maḩfid
 Mayotte
 ma yue te
 Orílẹ́ède Mayote
 Sudáfrica
+Sudaffrica
 Africa de Sud
 Africa del Sud
 Àfrica dû Sud
@@ -19958,7 +19978,9 @@ Norður-Ródesía
 Orílẹ́ède ṣamibia
 Sambía
 Salondo
+Ndola District
 Luena
+Luapula Province
 Kalomo District
 Central
 Central Province

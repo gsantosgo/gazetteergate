@@ -9,13 +9,11 @@ Cami de Sispony
 Marrades del Siscar
 Carretera de Seturia
 Cami del Serrat Pla
-Cami de Sedornet
 Drecera de Sant Marti
 Vial de Rubials
 Vial de la Roca
 Carretera de la Rabassa
 Vial dels Pujols
-Cami del Port de Setut
 Cami dels Plans
 Cami dels Plans
 Cami de la Plana
@@ -27,6 +25,7 @@ Carretera General Numero Un
 Carretera General Numero Tres
 Carretera General Numero Duo
 Carretera de Nagol
+Cami de la Muntanya
 Carrera de Montaup
 Carrera del Mig
 Cami dels Matxos
@@ -35,7 +34,6 @@ Cami de les Marrades
 Cami de la Llobatera
 Cami de Juclar
 Carretera de la Juberrussa
-Carretera del Forn
 Carrerada del Forn
 Cami de Fontargent
 Cami dels Estanys
@@ -50,6 +48,7 @@ Carretera Encortesa
 Carrera de Dalt
 Carretera dels Cortals
 Cami del Cortal de la Serra
+Carretera de la Comella
 Cami de Coll de Turer
 Cami de la Collada de Sanfons
 Cami de la Collada d'Enradort
@@ -63,17 +62,22 @@ Vial Blanc
 Vial del Bec
 Carretera de l' Aldosa
 Landey Lar
+Bando Lar
 Sro Godar Lar
 Sro Gudar Lar
 Buto Gudar Lar
 Buto Godar Lar
 Sar Chilo Lar
+Sarcelo Lar Caravan Route
 Estación Empalme Magdalena
 Estacion Empalme Magdalena
 Estacion Empalme
 Estación Empalme
+Empalme Loberia
 Camino de La Costa
 Empalme La Barrancosa
+Ferrocarril Domingo Faustino Sarmiento
+Empalme Crucecita
 Empalme Canuelas
 Villa Canuelas
 Empalme Cañuelas
@@ -82,7 +86,6 @@ Empalme San Carlos
 Empalme Querandies
 Ruta Nacional Numero 7
 Ruta Panamericana Carretera Libertador General San Martin
-Tunel La Invernada Norte
 Carretera Juan de Garay
 Ferrocarril General Urquiza
 Ferrocarril General San Martin
@@ -106,6 +109,7 @@ El Viejo Expreso Patagonico
 Circular Quay
 Mandica Cesta
 Rue de Viane
+Rue d'Enfer
 Ferrocarril Uyuni
 Ferrocarriles del Estado
 Túnel Noel Rosa
@@ -113,6 +117,7 @@ Túnel do Joá
 Tunel Sao Conrado
 Túnel Alaor Prata
 Túnel Enaldo Cravo Peixoto
+Barrel Portage
 Gabriel Portage
 Traforo del Gran San Bernardo
 El Tunel Internacional de Caracoles
@@ -124,6 +129,7 @@ Tuel San Pedro
 Tunel las Raices
 Tunel de Palos Quemados
 Cruces Las Torres
+Tunel La Cabra
 Tunel de la Grupa
 Ferrocarril Empalme-Aguada-Las Carpas
 Tunel El Quillay
@@ -139,7 +145,6 @@ Lede Xian
 Yiminxincun Suidao
 Carretera Troncal de Occidente
 Oleoducto Submarino Sagoc
-Oleoducto Sagoc
 Oleoducto Rio Zulia-Santa Marta
 Ferrocarriles Nacionales de Colombia
 Ferrocarriles Nacionales de Colombia
@@ -149,9 +154,9 @@ Ferrocarril del Atlantico
 Ferrocarril del Atlantico
 Crucero La Union
 Crucero de Malta
-Túnel La Llana
 Túnel de La Llana
 Tunel de La Llana
+Tunel de Penalisa
 Boquerón
 Boqueron
 Cruce de Hacienda Vieja, Curridabat
@@ -190,10 +195,12 @@ Carreterra Duarte
 El Guerarib
 El Puente
 Ave Nueve de Octubre
+Darb el-Sultani
 El Roda
 Musallas el Roda
 El Roḍa
 Darb el-Sultan
+Darb el-Bitan
 Tunel de Pena
 Camí de la Moixella
 Camino de Santiago
@@ -219,42 +226,46 @@ Campos Eliseos
 Rue Danton
 Avenue Victor Hugo
 Gare de triage de Paris-Tolbiac
+Cambridge Circus
 Circus Place
 Cunard Place
-Digue Yiyi
-Camaloo Corner
 Avenue de La Liberte
 Rue Mesmer
 Rue de la Comedie
 Tel Aviv Promenade
+Megiddo Junction
 Bolvar-e Enqelab
 Bozorgrāh-e Modarres
 Khiaban-e Enqelab
+Bolvar-e Enqelab
+Bolvar-e Enqelab
+Bolvar-e Enqelab
 Khiaban-e Enqelab
 Bolvar-e Enqelab
-Bolvar-e Punak
-Bolvar-e Enqelab
-Bolvar-e Enqelab
-Bolvar-e Enqelab
 Khiaban-e Esteqlal
+Khiaban-e Enqelab
 Meydān-e Esteqlāl
 Meydan-e Esteqlal
+Khiaban-e Enqelab
 Khiaban-e Modarres
 Khiaban-e Modarres
+Bolvar-e Eqbal-e Lahuri
 Bolvar-e Enqelab
 Bolvar-e Enqelab-e Eslami
 Bolvar-e Enqelab
 Tunnel de Frejus
 Galleria del Frejus
+Valfragida
 Via San Gregorio Armeno
 Ndolos Corner
 Elgon Soy Road
 Elgon Central Road
 Central Molo Feeder Road
-Osh-Batken-Isfana Corridor
 haesanteoneol
 Ulica Sejfulina
 Tarîq es Soltani
+Mafraq Mihqane el Mazloum
+Mafraq Mihqâne el Mazloûm
 Rue Bchara el Khouri
 Chareaa el Anouar
 El Mhafir
@@ -263,19 +274,17 @@ Tariq el Baida
 Tariq el Mzar
 El Fkhit
 Duwa Road End - Comunicamos.EU
-Darb el-Mscauuta
 Mirad el-Menselem
-Tarq al Marj
 Ţarq al Marj
 Trigh el Majabra
 El-Mlaghi
-Masrab el Gedaria
 Másrab el Gedaría
 El Magta
+El Mágta
 El-Mugtáa
-Tunel Trebjesica
 Tunel Budos
 Presidential Way
+Avenida Apatlaco
 Tunel Bacacique Dos
 Tunel Bacacique Uno
 Ferrocarril Sur Pacifico
@@ -308,7 +317,7 @@ Villa el Salvador
 Adela Road
 Ābdarra Road
 Beadon Road
-Saba Avenue
+Rasūl Bux Palejo Road
 Camino del Diablo
 Camino del Faro
 El Rada Trail
@@ -329,18 +338,17 @@ Gaspar Rodriguez de Francia
 ESPLANADA
 Gara Muncel
 Ulitsa Esperanto
-Borgmastareporten
 Ruta de Las Flores
-El Kantara
+El Kanntra
 Rue de Jerba
 Rue de Djerba
+Guyin Sueidao
 Rende Jiaoliudao
-Xue Shan Suidao
-Minquan Suidao
+Toufen Jiaoliudao
+Dounan Jiaoliudao
 Caperton Ferry
 Lambs Ferry
 Nunez Ferry (historical)
-Pegues Ferry (historical)
 Resaca Ferry (historical)
 El Dorado Interchange
 Louisiana Avenue Ferry (historical)
@@ -348,24 +356,24 @@ Vidalia Ferry
 Camargo Ferry (historical)
 Buena Vista Ferry (historical)
 Cerro Gordo Ferry (historical)
-Cleeces Ferry
-Saltillo Ferry
 Sligos Ferry (historical)
+Arcola Ferry (historical)
+Canton Ferry
 Casco Bay Ferry
 Telos Tote Road
-Madison Gulf
 Canton Exit
 Merrimac Ferry
 Camino Del Diablo
+Canada del Oro Four
 Rio Rico Calabasas Interchange
 Sendero Esperanza Trail
 Ano Nuevo Trail
-Arroyo Seco Trail
 Eldridge Grade
 Electra Tunnel
 Glacier Pass
 Hacienda Tunnel
 Los Alamitos Circle
+Los Alamos Truck Trail
 Los Caballos Trail
 Pilarcitos Tunnel
 297 Valencia Interchange
@@ -376,13 +384,18 @@ Rechuelos Trail
 Rio en Medio Trail
 Rito Anastacio
 San Acacia-Polvadera Interchange
+San Ignacio Interchange
 Vallecitos Trail
 El Capitan Trail
+Laguna Meadows - Pinnacles Trail
 Jacobs Ladder
 Glacier Way
 Cascade Tunnel
+Duncan Canal Portage
 Glacier Valley Glade Area Ski Trail
 Aurora Ferry
+(Young) 18 de Julio Y Montevideo
+Avenida 18 de Julio
 Autopista Valencia Puerto Cabello
 Carretera Lara-Zulia
 Ferrocarril Guanta Naricual
@@ -396,3 +409,4 @@ Lo B
 Lo A
 Lo S
 Carrefour de Tsararano
+Sentrarand

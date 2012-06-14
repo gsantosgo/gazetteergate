@@ -23,22 +23,22 @@ import com.google.common.io.LineProcessor;
  * 
  * @author Guillermo Santos (gsantosgo@yahoo.es)
  */
-public class GeonamesAllCountriesLineProcessor implements LineProcessor<String> {
+public class GeonamesESLineProcessor implements LineProcessor<String> {
 	final static String NEW_LINE = System.getProperty("line.separator");
 	final static String EXTENSION = ".lst";
 
 	@SuppressWarnings("serial")
 	final static Map<String, String> filters = new HashMap<String, String>() {
 		{
-			put("A", "A_Country_State_Region");
-			put("H", "H_Stream_Lake");
-			put("L", "L_Parks_Area");
-			put("P", "P_City_Village");
-			put("R", "R_Road_RailRoad");
-			put("S", "S_Spot_Building_Farm");
-			put("T", "T_Mountain_Hill_Rock");
-			put("U", "U_Undersea");
-			put("V", "V_Forest_Heath");
+			put("A", "A_Country_State_Region_ES");
+			put("H", "H_Stream_Lake_ES");
+			put("L", "L_Parks_Area_ES");
+			put("P", "P_City_Village_ES");
+			put("R", "R_Road_RailRoad_ES");
+			put("S", "S_Spot_Building_Farm_ES");
+			put("T", "T_Mountain_Hill_Rock_ES");
+			put("U", "U_Undersea_ES");
+			put("V", "V_Forest_Heath_ES");
 		}
 	};
 
@@ -63,14 +63,9 @@ public class GeonamesAllCountriesLineProcessor implements LineProcessor<String> 
 	 * @param alternateNamesLanguage
 	 * @param language
 	 */
-	public GeonamesAllCountriesLineProcessor(String outputDirectoryNamePath,
-			Hashtable<String, String> stopWords,
-			Hashtable<Integer, String> alternateNamesLanguage, String language) {
+	public GeonamesESLineProcessor(String outputDirectoryNamePath) {
 		this.lineCount = 0;
 		this.outputDirectoryNamePath = outputDirectoryNamePath;
-		this.stopWords = stopWords;
-		this.alternateNamesLanguage = alternateNamesLanguage;
-		this.language = language;
 		initFiles();
 	}
 
@@ -130,79 +125,48 @@ public class GeonamesAllCountriesLineProcessor implements LineProcessor<String> 
 			String featureClass = columns[6];
 			String name = columns[2];
 			String alternateNames = columns[3];
-			String countryCode = columns[7];
 
-			// No Spain's Toponym 
-			if (!countryCode.equals("ES")) {
-				// Compile all names ====
-				List<String> names = new ArrayList<String>();
-				names.add(name);
-				// List of alternateNames
-				if (!Strings.isNullOrEmpty(alternateNames)) {
-					Iterable<String> alternateNameIterable = Splitter.on(',')
-							.trimResults().omitEmptyStrings()
-							.split(alternateNames);
-					Iterator<String> iterator = alternateNameIterable
-							.iterator();
-					while (iterator.hasNext()) {
-						names.add(iterator.next());
-					}
+			// Only Spain's Toponym
+
+			// Compile all names ====
+			List<String> names = new ArrayList<String>();
+			names.add(name);
+			// List of alternateNames
+			if (!Strings.isNullOrEmpty(alternateNames)) {
+				Iterable<String> alternateNameIterable = Splitter.on(',')
+						.trimResults().omitEmptyStrings().split(alternateNames);
+				Iterator<String> iterator = alternateNameIterable.iterator();
+				while (iterator.hasNext()) {
+					names.add(iterator.next());
 				}
+			}
 
-				// unique Names
-				List<String> uniqueNames = new ArrayList<String>(
-						new HashSet<String>(names));
-				String principalName = "";
-				List<String> principalAlternateNameList = new ArrayList<String>();
-				if (uniqueNames.size() > 0) {
-					if (alternateNamesLanguage.containsKey(geonameId)) {
-						principalName = alternateNamesLanguage.get(geonameId);
-						principalAlternateNameList.add(principalName);
-					}
+			// unique Names
+			List<String> uniqueNames = new ArrayList<String>(new HashSet<String>(names));
 
-					Collection<String> uniqueNamesColllection = Collections2
-							.filter(uniqueNames, new ShouldLanguagePredicate(
-									this.language));
 
-					for (String uniqueName : uniqueNamesColllection) {
-						if (!uniqueName.equals(principalName)) {
-							principalAlternateNameList.add(uniqueName);
-						}
-					}
-				}
+			lineCount++;
+			if ((lineCount % 1000) == 0)
+				System.out.println(". (" + line + ")");
 
-				lineCount++;
-				if ((lineCount % 1000) == 0)
-					System.out.println(". (" + line + ")");
-
-				if (featureClass.equals("A")) {
-					writelnStringList(principalAlternateNameList,
-							outputFiles[0]);
-				} else if (featureClass.equals("H")) {
-					writelnStringList(principalAlternateNameList,
-							outputFiles[1]);
-				} else if (featureClass.equals("L")) {
-					writelnStringList(principalAlternateNameList,
-							outputFiles[2]);
-				} else if (featureClass.equals("P")) {
-					writelnStringList(principalAlternateNameList,
-							outputFiles[3]);
-				} else if (featureClass.equals("R")) {
-					writelnStringList(principalAlternateNameList,
-							outputFiles[4]);
-				} else if (featureClass.equals("S")) {
-					writelnStringList(principalAlternateNameList,
-							outputFiles[5]);
-				} else if (featureClass.equals("T")) {
-					writelnStringList(principalAlternateNameList,
-							outputFiles[6]);
-				} else if (featureClass.equals("U")) {
-					writelnStringList(principalAlternateNameList,
-							outputFiles[7]);
-				} else if (featureClass.equals("V")) {
-					writelnStringList(principalAlternateNameList,
-							outputFiles[8]);
-				}
+			if (featureClass.equals("A")) {
+				writelnStringList(uniqueNames, outputFiles[0]);
+			} else if (featureClass.equals("H")) {
+				writelnStringList(uniqueNames, outputFiles[1]);
+			} else if (featureClass.equals("L")) {
+				writelnStringList(uniqueNames, outputFiles[2]);
+			} else if (featureClass.equals("P")) {
+				writelnStringList(uniqueNames, outputFiles[3]);
+			} else if (featureClass.equals("R")) {
+				writelnStringList(uniqueNames, outputFiles[4]);
+			} else if (featureClass.equals("S")) {
+				writelnStringList(uniqueNames, outputFiles[5]);
+			} else if (featureClass.equals("T")) {
+				writelnStringList(uniqueNames, outputFiles[6]);
+			} else if (featureClass.equals("U")) {
+				writelnStringList(uniqueNames, outputFiles[7]);
+			} else if (featureClass.equals("V")) {
+				writelnStringList(uniqueNames, outputFiles[8]);
 			}
 		}
 
@@ -222,14 +186,7 @@ public class GeonamesAllCountriesLineProcessor implements LineProcessor<String> 
 	public void writelnStringList(List<String> texts, File file)
 			throws IOException {
 		for (String text : texts) {
-			// 11.06.2012
-			// Si son stopword, no se incluyen
-			if (!this.stopWords.containsKey(text.toLowerCase())) {
-				writelnString(text, file);
-			} else {
-
-				System.out.println("Stopword:" + text);
-			}
+			writelnString(text, file);
 		}
 	}
 

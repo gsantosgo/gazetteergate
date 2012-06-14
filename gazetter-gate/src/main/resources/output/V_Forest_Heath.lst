@@ -17,7 +17,7 @@ Bosc del Sigarro
 Aspres de la Serrera
 Bosc de la Senyoreta
 Bosc de la Salvata
-Bosc del Sabater
+Bosc del Rodol
 Bosc del Roc Gros
 Bosc de la Roca
 Bosc del Riambert
@@ -45,7 +45,6 @@ Bosc de Pedres Blanques
 Bosc del Pas de la Clau
 Bosc de l' Obaga de Gali
 Bosc de l' Obac de Salla
-Bosc del Mulassar
 Bosc de la Mollera
 Bosc del Menadis
 Bosc de la Mata
@@ -54,6 +53,7 @@ Bosc de la Mandurana
 Bosc dels Llacs
 Bosc de la Juberrussa
 Bosc del Jou
+Bosc de l' Hostal del Poll
 Bosc de la Gonarda
 Bosc de la Gargallosa
 Bosc de la Font del Pi
@@ -63,6 +63,7 @@ Bosc de la Font del Gripal
 Bosc de la Font del Bisbe
 Bosc de la Fita
 Bosc de la Finestra
+Bosc de les Fenemores
 Bosc del Felegrill
 Bosc dels Estanyons
 Bosc de l' Estall Serrer
@@ -79,11 +80,13 @@ Bosc de la Corruga
 Bosc de Comes Becoses
 Bosc de la Coma dels Llops
 Bosc de Coll Pa
+Bosc de Collart
 Bosc de la Collada
 Bosc de la Colija
 Aspres de la Cebollera
 Bosc de la Caulla
 Bosc de la Cauba
+Bosc de la Castelleta
 Bosc del Carpider
 Bosc de la Canya
 Bosc de la Canal Llisa
@@ -91,23 +94,20 @@ Bosc del Campea
 Bosc del Camp de la Finestra
 Bosc de la Cabeca
 Boigues de Borro
+Bosc del Bornal
 Bosc de la Borda del Rauquet
 Boiga del Bony
 Boiga del Bony
 Bosc de la Boixera
 Bosc de Boiga Plana
 Bosc de la Beixellosa
-Bosc del Becet
 Bosc de la Bartra
-Bosc del Barrer d'Areny
 Bosc de l' Assalador
 Bosc de l' Assalador
 Bosc de l' Assalador
 Bosc Gran de l' Any de la Part
 Bosc dels Amorriadors
-Bosc de l' Airola
 Bosc d' Aigues Juntes
-Al Barqā’
 Cacande
 Balacoco
 Quena
@@ -118,11 +118,13 @@ Ngueve
 Londa
 Calucanda
 Camutombuena
+Monte Yaguarete Cua
 Monte de San Isidro
+Monte de los Portugueses
 Monte Ojeda Cue
 Monte Mojon
-Monte Mburucuya
 Monte del Indio Muerto
+Monte Ibira-zaca
 Monte Ibirá Sacá
 Monte Ibirá-zaca
 Monte Ibira Saca
@@ -137,10 +139,10 @@ Monte del Toro
 Montes de Quebracho Colorado
 Monte del Chancho
 Monte Caseros
+Monte Carmelo
 Monte de las Barrancas
 Monte de la Avispa Colorada
 Monte del Aguila
-Bosque De Los Constituyentes
 Bubreg
 Luporicin Val
 Bois de la Viree Madame
@@ -152,10 +154,10 @@ Grande Huqueny
 Bois del Core
 Cloese Bos
 Bois de la Cambre
+Bois de la Bruyere
 Monte El Lavadero
 Pampa Vilacollo
 Pampa de Tagua
-Pampa de Leguesana
 Pampa de Lequesena
 Pampas de Lequesapa
 Diableza Pampa
@@ -178,9 +180,12 @@ Mallin de los Carallos
 Vegas Blancas
 Isla Orrego
 Bosque valdiviano
+Reserve Forestiere de Zamay
+Reserve Forestiere de Mayo Louti
 Gibbon Experience
 Sabanas de Yucuana
 Sabana de Tuquerres
+Sabanas de Tres Matas
 Sabanas del Totumo
 Sabanas del Totumo
 Sabanas del Toro
@@ -206,7 +211,6 @@ Sabana del Limbo
 Sabana de La Vieja
 Sabana La Vieja
 Sabana de la Vieja
-Sabanas Las Clavelinas
 Sabana La Forzosa
 Sabana del Jobal
 Sabanas de Horizonte
@@ -218,7 +222,6 @@ Sabana El Clarito
 Sabanas del Despacho
 Sabana la Derrota
 Sabanas de Corinto
-Sabana de Sisivito
 Sabana de Cicibito
 Sabanas de Chaparral
 Sabanas de Cascajal
@@ -227,6 +230,7 @@ Sabanas de Camuara
 Sabanas de Camuara
 Sabanas de Campoalegre
 Sabanas de Buenos Aires
+Sabanas de la Balsa
 Sabanas de La Aurora
 Sabanas de Araguato
 Sabanas de las Angosturas
@@ -236,7 +240,6 @@ Sabanas de Aguaclara
 Sabanas de Aguaclara
 Sabanas de Acapulco
 Sabana Los Coclises
-Sabanas de Barlin
 Sabanas Los Entierros
 Sabana Rincon de Lagunas
 Sabanas Rincon de Las Dantas
@@ -286,7 +289,6 @@ Sabana de La Busaca
 Sabanas de Tres Matas
 Sabanas Los Placeres
 Sabana de La Vieja
-Sabanas Comunales
 Sabanas de Corocito
 Sabanas de Marrero
 Sabanas La Perra
@@ -302,7 +304,6 @@ Selva del Manacacias
 Parque Nacional Natural El Tuparro
 Sabana de los Yamales
 Sabana de los Yanales
-Sabanas de Tibisial
 Sabana de Palo Seco
 Sabanas Nuevas
 Sabanas Nuevas
@@ -320,15 +321,17 @@ Pinales de Jutinico
 Pinales de Jutinicú
 Sabana de los Joberos
 Sabanas de Corojo
+Sabana de Ciego Banao
 Sabana de Cazones
 Sabanas de Cazones
 Sabana Cayo Joca de la Beata
 Sabanas del Campamento
 Sabanas de Ajicon
+Xerovounos Forest B
 Ayios Yeoryios Forest
 Apostolos Andreas Forest
+Ayios Seryios Forest
 Platino Platsa Forest
-Ayios Pandeleimon Forest
 Salach
 Parrig
 Nadel
@@ -338,19 +341,20 @@ Espan Wald
 Espan
 Els
 Eleonorenwald
-Edelburg
 Barras
 Madou
 Darradarra
+Vilsbol Plantage
+Sevel Plantage
 Ojeso Plantage
-Hjortaenaes
-Fosdal Plantage
+Fano Plantage
 Estvadgard Plantage
 Sabana de la Vuelta
 Sabana del Valle
 Sabana de la Vaca
 Sabana de Tosa y Brujuelas
 Sabana de Tolentino
+Sabana de Tiguasen
 Sabana Tierra Colorada
 Tierra Colorada
 Sabana de La Teta
@@ -361,7 +365,6 @@ Sabana del Silencio
 Sabana de Santiago
 Sabana de San Francisco
 Sabana Rincón
-Sabana Pincón
 Sabana Rincon
 Sabana de Los Ranchos
 Sabana de los Ranchos
@@ -395,13 +398,13 @@ Sabana de Lajas
 Sabana La Barranca
 Sabana de la Araña
 Sabana La Araña
-Subida La Arana
 Subida La Araña
 Sabana de la Arana
 Sabana Juan de Lino
 Sabana Juan de Limo
 Sabana del Jobo
 Sabana Icacos Blancos
+Sabana Hoyo la Cotarra
 Sabana Hoyo La Cotorra
 Sabana de Hato de Cabra
 Sabana del Hato
@@ -412,7 +415,6 @@ Sabana de Genaro
 Sabana del Estado
 Sabana del Botado
 Sabana Esperon
-Sabana El Guarapo
 Sabana de Guarapo
 Sabana de El Estudio
 Sabana del Estudio
@@ -431,13 +433,12 @@ Sabana de Barranca
 Sabana de Baron
 Sabana de Altamira
 Sabana del Algodon
-Foret de Ras el Youdi
-Foret de la Mahouna
+Foret des Oulad Ali
+Foret de Lasahas
 Rhaba Hadjar es Sîh
 Rhaba Grine el Foula
-Foret Domaniale d' El Kala
+Foret Domaniale d' El Asnam
 El Merdja
-Marguab el Ayane
 El Haouia
 El Djdir
 Ardh el Guentour
@@ -450,18 +451,14 @@ El Mandjou
 El Argoub
 El Merdja
 Haci el Frid
-Feid el Atach
+Haouch el Oulia
 El Arabat
-El Hariga
 El Djedri
 El Ouadjel
 Maṭbaq el-Ṣûfân
 Matbaq el-Sufan
-El-Midauwara
 El-Mustagidda
 El Tamathil el Bid
-El-Wâṭîya
-El Watya
 El Waṭya
 El-Maqbara
 La Mesa
@@ -489,25 +486,23 @@ Habert Valombre
 Bois de Valambrey
 Foret de Valdo-Niello
 Foret Domaniale de la Tremblade
-Foret de Quenecan
-Bois de Perticajo
+Bois Roblot
 Bois de las Mounjos
 Bois de la Mejarie
+Bois de Malaunay
 Bois de la Madeleine
 Bois de la Madeleine
-Foret de Luccio
 La Huniere
 Foret de La Ferte-Vidame
+Bois de Cuy
 Bois de las Coronas
 Clos-Vougeot
 Bois de Campillos
 Forêt de Calenzana
-Bois de la Bruyere
 Parc des Dryades
 Balmacaan Forest
 Pembrey Forest
 Savanes de Pariacabo
-Savane de Counamama
 Mata Umpacaca
 Mata de Cataba
 Gusta Meda
@@ -515,22 +510,17 @@ Vidacevac
 Gyor-erdo
 Bela-erdo
 Tarala Forest
-Bela Forest
 Estalu
 Estalū
 Naden-e Bala
 Mardestan
 Yengī Esperan
-`Eyn os Sadat
 Barri
+Garm
 Ardesar
-Gidarreh
 `Aliabad-e Pa'in
 la t
-Mey Valū
-Hrífunesheði
 El Qassam el Gharbi
-El Huleila
 El ‘Ārda
 El `Arda
 El ‘Abhara
@@ -541,19 +531,18 @@ Zaqouq el Mifdi
 Zâqoûq el Mifdi
 Sehâm el Aïn
 Ard es Saouda
+Sahm el Biader
 Sahl el Qarramé
 Sahl el Qarrame
 Qsar el Mir
 Qabr el Badaoui
 El Maouchi
-Maqial en Njâssa
 Horch el Manzalé
-Horch el Malqa
 Ard el Mellâha
 Kroûm el Laouz
-Hqoûl el Biyâd
 Haqel es Sîri
 Haqel es Siri
+Haql el Khandaq
 Haql el Halal
 Haql el Halâl
 Haql el Badaouîyé
@@ -565,10 +554,11 @@ Baidar el Haoura
 Baïdar el Haoura
 Ez Zrabe el Qobliye
 Et Tarqa el Faouqa
-Es Soueidiye
 Es Soûs
+Es Sous
 Es Smaïrîyé
 Es Slaïaa
+Es Saouîri
 Es Saouda
 Es Saouda
 As Saqy
@@ -582,7 +572,6 @@ Es Safra
 Es Safra
 Es Saade
 Arz el Blad
-Arz el Barouk
 En Rami
 En Nqaïri
 El Yarzé
@@ -605,20 +594,17 @@ El Maaïsra
 El Mazbar
 El Mehfara
 El Midane
-El Masnaa
-El Mechâraa
-El Mecharaa
 El Massara
 El Massarra
 El Martini
 El Marjé
+El Marje
 El Mqécher
 El Majdoûb
 El Majdoub
 El Mahfara
 El Mhariq
 El Maghâssel
-El Mghâyer
 El Lejane
 El Lejâne
 El Kroum
@@ -635,11 +621,11 @@ El Khouaibe
 El Khodr
 El Kharab
 El Kharâb
+El Khalle
 Al Jarrar
 Ej Jdide
 El Hraïchi
 El Hedoud
-Al Ḩudūd
 El Hédoûd
 El Hmariet
 El Haouch
@@ -651,7 +637,6 @@ El Hanafîye
 El Hanafé
 El Hamrâ
 El Hamra
-El Ghzaïyel
 El Ghouaibe
 El Ghouaïbé
 El Ghaïdar
@@ -660,6 +645,7 @@ El Ghaïda
 El Faida
 El Ghaida
 El Gharbîyé
+El Rharbi
 El Ghabat
 El Ftah
 El Ftâh
@@ -677,6 +663,7 @@ El Barqrouq
 El Baranes
 El Balouaa
 El Bâloûaa
+El Baal
 El Bahloûlîyé
 El Baghlé
 El Bedqa
@@ -685,18 +672,18 @@ El Aardi
 El Aaradi
 El Aarâdi
 El Aardi
-El Aarâqîb
+El Aaraqib
 El Aaradi
 El Aardi
 El Hedaf
 El Hedâf
+Ard el Aajlani
 Horch el Aabri
 Haql el Mansab
 El Derraniyat
 En Nouqar
 El Ghouaibe
 El Ghabe
-El Baal
 El Hair
 El Marj
 El Khandaq
@@ -704,10 +691,10 @@ El Biadar
 El Marj
 El Haouta
 Faouq el Ain
+El aaoueini
 El Kharroube
 El Aasfoura
 El Ouata
-El Mghariq
 El Hamamir
 El Ghouata
 El Fane
@@ -715,17 +702,18 @@ El Marj
 El Kroum
 El Hamar
 El Marj
+El Bât
 El Bār
 El Bar
 El Bat
+El Maqlaa
 El Ksra
 El Hamrat
-Boustane el Bayad
 El Horch
+El Boustane
 El Lamaa
 El Haouarat
 El Himi
-Ras el Waar
 El Khalle
 Ard es Sabbane
 El Horch
@@ -735,7 +723,6 @@ El Ouata
 El Khasfe
 El Maqtane
 El Hanouch
-El Hmairi
 El Matarih
 El Mrouj
 El Bass
@@ -745,21 +732,20 @@ El Baidar
 El Blata
 El Mall
 El Kroum
-Jrane el Baqbouq
 El Gharb
 El Hamra
 El Mrouj
 El Masroud
-El Aamair
-El Meouchi
 Es Saifi
 Es Saouad
 El Houat
 Es Sidr
 El Gharb
 El Qateaa
+El Ghmaiqa
 El Aouad
 El Aouad
+El Hossie
 El Aaqbe
 El Marj
 El Khandaq
@@ -773,17 +759,18 @@ El Bahouat
 El Qanater
 El Mtaoui
 El Mjarr
-El Hsain
 El Mdaoura
 El Kaf
 El Mouaqed
 Es Sanad
 El Malloul
+El Aasaide
 Jouar el Aarab
 Haql el Fai
 El Maqatem
 El Ghabe
 El Qacha
+El Kroum
 El Kroum
 El Aarid
 Haql Mostafa
@@ -793,10 +780,7 @@ El Mislane
 El Aaoude
 El Hiara
 El Ouata
-El Hariqa
 El Marj
-El Mqassat
-Jall el Qana
 Ouadi es Sbar
 Borj el Qoble
 El Mrasrass
@@ -804,10 +788,12 @@ El Bouaidra
 Es Sana
 El Ouaar
 El Marj
+El Aaouja
 El Fendqaya
 El Meqsassi
 El Baqs
 El Ghareq
+El Minchiye
 El Maqalea
 El Bahje
 Es Saouda
@@ -815,6 +801,7 @@ El Ouastat
 El Marje
 Es Salalem
 El Ghodrane
+Mantaqat el Aaob
 El Bsatine
 El Msatih
 Souq el Establ
@@ -830,19 +817,24 @@ Haql el Mehfara
 El Fkhit
 El Msil
 El Homsi
+El Mchammar
 El Hallal
 El Qarie
 Es Saouane
+El Mghariq
 El Ghouabi
 El Hemi
 El Ouata
-Souede
+El Ghadir
+Marj el Aalaq
 El Horch
-Haql el Qobbe
 El Ghouaibe
+Es Soulloum
 El Bir
 Es Sous
 El Boustane
+El Mantiqa ez Ziraiye
+El Fakhoura
 El Qarqouf
 El Horch
 El Marrane
@@ -852,7 +844,6 @@ El Kroum
 El Kroum
 El Aardane
 El Qobrissiye
-El Barraniyat
 El Himi
 El Qasbi
 El Ksar
@@ -867,20 +858,16 @@ Baidar el Melk
 Es Saqi
 El Mantara
 El Khasfat
-El Mtaifha
 El Ghouabi
 El Malzaq
-El Mouassi
 El Mostah
 Ain el Rihane
 El Aarbe
 El Haqle
-El Hariqa
 El Ghabe
 El Hiarat
-Haql el Farah
-El Hafafi
 El Ghabe
+El Khalle
 Ain el Qotn
 El Hiarat
 El Biader
@@ -893,14 +880,12 @@ El Ftouh
 El Maramed
 El Biara
 El Manqabe
-Rbaa Faouq el Haouch
 El Qerram
 El Hmai
 El Maqbara
 El Aaouj
 El Mdaouara
 El Qeraaouni
-El Mlaqqah
 El Qatouaa
 Borj el Ain
 El Hemi
@@ -920,23 +905,20 @@ En Naqbe
 El Hariqa
 En Naqbe
 El Baidar
+El Mghariq
 El Ksar
 El Aaouaj
-El Kroum
-El Maasra
 El Bir
 Ard el Msalib
-Haql el Aabd
-El Kroum
 Ed Deqrane
 El Fotm
 El Qacha
 Maqial el Qold
 Haql el Ain
 El Horch
-El Baale
 El Ouati
 El Qorne
+El Maouche
 El Ghilane
 El Qasser
 Haql el Baida
@@ -948,8 +930,7 @@ El Hameri
 El Harayeq
 El Aarid
 El Bsatine
-El Massiade
-El Kharabne
+Mrad Enchanqara
 El Hamra
 El Boustane
 Ard el Bouabe
@@ -966,18 +947,18 @@ El Kroum
 El Msil
 El Malzaq
 El Maghari
-Jilal el Michti
 Erradi
 El Marj
+El Qataai
 El Borj
 El Qabouat
 El Bellane
 El Aazaqi
 Jouar el Aamoud
-El Baal
+El Mqaiteaa
+Es Sadriye
 El Hbaichiye
 El Aarmouta
-El Aazzaqi
 El Kroum
 Es Souanat
 El Ouata
@@ -993,8 +974,9 @@ El Mellah
 El Ftaira
 En Nqari
 El Aarbi
-El Blatat
+Horch el Aqtam
 El Marje
+El Kroum
 El Hariqa
 Zaroub el Ain
 El Bqaiaa
@@ -1007,6 +989,7 @@ El Aaouainat
 El Mtoll
 El Hamra
 El Marrouj
+El Kroum
 El Aarbi
 El Mijar
 El Manchra
@@ -1015,7 +998,7 @@ El Fouar
 El Aallouch
 Ard el Ghabe
 El Fraidis
-Saint Isadore's
+Madugasgodella
 Eluapola
 Nurmenes Mezs
 Nicgales Mezs
@@ -1030,10 +1013,10 @@ El-Galáa
 El-Magàl
 El-Magal
 Got el-Mgarín
-El-Mlezz
 Got Gióua
 Carmùs el Bàar
 Carmus el Baar
+Carmusét el-Huādeğ
 Carmuset el-Huadeg
 Guet el-Fágar
 Got el-Beiada
@@ -1041,6 +1024,7 @@ Es-Seniúra esc-Scerghia
 Got el-Arca
 El-Auelia
 El Megzaha
+El Mégzaha
 Gsur esc-Sciaír
 Gaba el Araich
 Gaba el Araïch
@@ -1059,7 +1043,7 @@ El Melga
 Seminario San Jose
 Planicie do Impamputo
 Planicie Gamende
-Guezaoua
+Laniyondo Forest
 Edese Bos
 Brestbos
 Baronie Cranendonck
@@ -1070,7 +1054,8 @@ Ginalas Forest
 Lucero Forest
 Sinacdoran Forest
 Lala Musa Protected Forest
-Ilaqa Nambla Forest
+Bela Forest
+Lusarwala Forest
 Haidarabad Forest
 Sargala Forest
 Sosal Forest
@@ -1084,12 +1069,12 @@ Bosque Estatal de Guajataca
 Bosque Estatal de Guanica
 Bosque Estatal de Guilarte
 Bosque Estatal de Pinones
+Bosque Estatal de Rio Abajo
 El Yunque National Forest
 El Qarāwa el Fauqa
 El Muraba‘a
 El Muraba`a
-El `Asharin
-Pinhal de El-Rei
+El Ḥawāsh
 Mata Nacional do Urso
 Mata de Pindela
 Mata de Lavos
@@ -1109,11 +1094,11 @@ Yerbales del Pira-Piuta
 Yerbales del Pirá-Piutá
 Yerbales del Pirapytá
 Yerbales del Pirapytay
-Yerbales del Payaguary
 Yerbales del Itabo
 Yerbal Cerrito
 Yerbal Carrillo
 Montes de Capiibary
+Yerbal Canguerú
 Montes Añaretá
 Montes Anareta
 Monte Añaretá
@@ -1125,11 +1110,9 @@ ocna mures
 ocna-mures
 Les Pridorozhnyj
 Les Pridorozhnyy
-Les Pridorozhnyj
 Les Pridorozhnyy
 Les Molodoj
 Les Sidorov
-Les Afanas'yev
 Gicaca
 Taras el Qteab
 Es S‘mer
@@ -1146,14 +1129,17 @@ Mactaa el Hajar
 Ard el Mabroûd
 Arḑ al Mabrūd
 Ard el Mabroud
+Ard el Beïda
+Ard el Beida
+El Zoratt
 El Zahoura
 El Mactaa
-El Malek
 El Beïda
 El Beida
 El Bâqilli
 El Baqilli
 El Amir
+El Mrîte
 El Mrite
 Ard el Ajoun
 Ard el Majdel
@@ -1163,16 +1149,13 @@ Jubiya Forest
 Bugondo Hill
 Escambia National Experimental Forest
 Elmgrove
-Eno Pines
 Barre Municipal Forest
 Barre Municipal Forest
-Fair Haven Municipal Forest
 Lyndon Municipal Forest
 Montpelier Municipal Forest
 Proctor Village Municipal Forest
 Proctor Village Municipal Forest
 Vergennes Municipal Forest
-Sierra Ancha Experimental Forest
 Buena Vista Grove
 Los Padres National Forest
 El Palo Alto
@@ -1181,7 +1164,6 @@ San Joaquin Experimental Range
 El Bosque
 Espanola Ranger District
 Cascade Head Experimental Forest
-Mauna Loa Forest Reserve
 Vinedo de los Vientos
 Sabana El Rincon
 Sabana de Piedra
@@ -1190,6 +1172,7 @@ Sabana de Chapure
 Sabana Los Boches
 Sabanas de Soropo
 Sabanas de San Rafael
+Sabanas de San Pablo
 Sabanas de San Miguel
 Sabanas de Las Ramirenas
 Sabanas del Polvo
@@ -1227,10 +1210,10 @@ Selva de San Camilo
 Sabana de Quererepa
 Sabana de Quereparo
 Sabana de Perucho
-Sabana de Paparo
 Montanas del Palmar
 Sabana de Murucuti
 Sabana de Mumuche
+Mata del Muerto
 Mata de Morrocoy
 Sabana de Morillo
 Montanas de Monterralo
@@ -1280,7 +1263,6 @@ Montanas de Anaro
 Sabanas Los Blancos
 Sabanas del Caiman
 Montana de Santa Agueda
-Sabanas El Caiman
 Sabanas de La Miel
 Sabanas Gallardero
 Sabanas de San Rafael
@@ -1300,6 +1282,7 @@ Sabana del Potrero
 Sabana de Santa Rita
 Sabanas del Leon
 Sabanas Los Morrocoyes
+Sabanas de La Agonia
 Sabanas de Cariben
 Sabanas de Carutal
 Sabana del Porvenir
@@ -1311,7 +1294,6 @@ Sabanas de Nuevo
 Sabana de Higuito
 Sabanas del Blanco
 Sabanas de Boqueron
-Sabanas El Canito
 Sabanas El Cangrejo
 Sabanas del Caruto
 Sabanas de Chucuto
@@ -1328,7 +1310,6 @@ Sabana de Torrealbero
 Sabanas El Isleno
 Sabanas Las Micaela
 Sabanas El Rosario
-Sabanas La Villa
 Sabana de Mumuche
 Sabana de Piedra
 Sabanasdel Rodeo
@@ -1338,7 +1319,6 @@ Sabana de Escoba
 Sabanas de Llano Largo
 Potrero El Aljibe
 Sabanas del Cura
-Sabana Potrera
 Sabanas El Vegon
 Sabana de Campeche
 Sabanas de Venturini
@@ -1386,13 +1366,10 @@ Sabanas Monoseros
 Sabanas de Morichito
 Sabanas de Morrocoy
 Sabanas Nacionales
-Sabanas de Palambra
 Sabanas de Pastora
 Sabanas de Pinero
-Sabana del Porvenir
 Sabanas Las Pradena
 Sabanas del Progreso
-Sabanas de Punta Brava
 Sabanas Queseras del Medio
 Sabanas de San Antonio
 Sabanas de San Antonio
@@ -1403,6 +1380,8 @@ Sabanas de San Pablo
 Sabanas de San Pedro
 Sabanas de Santa Elena
 Sabanas de Santa Fe
+Sabanas de Santa Luisa
+Sabanas de Suripa
 Sabanas del Temblador
 Sabanas de Temblor
 Sabanas de La Victoria
