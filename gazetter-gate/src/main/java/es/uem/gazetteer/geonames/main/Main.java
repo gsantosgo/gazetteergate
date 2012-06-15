@@ -34,10 +34,18 @@ public class Main {
 	 * @param args
 	 */
 	public static void main(String[] args) throws LangDetectException {
+		
+		// ================================
+		// Ficheros de entrada 
+		// --------------------------------
+		//String inputFileNamePath = "/home/gsantos/geonames/data/allCountries.txt";
+		String inputFileNamePath = "C:\\geonames\\allCountries.txt";		
+		//String inputFileNameAlternatePath = "/home/gsantos/geonames/data/alternateNames.txt";		
+		String inputFileNameAlternatePath = "C:\\geonames\\alternateNames.txt";
+
+		
 		String langProfilesDirectoryName = "src/main/resources/profiles"; 
 		String inputFileNameStopWordPath = "src/main/resources/stop/Spanish_es.lst";
-		String inputFileNamePath = "/home/gsantos/geonames/data/allCountries.txt";
-		String inputFileNameAlternatePath = "/home/gsantos/geonames/data/alternateNames.txt";
 		String outputDirectoryNamePath = "src/main/resources/output";
 				
 		File langProfilesDirectory = new File(langProfilesDirectoryName);		

@@ -130,9 +130,12 @@ public class GeonamesAllCountriesLineProcessor implements LineProcessor<String> 
 			String featureClass = columns[6];
 			String name = columns[2];
 			String alternateNames = columns[3];
-			String countryCode = columns[7];
+			String countryCode = columns[8];
 
+			// ========================================================
+			// 15.06.2010 
 			// No Spain's Toponym 
+			// --------------------------------------------------------
 			if (!countryCode.equals("ES")) {
 				// Compile all names ====
 				List<String> names = new ArrayList<String>();

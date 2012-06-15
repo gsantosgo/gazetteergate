@@ -31,16 +31,18 @@ public class MainES {
 	 * @param args
 	 */
 	public static void main(String[] args) throws LangDetectException {
-		String langProfilesDirectoryName = "src/main/resources/profiles"; 
-		String inputFileNamePath = "/home/gsantos/geonames/data/ES.txt";
+		
+		//String inputFileNamePath = "/home/gsantos/geonames/data/ES.txt";		
+		String inputFileNamePath = "c:\\geonames\\ES.txt";		 		
 		String outputDirectoryNamePath = "src/main/resources/output";
-				
+
+		/*String langProfilesDirectoryName = "src/main/resources/profiles";		
 		File langProfilesDirectory = new File(langProfilesDirectoryName);		
 		// Load language profiles  
 		DetectorFactory.loadProfile(langProfilesDirectory);
 		if (!DetectorFactory.getLangList().isEmpty()) {
 			System.out.println("Loaded languages list : " + DetectorFactory.getLangList().size());
-		} 
+		}*/ 
 													
 		Preconditions.checkNotNull(inputFileNamePath, "Input filename allCountries.text (Geonames) should NOT be NULL");
 		Preconditions.checkNotNull(outputDirectoryNamePath, "Output directory should NOT be NULL.");

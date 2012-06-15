@@ -9,13 +9,14 @@ Provincia de Valencia
 ヴァレンシア
 vu~arenshia
 Valência
+València
 Valencia
 Valdepenas
 Province de Tolède
 Province of Toledo
 toredo
-Province de Tolede
 Provincia de Toledo
+Province de Tolede
 Toledo
 Provinz Toledo
 トレド
@@ -503,7 +504,6 @@ Kanariaj Insuloj
 கேனரி தீவுகள்
 Kanariske Oer
 Kanaresch Inselen
-Comunidad Autónoma Canaria
 Kanariak
 Canárias
 Ìsole Canarie
@@ -586,7 +586,6 @@ Kanarioj
 Kanariøyane
 Канары сакъадæхтæ
 جزایر قناری
-Comunidad Autonoma Canaria
 kanari dvipamulu
 Kapuloan Canary
 Isoe Canaïe
@@ -865,6 +864,7 @@ Región de Madrid
 Autonome Gemeinschaft Madrid
 Autonome Region Madrid
 Communaute de Madrid
+Madrid
 コムニダ・デ・マドリッド
 Comunidad Autónoma de Madrid
 Communauté de Madrid
@@ -907,7 +907,9 @@ Partido Judicial de Lalin
 Provincia de La Coruña
 Provincia da Coruna
 Província d'A Coruña
+A Coruña
 La Coruña
+A Coruna
 Provincia d'A Coruna
 La Coruna
 Provincia de La Coruna
@@ -1030,13 +1032,15 @@ Alfoz
 Província d'Àlaba
 araba
 Provincia d'Alaba
-Araba
-Alava
+Araba / Alava
 Provincia de Álava
-Provincia de Alava
 アラバ
 Álava
 Alaba
+Araba / Álava
+Araba
+Alava
+Provincia de Alava
 Abanto y Ciervana
 Abanto y Ciérvana
 Abanto Zierbena
@@ -1051,26 +1055,26 @@ Errioxa
 La Rioja
 Logrono
 Comunidad Autonoma de La Rioja
-la Montana de Castilla
+La Montana
 Kantabria
 カンタブリア
 Provincia de Santander
 Kantabrien
 kantaburia
+La Montana de Castilla
 Cantàbria
 Kantabrija
-la Montaña de Castilla
 Автономная область Кантабрия
 Kantabrio
-la Montana
+La Montaña de Castilla
 Cantabrie
 Avtonomnaja oblast' Kantabrija
 Кантабрия
 Cantabria
 Comunidad Autonoma de Cantabria
+La Montaña
 Santander
 Comunidad Autónoma de Cantabria
-la Montaña
 Арагон
 Автономная область Арагон
 Aragonien
@@ -1196,6 +1200,7 @@ Castile-Leon
 Kastili aemae Leon
 Principat de Catalunya
 Catalogne
+Comunidad Autonoma de Cataluna
 カタロニア
 Catalonha
 Catalunya
@@ -1207,6 +1212,7 @@ Katalonien
 كاتالونيا
 jia tai luo ni ya
 el Principat
+Comunidad Autónoma de Cataluña
 kataronia
 katalwnya
 Katalunio
@@ -1221,9 +1227,11 @@ A Galiza
 Galice
 Galícia
 Galicija
+Comunidad Autonoma de Galicia
 Galicia
 Галиция
 garishia
+Comunidad Autónoma de Galicia
 Galiza
 ガリシア
 Comunidade Autónoma de Galicia
@@ -1291,16 +1299,17 @@ La Rioxa
 Provincia de La Rioja
 Província de La Rioja
 A Rioxa
+madoriddo
+Provincia de Madrid
+Madrid
+Provinz Madrid
 Province of Madrid
 Província de Madrid
 Madril
 マドリッド
-madoriddo
-Provincia de Madrid
 マドリード/マドリ−ド/マドリ－ド
 Province de Madrid
-Madrid
-Provinz Madrid
+madorido/madori−do/madori-do
 Provincia de Murcia
 Província de Múrcia
 Provinz Murcia
@@ -1312,13 +1321,14 @@ Murcia
 Múrcia
 Murtzia
 Province de Murcie
-Provinz Navarra
 Navarra
 Province of Navarre
-Província de Navarra
 Nabarra
-Provincia de Navarra
+Navarre
 Nafarroa
+Provinz Navarra
+Província de Navarra
+Provincia de Navarra
 ナバーラ
 nabara
 Province de Navarre
@@ -2553,6 +2563,26 @@ Brazacorta
 Briviesca
 Bugedo
 Buniel
+bur kos
+부르고스
+ブルゴス
+Бурґос
+Burgus
+Burgi
+Burgoso
+buleugoseu
+برغش
+บูร์โกส
+burugosu
+布尔戈斯
+bu er ge si
+برگوس
+Бургос
+bwrgws
+Burgosas
+brgws
+بورگوس
+brghsh
 Burgos
 Busto de Bureba
 Cabanes de Esgueva
@@ -3106,7 +3136,52 @@ Benaocaz
 Bornos
 Bosque (El)
 El Bosque
+กาดิซ
+Càdice
+Gaðes
+Kadisas
+کادس
+kadydh
+Gorad Kadys
+加的斯
+Kadizo
+kads
+Càdici
+kadisu
+Cai
+ካዲዝ
+Горад Кадыс
+Кадіс
+Кадиз
+Kantith
+کادیس
+kadisa
+qdys
+カディス
+jia de si
 Cadiz
+Cadix
+qads
+Gades
+Cadis
+카디스
+كاديذ
+Κάντιθ
+Kadyks
+kadi s
+კადისი
+Кадис
+Cadice
+Kadis
+kadiseu
+Kadiz
+قادس
+קדיס
+Cádis
+काडिस
+Kadisa
+Cadici
+kadys
 Castellar de la Frontera
 Conil de la Frontera
 Chiclana de la Frontera
@@ -4816,7 +4891,10 @@ Castrillo de la Valduerna
 Castrocalbon
 Castrocontrigo
 Castropodame
+Kastrot'erra-de-Val'madrigal'
 Castrotierra de Valmadrigal
+Кастротьєрра-де-Вальмадрігаль
+Кастротьерра-де-Вальмадригаль
 Cebanico
 Cebrones del Rio
 Cimanes de la Vega
@@ -6093,7 +6171,7 @@ Manzaneda
 Maside
 Melon
 Merca (A)
-Mezquita (A)
+A Mezquita
 Montederramo
 Monterrei
 Muinos
@@ -8575,7 +8653,49 @@ Valdestillas
 Valdunquillo
 Valoria la Buena
 Valverde de Campos
+والادولید
+Вальядолид
+Valdoletum
+والاڈولڈ
+fayadwlydh
+Valladolís
+바야돌리드
+Val'jadolid
+Vayadolid
+Valadolido
+waladwlyd
+ואיאדוליד
+Valhadolid
+Горад Вальядалід
+Gorad Val'jadalid
+فايادوليذ
+Valladolíd
+ba ya do lid
+Валядолид
+vayadolida
+Valjadolidas
+Valadolid
+Lungsod ng Valladolid
+Valjadolid
+Vagiadolid
+baryadoriddo
+Βαγιαδολίδ
+Valjadolida
+Valladolis
+Vaładołì
+ვალიადოლიდი
+ba li ya duo li de
+Valladolit
+bayadollideu
+Вальядолід
+巴利亚多利德
+Valadoli
+वायादोलिद
+バリャドリッド
+บายาโดลิด
+valiadolidi
 Valladolid
+Ваљадолид
 Vega de Ruiponce
 Vega de Valdetronco
 Velascalvaro
@@ -8637,6 +8757,36 @@ Bermio
 Berriatua
 Berriz
 Bilbao
+Gorad Bil'baa
+Більбао
+bilbao
+Бильбао
+bilba'o
+บิลบาโอ
+Горад Більбаа
+blbaw
+Բիլբաո
+Bilbaw
+Μπιλμπάο
+Bilbau
+بلباو
+빌바오
+ビルバオ
+birubao
+बिल्बाओ
+bil ba xo
+Bilbaum
+Bilbo / Bilbao
+בילבאו
+bi er ba e
+毕尔巴鄂
+Bil'bao
+بیلبائو
+Bilbo
+ბილბაო
+bylbayw
+Билбао
+Bilmpao
 Artea
 Zeanuri
 Zeberio
@@ -9271,8 +9421,10 @@ Salduba
 Zuera
 Biel
 Marracos
+Ciudad Autonoma de Melilla
 Melilla
 Melil'ja
+Ciudad Autónoma de Melilla
 Мелилья
 Les
 San Pedro
@@ -9290,15 +9442,17 @@ Valles
 San Salvador
 Abanto
 Province des Îles Baléares
+Balearic Islands
 Balearane
 barearesu
-Provincia de Islas Baleares
+Baleares
 Las Baleares
 Ilhas Baleares
 Província de les Illes Balears
 Provincia de les Illes Balears
 Province of Balearic Islands
 Balearen Inseln
+Provincia de las Islas Baleares
 Balearene
 Islas Baleares
 Province des Iles Baleares

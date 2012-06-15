@@ -251,6 +251,7 @@ Estación de Córcoles
 Apartadero de Córcoles
 Iglesia Corazon de Maria
 Iglesia de la Concepcion
+Iglesia de la Concepción
 Estacion de Chillon
 Estacion de Chilches
 Estación de Cazella
@@ -529,7 +530,11 @@ Principe Pio
 Pinzales
 Estacion de Pinar Grande
 Muelle de Pedrena
-Aeropuerto del Parayas
+LEXJ
+Aeropuerto de Parayas
+Aeropuerto de Santander
+Santander Airport
+SDR
 Parayas Airport
 Estacion de Palacios de Goda
 Estacion del Oural
@@ -703,10 +708,12 @@ Atarazanas de Barcelona
 Drassanes Reials
 Reales Atarazanas de Barcelona
 Atarazanas
-Estacio de Franca
-Estación de Francia
-Estació de França
-Estacion de Francia
+Barcelona Franca Railway Station
+Barcelona estacio de Franca
+Barcelona estación de Francia
+Barcelona estacion de Francia
+YJD
+Barcelona estació de França
 Parlamento de Cataluna
 Parlamento de Cataluña
 Palau del Parlament de Catalunya
@@ -782,6 +789,7 @@ Castillo de San Fernando
 Cementerio Municipal de Sant Vicent del Raspeig
 LEAL
 Aeropuerto Internacional de Alicante - El Altet
+Alicante Airport
 ALC
 Estacion de la Marina (Trenet)
 Hospital Universitario de Sant Joan
@@ -1011,12 +1019,12 @@ Cordoba / Aeropuerto
 ODB
 LEBA
 Aeropuerto de Sondica
-Bilbao / Sondica
 BIO
 Bilboko aireportua
 LEBB
 Aeropuerto de Bilbao
 Aeropuerto de Loiu
+Bilbao Airport
 Burgos / Villafria
 LEBG
 RGS
@@ -1029,6 +1037,8 @@ LECH
 A Coruña Airport
 A Coruña / Alvedro
 LCG
+Aeropuerto de A Coruna
+Aeropuerto de A Coruña
 A Coruna Airport
 LECO
 A Coruna / Alvedro
@@ -1052,6 +1062,7 @@ Ibiza / Es Codola
 IBZ
 Ibiza Airport
 LEIB
+Aeropuerto de Jerez
 LEJR
 Jerez Airport
 XRY
@@ -1087,7 +1098,6 @@ Luchthaven Malaga
 Aeroporto di Malaga
 Luchthaven Málaga
 Port lotniczy Malaga
-Malaga airport
 Port lotniczy Málaga
 マラガ空港
 Malaga Airport
@@ -1139,10 +1149,11 @@ SLM
 Salamanca / Matacan
 Salamanca Airport
 Donostiako aireportua
+San Sebastian Airport
+San Sebastián Airport
 LESO
 EAS
 Aeropuerto de San Sebastián
-San Sebastian / Fuenterrabia
 Aeropuerto de San Sebastian
 Aeropuerto de Fuenterrabía
 Aeropuerto de Fuenterrabia
@@ -1152,8 +1163,9 @@ Santiago de Compostela Airport
 LEST
 Aeropuerto de Santiago de Compostela
 VLC
+Valencia Airport
+Aeropuerto de Valencia
 LEVC
-Valencia / Aeropuerto
 Valladolid / Villanubla
 LEVD
 VLL
@@ -1168,13 +1180,10 @@ VIT
 Foronda
 Aeropuerto de Vitoria-Gasteiz
 Aeropuerto de Foronda
+Aeropuerto de Vigo
 VGO
-Vigo / Peinador
 LEVX
-Santander / Parayas
-LEXJ
-Santander Airport
-SDR
+Vigo-Peinador Airport
 Zaragoza United States Air Force Operated Base In Foreign Country
 LEZA
 LEZL
@@ -1336,7 +1345,51 @@ Cathedral
 Chamartin Train Station Madrid
 Estación de Chamartín Madrid
 Estacion de Chamartin Madrid
+Музей Прадо
+Bao tang Prado
+Музей Прада
+プラド美術館
+mwzh dl pradw
+Прадо
+Museu del Prado
+พิพิธภัณฑ์ปราโด
+Musee du Prado
+Prado-Muzeo
+Muzej Prado
+pu la duo bo wu guan
+Музеј Прадо
+mthf dyl bradw
+purado mei shu guan
+Museu do Prado
+Musée du Prado
+Pradoko Museoa
+Pradomuseet
+Museo do Prado
+phiphith phanth pra do
+متحف ديل برادو
+Μουσείο ντελ Πράδο
+Prado-muzeo
+Musèu del Prado
+Mouseio ntel Prado
+프라도 미술관
+Prado muzeyi
+普拉多博物馆
+Prado Müzesi
+Amgueddfa'r Prado
+პრადო
+Muzeul Prado
 Museo del Prado
+Museum Prado
+מוזיאון הפראדו
+Prado Muezesi
+Prado
+Bảo tàng Prado
+موزه دل پرادو
+mwzyw dyl pradw
+موزيو ديل پرادو
+peulado misulgwan
+Muzej Prada
+Պրադո թանգարան
 Museum Reina Sofia
 Reina Sofia Museum
 Museum Reina Sofía
@@ -1358,7 +1411,8 @@ Museo Marítimo Ría de Bilbao
 Museo Maritimo Ria de Bilbao
 Maritim Museum Ria de Bilbao
 Bilboko Itsasadarra Itsas Museoa
-Abando Train Station
+Abando Railway Station
+YJI
 Cathedral
 Cathedral
 MNAC, National Museum of Art or Catalunya
@@ -4270,7 +4324,7 @@ Magic Villa de Benidorm
 Petit Palace Londres
 Hotel Flor Parks
 Petit Palace Santa Cruz
-Barcelo Hotel Avenida
+Holiday Inn Bilbao
 Hotel Teix
 Hotel e Apartamentos As Galeras
 CLUB MAC  (All Inclusive) Hotel Jupiter/Saturno/Marte
@@ -5337,7 +5391,7 @@ Bel Air Platinum Townhouses
 Club Hotel Portinatx
 Hotel 1898
 Aparthotel HG Jardin de Menorca
-Catalonia Centro
+Catalonia Goya
 AC A CORUNA Hotel
 RH PRINCESA Hotel
 Aparthotel Los Geranios Suite
@@ -6313,7 +6367,6 @@ AC MADRID FERIA Hotel
 SERCOTEL BERGA PARK HOTEL
 SERCOTEL HOTEL PUERTA DE GREDOS
 HOTEL ES MOLI
-HOTEL MAS TAPIOLAS
 PRADO REAL Hotel
 OLYMPIC PARK
 VIVA GOLF APARTHOTEL
@@ -9889,3 +9942,21 @@ Santa Comba de Bande
 Ermita de Betlem
 Ermita de Belén
 Ermita de Belen
+Caste
+CDT
+A Coruna Railway Station
+YJC
+Logrono
+RJL
+RMU
+Corvera
+Calle del Deposito, 4
+San Lorenzo
+Reformas Decorman
+San Esteban
+Ermita Sant Elm
+Teatre Auditori Municipal
+Monestir
+Estacio d'autobusos
+Villa-mausoleo de Centcelles
+El Malagon

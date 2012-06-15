@@ -1,4 +1,3 @@
-Hero Fracture Zone
 Brategg, Banco
 Belgica Guyot
 Explora Knoll
@@ -23,19 +22,17 @@ Gutiérrez, Bajo
 Gutierrez, Bajo
 Harpun, Rocas
 Arpón
-Arpon, rocas
-Rocas
 Karlsen, roca
 Leda, Recif
 Maipo, Bajo
 Maldifassi, Bajo
 Airacobra Rock
 Ambrose Rock
-Banc Perroquet
 Barracuda Rock
 Barrel Rock
 Barrel Rock
 Barrel Rock
+Bruyantes Rock
 Camosun Rock
 Caye a la Tete de Cheval
 Cerantes Rocks
@@ -43,6 +40,7 @@ Chapel Bar
 Costellos Rock
 Eldad Ledge
 Elias Ledge
+Elias Shoal
 Enoch Place
 Escalante Rocks
 Escape Reefs
@@ -51,10 +49,8 @@ Fond des Lazare
 Gabriola Reefs
 Girl Guide Gully
 La Barque
+La Plante Sunker
 Laura Grace Rock
-Les Recifs
-Madagascar Rock
-Mad Mol
 Mad Moll
 Mad Moll
 Mad Moll
@@ -69,8 +65,10 @@ Recif de la Pointe a la Boucane
 Recif Lodestone
 Recif Pirqutinnguaq
 Recifs Asuqaap
+Recifs Barrier
 Recifs de l'Est
 Recifs Elizabeth
+Rencontre Rock
 Rescue Rock
 Sambro Ledges
 Samuel Rock
@@ -78,12 +76,9 @@ Samuel Shoal
 Seuil a Elizabeth
 Squid Rock
 Tenedos Rock
-Tide Rock
 Tobico Rock
-Trinidad Rock
 Guanacaste Province
 Poza Santa Lucia
-Isla del Descubridor
 Santa Rosa Reef
 Parece Vela Basin
 Canal de la Jamaïque
@@ -106,10 +101,9 @@ Providence Reef
 Error Guyot
 Coco-de-Mer Seamounts
 Franc Victorija Trench
-Central Basin
 Caucasus Escarpment
 Canik Escarpment
-Cordillera de Colon
+Küre Escarpment
 Cordillera de Colón
 Banc de la Zelee
 Banco de Sao Lazaro
@@ -123,20 +117,22 @@ Montepuez Canyon
 Mascarenes Basin
 Macalde Canyon
 Lena Tablemount
+Fernao Veloso Canyon
 Elcano Rise
 Conducia Canyon
 Central Terrace
+Cargados Carajos Bank
+Cargados Carajos Shoals
 Nicobar-Simuelue Basin
 Cocos Plain
 Laccadive-Chagos Ridge
 Chagos-Laccadive Ridge
 Chagos-Laccadive Plateau
-Socotra-Chagos Ridge
 Barren-Nicobar Ridge
+Andaman-Nicobar Ridge
 Anderman-Nicobar Ridge
 Nicobar Fan
 Vema Fracture Zone
-Banc Poydenot
 Rodrigues Ridge
 Rodriguez Ridge
 Rodrigues Fracture Zone (historical)
@@ -145,7 +141,6 @@ Argo Fracture Zone
 Aubert de la Rue Seamounts
 Parece Vela Basin
 Tosa Terrace
-Soenda Plat
 Ecueil Pigmy
 Recifs London
 Recif Ladd
@@ -156,6 +151,7 @@ Central Reef
 Barracuda Reef
 Barque Canada
 Hsien-o Chiao
+Furo Seamount
 Kinan Escarpment
 Eyre Terrace
 Esperance Canyon
@@ -167,13 +163,16 @@ Wallaby-Cuvier Escarpment
 Guadelupe Seamount
 Castor Guyot
 Trinidad Seamount
+Allen Guyot
 Futaba Seamount
 Pallada Guyot
 Kaede Escarpment
 Nazuna Seamount
 Suzuna Seamount
+Rude Canyon
 Hydro Cone
 Erimo Seamount
+Taupo Tablemount
 Tasmantide Volcanoes
 Recorder Guyot
 Puysegur Trench
@@ -206,30 +205,30 @@ Malta Escarpment
 Sicily-Malta Escarpment
 Habibas Escarpment
 Guelta Canyon
-Concepcion Bank
 Benidorm Canyon
 Azores-Gibraltar Ridge
 Banc de l' Ampere
 Banc de l'Alidade
 Alicante Canyon
 Bacino Algerino
+Algero-Provencal Basin
 Valencia Basin
 Calabrian Rise
 Carbonara Valley
-Del Toro Canyon
 Sulcis Escarpment
 El Haouria Bank
 Medina Escarpment
 Ferradura Plain
 Cordero Canyon
 Trevelyan Escarpment
-Torrelavega Canyon
 Torreblanca Canyon
+Santa Lucia Bank
 Canyo de Marta
 Pendragon Escarpment
 Canyo d'Orpesa
 Lena Trench
 Cachucho
+El Cachucho
 Lastres Canyon
 La Coruña Canyon
 Jovellanos Seamount
@@ -243,7 +242,8 @@ Canyon de la Fonera
 Corsica Terrace
 Circeo Terrace
 Cantabria Seamount
-Caesar Seamount
+Cantabria Knoll
+Rec del Cap de Creus
 Canyo del Cap de Creus
 Peníscola Canyon
 Peniscola Canyon
@@ -254,15 +254,16 @@ Alcala de Chivert Canyon
 Ebro Escarpment
 Escarpament de l'Ebre
 Ajaccio Canyon
-Castelsardo Canyon
+Barcelona Canyon
 Felibres Hills
 La Renaixenca Hills
 Maures Escarpment
 Nurra Escarpment
 Provencal Escarpment
+Valinco Canyon
+Monte Submarino Auriga
 Sela de Bérrio
 Sela de Berrio
-Berrio Saddle
 Monte Submarino Fernandes Lopes
 Galicia Escarpment
 Hugo de Lacerda Seamount
@@ -274,12 +275,13 @@ Islas Orcadas Fracture Zone
 Cardno Guyot
 Anton Leonov Hill
 Vema Fracture Zone
+Sao Paulo Fracture Zone
 Gora Plato
 Pico Fracture Zone
 Montes Submarinos de Pernambuco
 Montes de Pernambuco
 Plato do Recife
-Paraíba Seamounts
+Pernambuco Plateau
 Marcala Seamount
 Colorado Seamount
 Ceara Terrace
@@ -300,17 +302,18 @@ Labrador Sea Basin
 Labrador Basin
 Bancos de Terranova
 Eriador Seamount
+Banquereau
 Faraday Fracture Zone
 Labrador Shelf
 Santos Plateau
 Rio de la Plata Canyon
 Montague Bank
-Gora Montegju
 Banco Montague
 Mar del Plata Canyon
 Islas Orcadas Rise
 Canal Hunter
 Gora Grel'
+Zona de Fratura Malvinas
 Malvinas Fracture Zone
 Malvinas Escarpment
 Argentina Nogu
@@ -318,7 +321,6 @@ Guevara Seamounts
 Yucatan Escarpment
 Banco Volcán
 Veracruz Tongue
-Venezuela Basin
 Hoya de Venezuela
 Vaca Basin
 Golfe de la Providence
@@ -341,9 +343,7 @@ Placer de la Paz
 Panama Fracture Zone
 Nuevo Reef
 Cayo Nuevo
-Bajo Nuevo
 Banco Nuevo
-Ninos Valley
 Navidad Tablemount
 Muertos Trench
 Mexican Acapulco Trench
@@ -360,9 +360,12 @@ La Desirade Escarpment
 Jaguey Escarpment
 Banco Xagua
 Gran Banco de Jagua
+Banco de Jagua
 Bancos Ingleses
+Inca Fracture Zone
 Banco Hancock
 Guacamayo Seamount
+Grenada Plain
 Galapagos Fracture Zone
 Florida Canyon
 Ecuador Fracture Zone
@@ -379,6 +382,7 @@ Cariaco Trench
 Campeche Escarpment
 Banco de Campeche
 Banco Campeche
+Cameron Basin
 Beata Escarpment
 Prominencia de Aves
 Alamo Mound
@@ -396,26 +400,25 @@ Roncador Valley
 Soplador Spur
 Turmeque Knoll
 Turmeque Reef
+Fundian Valley
 Banco Sars
 Sala Y Gomes Ridge
 Sala Y Gómes Ridge
 Sala y Gomez Ridge
 Quirós Fracture Zone
+Arica Trench
 Atacama Trench
-Atacama Graben
-Mocha Fracture Zone
 Mendana Fracture Zone
-Dana Fracture Zone
 Chilien Allas
 Villalobos Seamount
+Tres Marias Basin
 Tamayo Fracture Zone
 Soquel Canyon
-Santo Tomas Knoll
 Santa Rosa-Cortez Ridge
+Santa Rosa-Cortes Ridge
 Santa Monica Canyon
 Santa Lucia Valley
 Santa Lucia Escarpment
-Santa Lucia Bank
 San Salvador Knoll
 San Pedro Sea Valley
 San Pedro Valley
@@ -423,17 +426,18 @@ San Pedro Escarpment
 San Pedro Sea Scarp
 San Nicolas Basin
 San Miguel Gap
+San Gabriel Canyon
 San Clemente Escarpment
 Salsipuedes Basin
+Sal Si Puedes Trench
 Rodriguez Dome
-Rodrigues Seamount
 Rodriguez Seamount
-Redondo Submerged Valley
-Redondo Canyon
 Quebrada Fracture Zone
+Pioneer Escarpment
 Petacalco Canyon
 Pescadero Canyon
 Orozco Fracture Zone
+Navarro Canyon
 Murray Escarpment
 Mendoza Seamount
 Mendosa Seamount
@@ -442,9 +446,7 @@ Mendocino Escarpment
 Marquesas Fracture Zone
 Marquesa Fracture Zone
 Magdalena Escarpment
-Lucia Canyon
 Lasuen Seamount
-Ignacio Canyon
 Guide Seamount
 Guadalupe Arrugado
 Fuerte Canyon
@@ -454,7 +456,6 @@ Espinosa Seamount
 Descartes Seamount
 Coronado Escarpment
 Coronado Canyon
-Cerralvo Seamount
 Cedros Trench
 Cedros Escarpment
 Cedros Sea Scarp
@@ -465,16 +466,14 @@ Arguello Plateau
 Arguello Terrace
 Arguello Deep-Sea Fan
 Arguello Canyon
-Ano Nuevo Canyon
-Plato Al'batros
 Lazaro Cardenas Canyon
 Vacquier Seamount
 Gora Junion
+Cascadia Seamount
 Sovanco Fracture Zone
 Oregon Escarpment
 Mendocino Canyon
 Punta Gorda Submerged Valley
-Loudoun Canyon
 Juan de Fuca Rise
 Juan de Fuca Ridge
 Juan de Fuca Fracture Zone
@@ -483,9 +482,11 @@ Juan de Fuca Canyon
 Heceta Escarpment
 Guide Submarine Canyon
 Guide Canyon
+Explorer Median Valley
 Esperanza Canyon
 Esperanza Submarine Canyon
 Escanaba Ridge
+Cascadia Plain
 Blanco Saddle
 Blanco Gap
 Blanco Fracture Zone
@@ -501,9 +502,11 @@ Pensacola Seamount
 Mendocino Fracture Zone
 Huddel Seamount
 Horizon Guyot
+Solide Seamount
 Arago Reef
 Sedna Fracture Zone
 Sargo Plateau
+Pamplona Ridge
 Aja Fracture Zone
 Ravin des Kermadec
 Valerie Guyot
@@ -513,10 +516,8 @@ Rodriguez Fracture Zone
 Atacama Trench
 Atacama Graben
 Gora Kol'co
-Socotra Rock
 Cana de Nazarre
 Banco Brategg
-Hupo-doe
 Usan Escarpment
 Central Basin
 Alamo Mound

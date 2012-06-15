@@ -3,10 +3,8 @@ package es.uem.gazetteer.geonames.lineprocessor;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Hashtable;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
@@ -14,7 +12,6 @@ import java.util.Map;
 import com.google.common.base.Charsets;
 import com.google.common.base.Splitter;
 import com.google.common.base.Strings;
-import com.google.common.collect.Collections2;
 import com.google.common.io.Files;
 import com.google.common.io.LineProcessor;
 
@@ -50,9 +47,6 @@ public class GeonamesESLineProcessor implements LineProcessor<String> {
 	public final String SEPARATOR = "\t";
 	private int lineCount = 0;
 	private String outputDirectoryNamePath = null;
-	private Hashtable<String, String> stopWords = null;
-	private Hashtable<Integer, String> alternateNamesLanguage = null;
-	private String language = null;
 	private File[] outputFiles = new File[fileNames.length];
 
 	/**
@@ -86,7 +80,7 @@ public class GeonamesESLineProcessor implements LineProcessor<String> {
 
 	/*
 	 * =============================================== Information file Geonames
-	 * allCountries.txt Format UTF-8
+	 * ES.txt Format UTF-8
 	 * 
 	 * Columns
 	 * 
@@ -120,7 +114,6 @@ public class GeonamesESLineProcessor implements LineProcessor<String> {
 		if (!Strings.isNullOrEmpty(line)) {
 			String[] columns = line.split(SEPARATOR);
 
-			//
 			Integer geonameId = Integer.parseInt(columns[0]);
 			String featureClass = columns[6];
 			String name = columns[2];
